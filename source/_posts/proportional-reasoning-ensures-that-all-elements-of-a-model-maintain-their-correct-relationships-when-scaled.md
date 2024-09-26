@@ -1,7 +1,7 @@
 ---
 title: Proportional Reasoning Ensures that All Elements of a Model Maintain Their Correct Relationships when Scaled.
-date: 2024-09-15T22:29:31.278Z
-updated: 2024-09-19T19:19:16.293Z
+date: 2024-09-21T20:29:07.882Z
+updated: 2024-09-25T20:53:09.909Z
 tags:
   - product
 categories:
@@ -19,7 +19,21 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Loading...
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sharing is caring!
 
@@ -38,16 +52,17 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-mov-editing-and-recording-tutorial-for-windows-11-users-for-2024/"><u>[New] Efficient MOV Editing and Recording Tutorial for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-grab-free-video-profile-backgrounds/"><u>[Updated] Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-samsungs-android-debug-bridge-adb-driver-today/"><u>Download Samsung's Android Debug Bridge (ADB) Driver Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/get-liked-faster-on-tinder-clever-bio-tricks-that-work/"><u>Get Liked Faster on Tinder Clever Bio Tricks That Work</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-batch-convert-your-ppt-presentations-into-digital-flipbooks-with-ease-discover-flipbuilders-powerful-feature/"><u>How to Batch Convert Your PPT Presentations Into Digital Flipbooks with Ease - Discover FlipBuilder's Powerful Feature</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-create-an-engaging-flipbook-ebook-with-images-by-using-txt-files-on-flipbuildercom/"><u>How to Create an Engaging Flipbook EBook with Images by Using TXT Files on FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-resolve-issues-with-the-download-feature-at-flipbuildercom/"><u>How to Resolve Issues with the Download Feature at FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/incorporating-your-brands-logo-into-a-flipbook-background-with-ease/"><u>Incorporating Your Brand's Logo Into a FlipBook Background with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-computer-crashes-in-the-middle-of-a-game-fixes-for-windows-users/"><u>Why Your Computer Crashes in the Middle of a Game - Fixes for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/wsappx-performance-issues-effectively-reducing-high-disk-and-cpu-usage/"><u>WSAPPX Performance Issues: Effectively Reducing High Disk and CPU Usage</u></a></li>
+</ul></div>
 

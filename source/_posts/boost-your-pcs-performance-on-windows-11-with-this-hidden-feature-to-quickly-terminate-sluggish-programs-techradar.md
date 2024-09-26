@@ -1,7 +1,7 @@
 ---
 title: Boost Your PC's Performance on Windows 11 with This Hidden Feature to Quickly Terminate Sluggish Programs | TechRadar
-date: 2024-09-17T23:46:26.419Z
-updated: 2024-09-20T05:38:50.645Z
+date: 2024-09-19T18:38:26.256Z
+updated: 2024-09-25T21:22:44.077Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -39,6 +46,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -47,13 +61,6 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -73,13 +80,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -92,16 +92,16 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -115,6 +115,19 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -152,3 +165,25 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] 2024 Approved Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-studio-techniques-decoded-xvideostudio-edition/"><u>[Updated] 2024 Approved Studio Techniques Decoded XVideoStudio Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[Updated] In 2024, The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-cinematic-dying-in-pro/"><u>[Updated] The Art of Cinematic Dying in Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-potential-of-screen-sharing-on-google-meet/"><u>[Updated] Unlocking the Potential of Screen Sharing on Google Meet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-gear-360-vs-lgcam-determining-best-in-3d-capture/"><u>2024 Approved Gear 360 vs LGCam Determining Best in 3D Capture</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/elevate-your-web-project-with-aspnets-best-admindashboard-solutions-by-creative-tim/"><u>Elevate Your Web Project with ASP.NET's Best Admin/Dashboard Solutions by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhanced-administrator-interface-flowbites-professional-dashboard-with-modern-tailwind-and-creative-tim-design/"><u>Enhanced Administrator Interface: Flowbite's Professional Dashboard with Modern Tailwind & Creative Tim Design</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exclusive-premium-django-designs-and-templates-by-creative-tim-elevate-your-web-project/"><u>Exclusive Premium Django Designs & Templates by Creative Tim: Elevate Your Web Project</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/explore-10plus-elegant-vue-material-ui-template-collections-by-creative-tim/"><u>Explore 10+ Elegant Vue Material UI Template Collections by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/free-black-dashboard-bootsstrap-4-admin-design-inspired-by-creative-tim/"><u>Free Black Dashboard Bootsstrap 4 Admin Design | Inspired by Creative Tim</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-x-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone X Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>In 2024, Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/innovative-bootstrap-powered-data-grid-feature-a-homage-to-creative-tims-original-concept/"><u>Innovative Bootstrap-Powered Data Grid Feature, a Homage to Creative Tim's Original Concept</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras-for-2024/"><u>Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: Microsoft's Security-Focused Copilot Hits General Release on April 1, Says ZDNET"
-date: 2024-09-17T23:57:50.843Z
-updated: 2024-09-20T00:01:16.416Z
+date: 2024-09-20T19:08:07.450Z
+updated: 2024-09-25T22:55:07.067Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-hacks.techidaily.com/1726792604735-m-0/"><u> [M = 0 </u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>[New] In 2024, The Best of the Best Android's Top 8 Group Chatters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] In 2024, Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>2024 Approved A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-video-content-transcriber/"><u>2024 Approved Video Content Transcriber</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/answer-you-would-need-to-use-6-cups-of-flour-to-keep-the-ratio-of-flour-to-sugar-at-21/"><u>Answer: You Would Need to Use 6 Cups of Flour to Keep the Ratio of Flour to Sugar at 2:1.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphone-contacts-app-top-three-solutions-for-common-issues/"><u>Fix Your iPhone Contacts App: Top Three Solutions for Common Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>In 2024, Unclutter Your Layout Expertly Remove Backgrounds in Figma</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pursuing-your-vision-learn-professional-filmmaking-on-youtube-for-2024/"><u>Pursuing Your Vision Learn Professional Filmmaking on YouTube for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/upcoming-fees-microsoft-announces-pricing-plan-for-windows-10-updates-from-2024-insights-on-cost/"><u>Upcoming Fees: Microsoft Announces Pricing Plan for Windows 10 Updates From 2024 | Insights on Cost</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/upgrading-your-windows-home-edition-to-pro-benefits-and-tutorials-techadvisor/"><u>Upgrading Your Windows Home Edition to Pro: Benefits and Tutorials | TechAdvisor</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-10-update-cost-microsoft-announces-paid-service-beginning-learn-the-prices/"><u>Windows 10 Update Cost: Microsoft Announces Paid Service Beginning - Learn the Prices!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-11-to-get-a-price-tag-discover-microsofts-new-policy-on-charging-for-future-updates-from-next-year-zdnets-breakdown-of-costs/"><u>Windows 11 to Get a Price Tag: Discover Microsoft’s New Policy on Charging for Future Updates From Next Year - ZDNet's Breakdown of Costs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/world-words-within-the-web-of-english-language/"><u>World Words Within the Web of English Language</u></a></li>
+</ul></div>
+

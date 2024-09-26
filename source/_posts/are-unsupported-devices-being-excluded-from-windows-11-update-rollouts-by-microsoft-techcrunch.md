@@ -1,7 +1,7 @@
 ---
 title: Are Unsupported Devices Being Excluded From Windows 11 Update Rollouts by Microsoft? | TechCrunch
-date: 2024-09-17T17:38:36.352Z
-updated: 2024-09-20T05:05:47.997Z
+date: 2024-09-20T21:36:02.395Z
+updated: 2024-09-25T20:53:48.342Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dissecting-youtubes-operational-model-post-upload/"><u>[New] 2024 Approved Dissecting YouTube's Operational Model Post-Upload</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-masterclass-converting-twitter-vids-to-eye-catching-engaging-gifs/"><u>[New] Masterclass Converting Twitter Vids to Eye-Catching, Engaging GIFs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-shift-to-macos-11-big-sur/"><u>[New] Mastering the Shift to macOS 11 Big Sur</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery/"><u>[Updated] 2024 Approved Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-video-capture-using-screencastify-app-for-2024/"><u>[Updated] Effortless Video Capture Using Screencastify App for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/anticipating-the-future-knowing-when-microsoft-plans-to-phase-out-windows-and-office-versions/"><u>Anticipating the Future: Knowing When Microsoft Plans to Phase Out Windows and Office Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-cambiar-facilmente-tu-musica-con-el-convertidor-mp3-a-ogg-gratuitamente-en-la-web-de-movavi/"><u>Cómo Cambiar Fácilmente Tu Música Con El Convertidor MP3 a Ogg Gratuitamente en La Web De Movavi</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/controversial-microsoft-feature-sparks-discussion-leaving-key-privacy-queries-unresolved-insights-from-zdnet/"><u>Controversial Microsoft Feature Sparks Discussion, Leaving Key Privacy Queries Unresolved | Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/gardyn-smart-indoor-gardening-kit-30-review-the-ultimate-guide-for-a-thriving-home-harvest/"><u>Gardyn Smart Indoor Gardening Kit 3.0 Review: The Ultimate Guide for a Thriving Home Harvest</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-y28-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y28 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-freshwater-frontiers-prime-camers-for-fishing-enthusiasts/"><u>In 2024, Freshwater Frontiers Prime Camers for Fishing Enthusiasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-likes-and-video-powerhouse-get-noticed-and-grow-your-instagram-fast/"><u>In 2024, Insta Likes & Video Powerhouse Get Noticed & Grow Your Instagram [Fast!]</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/in-depth-analysis-of-the-ultra-customizable-mavix-m9-gaming-chair-an-honest-verdict-for-gamers/"><u>In-Depth Analysis of the Ultra-Customizable Mavix M9 Gaming Chair: An Honest Verdict for Gamers!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsoft-mutes-pleas-for-windows-11-lifeline-extension-dreams-dashed-in-stealth-mode-digital-sentinel-insights/"><u>Microsoft Mutes Pleas for Windows 11 Lifeline Extension - Dreams Dashed in Stealth Mode | Digital Sentinel Insights</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/preserve-your-data-while-refreshing-windows-11-a-step-by-step-guide/"><u>Preserve Your Data While Refreshing Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-rated-ergonomic-standing-chair-and-stability-stool-options-expert-reviews-by-zdnet/"><u>Top-Rated Ergonomic Standing Chair & Stability Stool Options : Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/upgrading-against-all-rules-how-some-users-managed-to-run-windows-11-on-unsupported-hardware-zdnet/"><u>Upgrading Against All Rules: How Some Users Managed to Run Windows 11 on Unsupported Hardware | ZDNet</u></a></li>
+</ul></div>
+

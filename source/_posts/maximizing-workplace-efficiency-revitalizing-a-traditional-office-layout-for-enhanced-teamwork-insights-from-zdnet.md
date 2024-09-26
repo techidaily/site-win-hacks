@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Workplace Efficiency: Revitalizing a Traditional Office Layout for Enhanced Teamwork - Insights From ZDNet"
-date: 2024-09-14T04:01:21.756Z
-updated: 2024-09-19T22:43:38.233Z
+date: 2024-09-22T19:50:21.747Z
+updated: 2024-09-26T00:39:11.948Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,21 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +193,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simply-screen-recording-apowersofts-cost-free-software-review/"><u>[New] In 2024, Simply Screen Recording Apowersoft's Cost-Free Software Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-keeping-up-with-aspect-ratios-for-twitter-content-for-2024/"><u>[New] Keeping Up with Aspect Ratios for Twitter Content for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>[New] Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/advanced-pc-insights-for-enthusiasts-a-journey-with-toms-hardware/"><u>Advanced PC Insights for Enthusiasts: A Journey with Tom's Hardware</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ai-demonstration-by-microsoft-embracing-the-loneliness-with-intelligent-technology-insights-from-zdnet/"><u>AI Demonstration by Microsoft: Embracing the Loneliness with Intelligent Technology - Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/are-unsupported-devices-being-excluded-from-windows-11-update-rollouts-by-microsoft-techcrunch/"><u>Are Unsupported Devices Being Excluded From Windows 11 Update Rollouts by Microsoft? | TechCrunch</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-analysis-on-2024s-market-leaders-how-apple-dell-and-competitors-stack-up-reviewed-by-zdnet/"><u>Expert Analysis on 2024'S Market Leaders: How Apple, Dell, and Competitors Stack Up | Reviewed by ZDNET</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/explore-whats-new-with-windows-11-fresh-innovations-and-updates-unveiled-digital-trends/"><u>Explore What's New with Windows 11: Fresh Innovations and Updates Unveiled | Digital Trends</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-realme-narzo-60-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Realme Narzo 60 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>In 2024, The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-your-potential-youtube-thumbnail-creation-on-macos/"><u>In 2024, Unlock Your Potential YouTube Thumbnail Creation on macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligent-dialogues-ai-showdown-between-gpt-and-bard/"><u>Intelligent Dialogues: AI Showdown Between GPT and Bard</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsofts-surface-range-outshines-with-ai-powered-computers-sparking-concerns-over-apples-future/"><u>Microsoft's Surface Range Outshines with AI-Powered Computers, Sparking Concerns Over Apple's Future</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/system-coming-back-after-years-dive-into-the-details-on-zdnet/"><u>System, Coming Back After Years: Dive Into the Details on ZDNet!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-choice-mom-appreciation-card-selections-ideal-for-mothers-day/"><u>Top Choice Mom Appreciation Card Selections - Ideal for Mother's Day</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/update-privacy-policy-and-terms-of-useback-buttonfilter-button/"><u>Update: Privacy Policy & Terms Of UseBack ButtonFilter Button</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Secure Your Microsoft Project and Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet!
-date: 2024-09-18T16:59:30.405Z
-updated: 2024-09-20T01:04:29.912Z
+date: 2024-09-23T16:31:03.287Z
+updated: 2024-09-25T20:10:21.351Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-craft-professional-videos-with-free-intros/"><u>[New] Craft Professional Videos with Free Intros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-four-pioneering-methods-to-record-teaching-sessions-on-apple-devices/"><u>[New] Four Pioneering Methods to Record Teaching Sessions on Apple Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-becoming-a-tiktok-live-companion/"><u>[Updated] In 2024, The Ultimate Guide to Becoming a TikTok Live Companion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>2024 Approved Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/build-more-than-22-web-applications-mastering-vue-laravel-and-json-api-techniques-with-insights-from-creative-tim/"><u>Build More than 22 Web Applications: Mastering Vue, Laravel, and JSON API Techniques with Insights From Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-admin-panel-a-complete-bootstrap-4-dashboard-solution-for-flask-applications/"><u>Creative Tim's Admin Panel: A Complete Bootstrap 4 Dashboard Solution for Flask Applications</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-exclusive-pair-of-premium-ecommerce-themes/"><u>Creative Tim's Exclusive Pair of Premium eCommerce Themes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-creative-tims-best-3plus-astro-themes-and-customizable-design-templates-for-websites/"><u>Discover Creative Tim's Best 3+ Astro Themes and Customizable Design Templates for Websites</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/elevate-your-web-project-with-aspnets-best-admindashboard-solutions-by-creative-tim/"><u>Elevate Your Web Project with ASP.NET's Best Admin/Dashboard Solutions by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhanced-administrator-interface-flowbites-professional-dashboard-with-modern-tailwind-and-creative-tim-design/"><u>Enhanced Administrator Interface: Flowbite's Professional Dashboard with Modern Tailwind & Creative Tim Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-extracted-prime-playlist-pointers-by-gpodcasts/"><u>In 2024, Excellence Extracted Prime Playlist Pointers by GPodCasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g-pro-controller-install-for-pc-windows-111087-immediate-download/"><u>Logitech G Pro Controller Install for PC (Windows 11/10/8/7) [Immediate Download]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-home-entertainment-with-the-budget-king-in-a-box-the-1byone-digital-hdtv-antenna-reviewed/"><u>Revolutionize Your Home Entertainment with the Budget King in a Box - The 1ByOne Digital HDTV Antenna Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-lg-usb-drivers-for-windows-operating-systems-windows-10-8-and-7/"><u>Troubleshooting LG USB Drivers for Windows Operating Systems (Windows 10, 8, and 7)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unleash-creativity-in-photography-essential-pixlr-hacks-for-2024/"><u>Unleash Creativity in Photography Essential Pixlr Hacks for 2024</u></a></li>
+</ul></div>
+

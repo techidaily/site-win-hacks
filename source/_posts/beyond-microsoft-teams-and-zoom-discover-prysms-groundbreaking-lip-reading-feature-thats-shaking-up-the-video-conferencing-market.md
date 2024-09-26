@@ -1,7 +1,7 @@
 ---
 title: Beyond Microsoft Teams and Zoom? Discover Prysm's Groundbreaking Lip-Reading Feature That’s Shaking Up the Video Conferencing Market
-date: 2024-09-17T05:10:57.901Z
-updated: 2024-09-19T23:04:26.433Z
+date: 2024-09-23T21:48:59.599Z
+updated: 2024-09-26T01:47:29.562Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -139,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -185,3 +193,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-seven-finest-stardew-valley-customizations-unveiled/"><u>[New] 2024 Approved The Seven Finest Stardew Valley Customizations Unveiled</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-become-a-viral-sensation-maximizing-your-youtube-reach/"><u>[New] Become a Viral Sensation Maximizing Your YouTube Reach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-3-affordable-switch-game-duplicates/"><u>[New] Top 3 Affordable Switch Game Duplicates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-presentations-the-captivate-way-for-2024/"><u>[Updated] Enhancing Presentations The Captivate Way for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-toggle-your-youtube-video-with-picture-in-picture-on-ios/"><u>[Updated] Toggle Your YouTube Video with Picture-in-Picture on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171067592-amplify-your-game-space-go-for-giant-arcade-panels/"><u>Amplify Your Game Space - Go for Giant Arcade Panels</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/anticipating-the-future-knowing-when-microsoft-plans-to-phase-out-windows-and-office-versions/"><u>Anticipating the Future: Knowing When Microsoft Plans to Phase Out Windows and Office Versions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/boost-your-pcs-performance-on-windows-11-with-this-hidden-feature-to-quickly-terminate-sluggish-programs-techradar/"><u>Boost Your PC's Performance on Windows 11 with This Hidden Feature to Quickly Terminate Sluggish Programs | TechRadar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-xr21-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia XR21?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/chromebook-users-rejoice-newly-formed-alliance-enables-running-of-all-windows-programs-insights-from-zdnet/"><u>Chromebook Users Rejoice: Newly Formed Alliance Enables Running of All Windows Programs – Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-top-secret-shortcuts-of-windows-trackpad-that-every-expert-should-master-insider-tips-revealed/"><u>Discover the Top Secret Shortcuts of Windows Trackpad That Every Expert Should Master - Insider Tips Revealed!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-continuity-a-step-by-step-guide-to-transferring-important-settings-and-documents-from-old-to-new-pc-using-windows-backup-tools/"><u>Effortless Continuity: A Step-by-Step Guide to Transferring Important Settings and Documents From Old to New PC Using Windows Backup Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-s23-fe-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy S23 FE and stops randomly</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-a2-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo A2</u></a></li>
+</ul></div>
+

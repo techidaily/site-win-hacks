@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's AI Integration in Surface Pro and Laptop Poses a Challenge to Apple - ZDNET Insight
-date: 2024-09-18T23:05:28.497Z
-updated: 2024-09-19T18:31:47.701Z
+date: 2024-09-18T20:18:58.709Z
+updated: 2024-09-25T20:00:37.185Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -131,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-reimagining-the-role-of-titles-in-after-effects-media/"><u>[New] Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>[Updated] 2024 Approved Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-using-green-screen-in-kinemaster-a-stepwise-approach/"><u>[Updated] The Ultimate Guide to Using Green Screen in Kinemaster A Stepwise Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-image-generation-simplified-harnessing-the-power-of-chatgpt-for-visual-content/"><u>AI-Powered Image Generation Simplified: Harnessing the Power of ChatGPT for Visual Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-poco-c51-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Poco C51 Phone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-rcu-actions-essential-frequently-asked-questions-explained/"><u>Mastering RCU Actions: Essential Frequently Asked Questions Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/story-for-incorrect-answer-a-colposcopy-is-primarily-used-to-evaluate-abnormal-cervical-screening-tests/"><u>Story for Incorrect Answer A (Colposcopy Is Primarily Used to Evaluate Abnormal Cervical Screening Tests)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-downloading-content-how-to-download-videos-and-films-from-myvideo-as-mp4-avi-files-efficiently/"><u>Ultimate Guide to Downloading Content: How to Download Videos and Films From MyVideo as MP4, AVI Files Efficiently</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-converting-datpiff-tracks-into-multiple-formats-mp3-aac-wav-wma-flac/"><u>Ultimate Guide: Converting DatPiff Tracks Into Multiple Formats (MP3, AAC, WAV, WMA, FLAC)</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-tutorial-on-changing-vimeo-file-types-to-popular-formats-such-as-avi-flv-and-mp3/"><u>Ultimate Tutorial on Changing Vimeo File Types to Popular Formats Such as AVI, FLV, and MP3</u></a></li>
+</ul></div>
+
