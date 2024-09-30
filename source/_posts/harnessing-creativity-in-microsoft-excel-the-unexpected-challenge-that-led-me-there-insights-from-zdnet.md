@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Creativity in Microsoft Excel: The Unexpected Challenge That Led Me There - Insights From ZDNet"
-date: 2024-09-24T23:43:03.299Z
-updated: 2024-09-25T20:18:06.610Z
+date: 2024-09-28T16:02:17.882Z
+updated: 2024-09-30T16:07:51.702Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-immersive-experienences-adding-sounds-to-reels/"><u>[New] 2024 Approved Crafting Immersive Experienences Adding Sounds to Reels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-cure-for-that-persistent-green-pixel-problem-mac-edition/"><u>[New] 2024 Approved Quick Cure for That Persistent Green Pixel Problem (Mac Edition)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-open-minds-open-tech-easeus-report/"><u>[Updated] Open Minds, Open Tech - EaseUS Report</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset/"><u>2024 Approved Quick and Easy How to Transform Your Mobile Device Into a VR Headset</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/get-your-favorite-tracks-with-a-click-directly-download-music-files-as-mp3-or-wav-from-audiomack/"><u>Get Your Favorite Tracks with a Click – Directly Download Music Files as MP3 or WAV From AudioMack</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-converting-and-downloading-youtube-content-as-a-keynote-friendly-video-file/"><u>Guide: Converting and Downloading YouTube Content as a Keynote Friendly Video File</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-converting-magic-stream-files-into-mp4avi-formats-for-mac-and-pc/"><u>Guide: Converting Magic Stream Files Into MP4/AVI Formats for Mac & PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-6s-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 6s Plus</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-download-youtube-captions-and-subtitles-easily/"><u>How to Download YouTube Captions and Subtitles Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-pc-when-it-cant-shut-down-on-windows-11-solution-guide/"><u>How To Fix Your PC When It Can’t Shut Down on Windows 11 - SOLUTION GUIDE</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-spring-screens-reimagined-a-review-of-modern-tech/"><u>In 2024, Spring Screens Reimagined A Review of Modern Tech</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mp4-conversion-of-skype-call-videos-capture-and-save-your-meetings-on-pcmac/"><u>MP4 Conversion of Skype Call Videos: Capture & Save Your Meetings on PC/Mac</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-power-dynamics-within-tropico-6-steering-a-fictional-paradise/"><u>Navigating Power Dynamics Within Tropico 6: Steering a Fictional Paradise</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/quick-guide-converting-vudu-movies-easily-into-common-video-formats-including-avi-mp4-and-mov/"><u>Quick Guide: Converting Vudu Movies Easily Into Common Video Formats Including AVI, MP4, and MOV</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/replacement-compatible-and-platform-names-like-macos-and-windows/"><u>Replacement, Compatible, and Platform Names Like macOS and Windows.</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamless-channel-liner-software-for-mac-os-and-windows-systems/"><u>Seamless Channel ˈLiner Software for Mac OS and Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creative-code-with-alternatives-to-chatgpt/"><u>Unleashing Creative Code with Alternatives to ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-compelling-book-trail-creations/"><u>[New] Compelling Book Trail Creations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[New] Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-covert-story-consumption-5-must-try-apps-for-2024/"><u>[Updated] Covert Story Consumption 5 Must-Try Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-celebrated-colours-top-instagram-filters/"><u>[Updated] In 2024, Celebrated Colours Top Instagram Filters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills-for-2024/"><u>[Updated] Speaking Like a Pro Tips to Upgrade Your Google Meet Skills for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-windows-photos-and-story-remix-for-editing/"><u>2024 Approved Harness the Power of Windows Photos & Story Remix for Editing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/boost-your-pcs-performance-on-windows-11-with-this-hidden-feature-to-quickly-terminate-sluggish-programs-techradar/"><u>Boost Your PC's Performance on Windows 11 with This Hidden Feature to Quickly Terminate Sluggish Programs | TechRadar</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/chromebook-users-rejoice-newly-formed-alliance-enables-running-of-all-windows-programs-insights-from-zdnet/"><u>Chromebook Users Rejoice: Newly Formed Alliance Enables Running of All Windows Programs – Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-14-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 14 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-top-secret-shortcuts-of-windows-trackpad-that-every-expert-should-master-insider-tips-revealed/"><u>Discover the Top Secret Shortcuts of Windows Trackpad That Every Expert Should Master - Insider Tips Revealed!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-continuity-a-step-by-step-guide-to-transferring-important-settings-and-documents-from-old-to-new-pc-using-windows-backup-tools/"><u>Effortless Continuity: A Step-by-Step Guide to Transferring Important Settings and Documents From Old to New PC Using Windows Backup Tools</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/global-tech-crisis-prevention-takes-center-stage-at-microsofts-security-conference-experts-weigh-in/"><u>Global Tech Crisis Prevention Takes Center Stage at Microsoft's Security Conference: Experts Weigh In</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-does-apple-playfully-ridicule-windows-laptops-spotting-the-subject-of-their-humor/"><u>How Does Apple Playfully Ridicule Windows Laptops? Spotting the Subject of Their Humor.</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-masterfully-configure-your-xubuntu-linux-desktop-unleashing-full-potential-with-expert-guidance-featured-on-zdnet/"><u>How to Masterfully Configure Your Xubuntu Linux Desktop: Unleashing Full Potential with Expert Guidance Featured on ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Passcode not Working?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/macos-vs-windows-unraveling-common-errors-among-windows-aficionados-a-zdnet-analysis/"><u>MacOS Vs. Windows: Unraveling Common Errors Among Windows Aficionados – A ZDNet Analysis</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-best-animation-drawing-software-for-beginners-and-pros/"><u>New Unleash Your Creativity The Best Animation Drawing Software for Beginners and Pros</u></a></li>
 </ul></div>
 

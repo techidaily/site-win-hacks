@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Shifts Strategy: Expected Price Tags on Future Windows 10 Updates Revealed | ZDNet"
-date: 2024-09-18T17:52:47.170Z
-updated: 2024-09-25T18:07:23.210Z
+date: 2024-09-25T16:08:28.141Z
+updated: 2024-09-30T16:00:30.064Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-pixel-perfection-leading-ps5-compatible-hdmi-21-monitors/"><u>[New] 2024 Approved Pixel Perfection Leading PS5 Compatible HDMI 2.1 Monitors</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-viral-videos-the-ultimate-fb-reel-techniques/"><u>[New] Crafting Viral Videos The Ultimate FB Reel Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-film-crafting-from-script-to-screen/"><u>[Updated] In 2024, Film Crafting From Script to Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cracking-the-code-to-trouble-free-pc-gameplay-in-a-total-war-saga-troy/"><u>Cracking The Code To Trouble-Free PC Gameplay In 'A Total War Saga - Troy'</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-40-keyboard-shortcuts-for-final-cut-pro-x/"><u>Edit Like a Pro Top 40 Keyboard Shortcuts for Final Cut Pro X</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exclusive-review-of-the-revolutionary-microsoft-surface-laptop-studio-why-it-outshines-traditional-laptops-including-macbook-pro-tech-analysis-by-zdnet/"><u>Exclusive Review of the Revolutionary Microsoft Surface Laptop Studio ✨: Why It Outshines Traditional Laptops, Including MacBook Pro | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-the-leading-edge-of-web-browsing-the-data-you-need-to-see-powered-by-zdnet-analysis/"><u>Exploring the Leading Edge of Web Browsing : The Data You Need to See | Powered by ZDNet Analysis</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/get-ready-microsofts-security-focused-copilot-hits-general-release-on-april-1-says-zdnet/"><u>Get Ready: Microsoft's Security-Focused Copilot Hits General Release on April 1, Says ZDNET</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/harnessing-creativity-in-microsoft-excel-the-unexpected-challenge-that-led-me-there-insights-from-zdnet/"><u>Harnessing Creativity in Microsoft Excel: The Unexpected Challenge That Led Me There - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-get-screenshotted-right-best-5-apps-for-chromebook-users/"><u>In 2024, Get Screenshotted Right Best 5 Apps for Chromebook Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-k70-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi K70 Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/revolutionizing-microsofts-platform-exclusive-windows-on-arm-apps-unveiled-industry-watchers/"><u>Revolutionizing Microsoft's Platform: Exclusive Windows on Arm Apps Unveiled | Industry Watchers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-ranking-windows-laptop-picks-in-depth-analysis-by-tech-experts-at-zdnet/"><u>Top-Ranking Windows Laptop Picks: In-Depth Analysis by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tutorial-triumph-a-step-towards-a-million-view-goal-for-2024/"><u>Tutorial Triumph A Step Towards a Million View Goal for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/unveiling-the-power-of-apples-m1-pro-the-ultimate-windows-11-experience-in-a-macbook-pro/"><u>Unveiling the Power of Apple's M1 Pro: The Ultimate Windows 11 Experience in a MacBook Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-racer-cutting-edge-gaming-selection/"><u>[Updated] Elite Racer Cutting-Edge Gaming Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mitigating-virtual-reality-nausea/"><u>[Updated] Mitigating Virtual Reality Nausea</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mobile-magnification-premium-highlights-for-iphonesandroids/"><u>[Updated] Mobile Magnification Premium Highlights for IPhones/Androids</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitter-takes-the-lead-the-most-shared-content-of-the-day/"><u>2024 Approved Twitter Takes the Lead The Most Shared Content of the Day</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/are-bloggers-getting-cash-for-product-insights-in-2024/"><u>Are Bloggers Getting Cash for Product Insights, In 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/build-a-professional-mobile-ebook-featuring-lifelike-page-turning-a-comprehensive-guide-using-flipbuilder/"><u>Build a Professional Mobile eBook Featuring Lifelike Page Turning: A Comprehensive Guide Using FlipBuilder</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/como-identificar-animales-con-nombres-hispanos/"><u>Cómo Identificar Animales Con Nombres Hispanos</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/pro-paper-kit-2-advanced-angular-template-with-bootstrap-4-premier-ui-kit-by-creative-tim/"><u>Pro Paper Kit 2 Advanced Angular Template with Bootstrap 4 – Premier UI Kit by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/professional-material-admin-dashboard-exclusive-bootstrap-3-template-with-advanced-features-from-creative-tim/"><u>Professional Material Admin Dashboard – Exclusive Bootstrap 3 Template with Advanced Features From Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/proportional-reasoning-ensures-that-all-elements-of-a-model-maintain-their-correct-relationships-when-scaled/"><u>Proportional Reasoning Ensures that All Elements of a Model Maintain Their Correct Relationships when Scaled.</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/revolutionize-your-project-with-complimentary-black-dashboard-reactgenezio-templates-from-creative-tim/"><u>Revolutionize Your Project with Complimentary Black Dashboard React/Genezio Templates From Creative Tim</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-six-prime-websites-to-buy-your-next-television/"><u>The Ultimate Selection: Six Prime Websites to Buy Your Next Television</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-collection-of-creative-tims-top-notch-astral-premium-designs/"><u>Ultimate Collection of Creative Tim's Top-Notch Astral Premium Designs</u></a></li>
 </ul></div>
 

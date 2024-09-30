@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: Microsoft's Security-Focused Copilot Hits General Release on April 1, Says ZDNET"
-date: 2024-09-20T19:08:07.450Z
-updated: 2024-09-25T22:55:07.067Z
+date: 2024-09-29T16:08:53.331Z
+updated: 2024-09-30T16:07:45.129Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hacks.techidaily.com/1726792604735-m-0/"><u> [M = 0 </u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>[New] In 2024, The Best of the Best Android's Top 8 Group Chatters</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] In 2024, Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>2024 Approved A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-video-content-transcriber/"><u>2024 Approved Video Content Transcriber</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/answer-you-would-need-to-use-6-cups-of-flour-to-keep-the-ratio-of-flour-to-sugar-at-21/"><u>Answer: You Would Need to Use 6 Cups of Flour to Keep the Ratio of Flour to Sugar at 2:1.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-iphone-contacts-app-top-three-solutions-for-common-issues/"><u>Fix Your iPhone Contacts App: Top Three Solutions for Common Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unclutter-your-layout-expertly-remove-backgrounds-in-figma/"><u>In 2024, Unclutter Your Layout Expertly Remove Backgrounds in Figma</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pursuing-your-vision-learn-professional-filmmaking-on-youtube-for-2024/"><u>Pursuing Your Vision Learn Professional Filmmaking on YouTube for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/upcoming-fees-microsoft-announces-pricing-plan-for-windows-10-updates-from-2024-insights-on-cost/"><u>Upcoming Fees: Microsoft Announces Pricing Plan for Windows 10 Updates From 2024 | Insights on Cost</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/upgrading-your-windows-home-edition-to-pro-benefits-and-tutorials-techadvisor/"><u>Upgrading Your Windows Home Edition to Pro: Benefits and Tutorials | TechAdvisor</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windows-10-update-cost-microsoft-announces-paid-service-beginning-learn-the-prices/"><u>Windows 10 Update Cost: Microsoft Announces Paid Service Beginning - Learn the Prices!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windows-11-to-get-a-price-tag-discover-microsofts-new-policy-on-charging-for-future-updates-from-next-year-zdnets-breakdown-of-costs/"><u>Windows 11 to Get a Price Tag: Discover Microsoft’s New Policy on Charging for Future Updates From Next Year - ZDNet's Breakdown of Costs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/world-words-within-the-web-of-english-language/"><u>World Words Within the Web of English Language</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-achieving-prominence-with-apples-listings/"><u>[New] Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unbeatable-free-livestream-solutions-reviewed-across-all-platforms/"><u>[New] In 2024, Unbeatable Free Livestream Solutions Reviewed Across All Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-skype-recorder-guide/"><u>[Updated] 2024 Approved The Ultimate Skype Recorder Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-5-critical-equipment-items-to-start-your-channel-right/"><u>[Updated] In 2024, 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/a-guide-on-retrieving-healthcare-instructional-video-content-from-spears-learning-system/"><u>A Guide on Retrieving Healthcare Instructional Video Content From Spear's Learning System</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones-for-2024/"><u>A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/boost-your-expertise-using-yesjapan-resources-get-educational-content-for-free/"><u>Boost Your Expertise Using YesJapan Resources: Get Educational Content for Free</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/choosing-the-best-streaming-platform-spotify-or-pandora/"><u>Choosing the Best Streaming Platform: Spotify or Pandora?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comprehensive-collection-of-downloaded-history-channel-footage-in-multiple-formats-including-mp4-mov-avi-and-more/"><u>Comprehensive Collection of Downloaded History Channel Footage in Multiple Formats Including MP4, MOV, AVI, and More</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/convert-and-download-high-quality-tracks-explore-various-formats-with-soundclick-beats-mp3-wav-aac-m4a-and-more/"><u>Convert & Download High-Quality Tracks: Explore Various Formats with SoundClick Beats - MP3, WAV, AAC, M4A, and More</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-and-save-groove3-classes-as-high-quality-mp4-files-instantly/"><u>Download and Save Groove3 Classes as High-Quality MP4 Files Instantly</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-apple-movies-in-high-definition-free-app-for-itunes-film-trailers-as-mp4wmvavi/"><u>Download Apple Movies in High Definition: Free App for ITunes Film Trailers as MP4/WMV/AVI</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-episodes-from-1tv-streaming-networks-af-and-georgia-with-1tv-downloader/"><u>Download Episodes From 1TV Streaming Networks (AF and Georgia) with 1TV Downloader</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-released-upgrade-to-the-latest-intel-wireless-drivers-for-win11-and-win10-devices/"><u>Freshly Released: Upgrade to the Latest Intel Wireless Drivers for Win11 and Win10 Devices</u></a></li>
+<li><a href="https://win-help.techidaily.com/how-to-download-films-from-nosvideo-in-various-formats-like-mp4-wmv-and-avi/"><u>How to Download Films From Nosvideo in Various Formats Like MP4, WMV & AVI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-11-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 11 Without iTunes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-huawei-nova-y91-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Huawei Nova Y91 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/small-size-big-impact-review-of-the-mp3-clip-jam/"><u>Small Size, Big Impact: Review of the MP3 Clip Jam</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unlocking-sharing-problems-for-flipbuilder-html-ebooks-making-them-viewable-by-friends/"><u>Unlocking Sharing Problems for FlipBuilder HTML eBooks: Making Them Viewable by Friends</u></a></li>
 </ul></div>
 

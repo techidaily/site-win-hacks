@@ -1,7 +1,7 @@
 ---
 title: Secure Your Microsoft Project and Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet!
-date: 2024-09-23T16:31:03.287Z
-updated: 2024-09-25T20:10:21.351Z
+date: 2024-09-29T16:08:37.989Z
+updated: 2024-09-30T16:08:02.425Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,22 +148,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-craft-professional-videos-with-free-intros/"><u>[New] Craft Professional Videos with Free Intros</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-four-pioneering-methods-to-record-teaching-sessions-on-apple-devices/"><u>[New] Four Pioneering Methods to Record Teaching Sessions on Apple Devices</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-guide-to-becoming-a-tiktok-live-companion/"><u>[Updated] In 2024, The Ultimate Guide to Becoming a TikTok Live Companion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>2024 Approved Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/build-more-than-22-web-applications-mastering-vue-laravel-and-json-api-techniques-with-insights-from-creative-tim/"><u>Build More than 22 Web Applications: Mastering Vue, Laravel, and JSON API Techniques with Insights From Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/creative-tims-admin-panel-a-complete-bootstrap-4-dashboard-solution-for-flask-applications/"><u>Creative Tim's Admin Panel: A Complete Bootstrap 4 Dashboard Solution for Flask Applications</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/creative-tims-exclusive-pair-of-premium-ecommerce-themes/"><u>Creative Tim's Exclusive Pair of Premium eCommerce Themes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-creative-tims-best-3plus-astro-themes-and-customizable-design-templates-for-websites/"><u>Discover Creative Tim's Best 3+ Astro Themes and Customizable Design Templates for Websites</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/elevate-your-web-project-with-aspnets-best-admindashboard-solutions-by-creative-tim/"><u>Elevate Your Web Project with ASP.NET's Best Admin/Dashboard Solutions by Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/enhanced-administrator-interface-flowbites-professional-dashboard-with-modern-tailwind-and-creative-tim-design/"><u>Enhanced Administrator Interface: Flowbite's Professional Dashboard with Modern Tailwind & Creative Tim Design</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-extracted-prime-playlist-pointers-by-gpodcasts/"><u>In 2024, Excellence Extracted Prime Playlist Pointers by GPodCasts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-g-pro-controller-install-for-pc-windows-111087-immediate-download/"><u>Logitech G Pro Controller Install for PC (Windows 11/10/8/7) [Immediate Download]</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-home-entertainment-with-the-budget-king-in-a-box-the-1byone-digital-hdtv-antenna-reviewed/"><u>Revolutionize Your Home Entertainment with the Budget King in a Box - The 1ByOne Digital HDTV Antenna Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-lg-usb-drivers-for-windows-operating-systems-windows-10-8-and-7/"><u>Troubleshooting LG USB Drivers for Windows Operating Systems (Windows 10, 8, and 7)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unleash-creativity-in-photography-essential-pixlr-hacks-for-2024/"><u>Unleash Creativity in Photography Essential Pixlr Hacks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-hidden-potential-sharing-videos-with-ease/"><u>[New] Unlock Hidden Potential Sharing Videos with Ease</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>2024 Approved Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-12-video-capture-tools-never-stop/"><u>2024 Approved Perfect 12 Video Capture Tools - Never Stop</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-guide-on-converting-and-downloading-skillmeup-video-content-in-various-formats/"><u>Easy Guide on Converting and Downloading SkillMeup Video Content in Various Formats</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-guide-convert-br-mediasite-videos-into-mp4-format-for-pc-and-mac/"><u>Easy Guide: Convert BR Mediasite Videos Into MP4 Format for PC & Mac</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-video-downloads-from-pac-12-how-to-capture-and-transform-videos-into-high-quality-mp4-or-avi-files/"><u>Easy Video Downloads From Pac-12: How to Capture and Transform Videos Into High-Quality MP4 or AVI Files</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-steps-how-to-transform-your-vudu-films-into-versatile-formats-like-mp4-and-mov/"><u>Effortless Steps: How to Transform Your Vudu Films Into Versatile Formats Like MP4 & MOV</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/get-your-favorite-tracks-with-a-click-directly-download-music-files-as-mp3-or-wav-from-audiomack/"><u>Get Your Favorite Tracks with a Click – Directly Download Music Files as MP3 or WAV From AudioMack</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-converting-and-downloading-youtube-content-as-a-keynote-friendly-video-file/"><u>Guide: Converting and Downloading YouTube Content as a Keynote Friendly Video File</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-converting-magic-stream-files-into-mp4avi-formats-for-mac-and-pc/"><u>Guide: Converting Magic Stream Files Into MP4/AVI Formats for Mac & PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-x50-gt-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor X50 GT FRP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-step-by-step-macootd-tiktok-creation-process/"><u>In 2024, Step by Step MacOOTD TikTok Creation Process</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-accessing-ai-chat-platforms-like-gpt-and-messaging-apps-sans-phone-registration/"><u>Step-by-Step Tutorial: Accessing AI Chat Platforms Like GPT and Messaging Apps Sans Phone Registration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-the-propstysdll-missing-mistake-in-your-system-expert-fixes/"><u>Tackling the Propstys.dll Missing Mistake in Your System – Expert Fixes</u></a></li>
 </ul></div>
 

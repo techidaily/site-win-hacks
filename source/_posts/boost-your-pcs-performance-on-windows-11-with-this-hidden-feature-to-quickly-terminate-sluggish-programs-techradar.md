@@ -1,7 +1,7 @@
 ---
 title: Boost Your PC's Performance on Windows 11 with This Hidden Feature to Quickly Terminate Sluggish Programs | TechRadar
-date: 2024-09-19T18:38:26.256Z
-updated: 2024-09-25T21:22:44.077Z
+date: 2024-09-27T16:06:51.632Z
+updated: 2024-09-30T16:04:20.168Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -45,13 +38,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -67,6 +53,13 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -92,16 +85,16 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -110,6 +103,19 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -117,16 +123,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -168,22 +168,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] 2024 Approved Hire Harmony A Collection of Inspirational Clips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-studio-techniques-decoded-xvideostudio-edition/"><u>[Updated] 2024 Approved Studio Techniques Decoded XVideoStudio Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[Updated] In 2024, The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-cinematic-dying-in-pro/"><u>[Updated] The Art of Cinematic Dying in Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-potential-of-screen-sharing-on-google-meet/"><u>[Updated] Unlocking the Potential of Screen Sharing on Google Meet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-gear-360-vs-lgcam-determining-best-in-3d-capture/"><u>2024 Approved Gear 360 vs LGCam Determining Best in 3D Capture</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/elevate-your-web-project-with-aspnets-best-admindashboard-solutions-by-creative-tim/"><u>Elevate Your Web Project with ASP.NET's Best Admin/Dashboard Solutions by Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/enhanced-administrator-interface-flowbites-professional-dashboard-with-modern-tailwind-and-creative-tim-design/"><u>Enhanced Administrator Interface: Flowbite's Professional Dashboard with Modern Tailwind & Creative Tim Design</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exclusive-premium-django-designs-and-templates-by-creative-tim-elevate-your-web-project/"><u>Exclusive Premium Django Designs & Templates by Creative Tim: Elevate Your Web Project</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/explore-10plus-elegant-vue-material-ui-template-collections-by-creative-tim/"><u>Explore 10+ Elegant Vue Material UI Template Collections by Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/free-black-dashboard-bootsstrap-4-admin-design-inspired-by-creative-tim/"><u>Free Black Dashboard Bootsstrap 4 Admin Design | Inspired by Creative Tim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-x-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone X Backup files on Windows PC? | Stellar</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>In 2024, Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/innovative-bootstrap-powered-data-grid-feature-a-homage-to-creative-tims-original-concept/"><u>Innovative Bootstrap-Powered Data Grid Feature, a Homage to Creative Tim's Original Concept</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras-for-2024/"><u>Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-aurora-hdr-reviews-is-aurora-hdr-a-good-choice-for-2024/"><u>[New] Aurora HDR Reviews Is Aurora HDR a Good Choice for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-the-path-to-igtv-fame-5-growth-strategies-explored/"><u>[New] Navigating the Path to IGTV Fame 5 Growth Strategies Explored</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-and-save-groove3-classes-as-high-quality-mp4-files-instantly/"><u>Download and Save Groove3 Classes as High-Quality MP4 Files Instantly</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-apple-movies-in-high-definition-free-app-for-itunes-film-trailers-as-mp4wmvavi/"><u>Download Apple Movies in High Definition: Free App for ITunes Film Trailers as MP4/WMV/AVI</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-episodes-from-1tv-streaming-networks-af-and-georgia-with-1tv-downloader/"><u>Download Episodes From 1TV Streaming Networks (AF and Georgia) with 1TV Downloader</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-laola1tv-shows-and-movies-quickly-direct-pc-and-mac-downloads/"><u>Download LAOLA1.TV Shows & Movies Quickly - Direct PC & Mac Downloads</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-videos-and-podcasts-for-later-viewing-with-top-mac-and-windows-software-solutions/"><u>Download Videos & Podcasts for Later Viewing with Top Mac & Windows Software Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvdtelevision2024/"><u>DVD視聴の新手法：Television上で鑑賞するための2024年のガイド！</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-one-minute-color-concealment/"><u>In 2024, One-Minute Color Concealment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>In 2024, Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-childs-creativity-10-top-video-editing-apps-free-and-paid/"><u>In 2024, Unleash Your Childs Creativity 10 Top Video Editing Apps, Free and Paid</u></a></li>
+<li><a href="https://discover-community.techidaily.com/solving-the-mystery-of-mute-top-strategies-to-restore-sound-on-facebook-videos/"><u>Solving the Mystery of Mute: Top Strategies to Restore Sound on Facebook Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-intel-hardware-controls-in-win-11-7-and-81-environments/"><u>Update Intel Hardware Controls in Win 11, 7 & 8.1 Environments</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visual-bedtime-plays-reviewed-for-2024/"><u>Visual Bedtime Plays Reviewed for 2024</u></a></li>
 </ul></div>
 

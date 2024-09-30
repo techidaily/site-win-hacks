@@ -1,7 +1,7 @@
 ---
 title: Microsoft Empowers Innovative Workforce with Enhanced Team Features - Insights From ZDNet
-date: 2024-09-19T20:41:12.502Z
-updated: 2024-09-25T23:36:56.434Z
+date: 2024-09-28T16:07:46.956Z
+updated: 2024-09-30T16:00:14.113Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-essential-handbook-windows-pc-for-capturing-live-tv-for-2024/"><u>[New] Essential Handbook Windows PC for Capturing Live TV for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-steps-to-record-your-minecraft-adventures/"><u>[Updated] Easy Steps to Record Your Minecraft Adventures</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-pathway-to-popular-youtube-thumbnails-mac-edition/"><u>[Updated] The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/best-5-quick-filming-diy-hacks-to-try-at-home-for-2024/"><u>Best 5 Quick Filming DIY Hacks to Try at Home for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-version-of-canoscan-lide-220-drivers-installed-easily/"><u>Get the Newest Version of CanoScan LiDE 220 Drivers Installed Easily</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-infinix-hot-40i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Infinix Hot 40i without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-reimagining-home-security-the-rise-of-multi-camera-recorders/"><u>In 2024, Reimagining Home Security The Rise of Multi-Camera Recorders</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y36-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y36 Phone Hassle-Free</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/integrating-page-turn-audio-effects-into-your-digital-flipbooks-with-flipbuilder/"><u>Integrating Page-Turn Audio Effects Into Your Digital Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/masterful-presentation-creation-with-flip-powerpoint-pro-seamlessly-integrate-multimedia-and-create-interactive-book-style-slideshows-explore-at-flipbuilder16/"><u>Masterful Presentation Creation with Flip PowerPoint Pro: Seamlessly Integrate Multimedia and Create Interactive Book-Style Slideshows [Explore at FlipBuilder.com]</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mastering-flipoffice-pro-upgrades-a-comprehensive-walkthrough-for-importing-themes-easily-expert-advice-from-flipbuilder/"><u>Mastering FlipOffice Pro Upgrades: A Comprehensive Walkthrough for Importing Themes Easily | Expert Advice From FlipBuilder</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mastering-image-comments-for-your-online-galleries-using-flipbuilders-tools/"><u>Mastering Image Comments for Your Online Galleries Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mastering-template-variety-customize-your-digital-publications-using-flipbuilder-tools/"><u>Mastering Template Variety: Customize Your Digital Publications Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/modifying-chapter-ratios-for-optimal-viewing-tips-and-tricks-on-flipbuildercom/"><u>Modifying Chapter Ratios for Optimal Viewing: Tips & Tricks on FlipBuilder.com</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/read-faster-with-flip-reader-your-essential-tool-for-ebooks-in-fbrzip-formats-from-flipbuilder/"><u>Read Faster with Flip Reader - Your Essential Tool for EBooks in Fbr/Zip Formats From FlipBuilder</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/step-by-step-guide-to-compliant-twitter-media-posts-for-2024/"><u>Step-by-Step Guide to Compliant Twitter Media Posts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-flourish-in-fame-elevate-from-zero-to-1000-followersmonthly/"><u>[New] Flourish in Fame Elevate From Zero to 1,000 Followers/Monthly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-foremost-editing-software-for-mobile-creations-for-2024/"><u>[New] Foremost Editing Software for Mobile Creations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success/"><u>[New] The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-utilize-automatic-hdr-feature-a-compreran-guide-to-windows-11/"><u>[New] Utilize Automatic HDR Feature A Compreran Guide to Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-becoming-a-master-at-the-art-of-engaging-thumbnails/"><u>[Updated] In 2024, Becoming a Master at the Art of Engaging Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capture-clarity-with-leading-photo-gridding-services/"><u>2024 Approved Capture Clarity with Leading Photo Gridding Services</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exclusive-review-of-the-revolutionary-microsoft-surface-laptop-studio-why-it-outshines-traditional-laptops-including-macbook-pro-tech-analysis-by-zdnet/"><u>Exclusive Review of the Revolutionary Microsoft Surface Laptop Studio ✨: Why It Outshines Traditional Laptops, Including MacBook Pro | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-analysis-on-2024s-market-leaders-how-apple-dell-and-competitors-stack-up-reviewed-by-zdnet/"><u>Expert Analysis on 2024'S Market Leaders: How Apple, Dell, and Competitors Stack Up | Reviewed by ZDNET</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/explore-whats-new-with-windows-11-fresh-innovations-and-updates-unveiled-digital-trends/"><u>Explore What's New with Windows 11: Fresh Innovations and Updates Unveiled | Digital Trends</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/get-ready-microsofts-security-focused-copilot-hits-general-release-on-april-1-says-zdnet/"><u>Get Ready: Microsoft's Security-Focused Copilot Hits General Release on April 1, Says ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-se-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone SE Stuck On Activation Lock?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/revolutionizing-microsofts-platform-exclusive-windows-on-arm-apps-unveiled-industry-watchers/"><u>Revolutionizing Microsoft's Platform: Exclusive Windows on Arm Apps Unveiled | Industry Watchers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-ranking-windows-laptop-picks-in-depth-analysis-by-tech-experts-at-zdnet/"><u>Top-Ranking Windows Laptop Picks: In-Depth Analysis by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unveiling-the-power-of-apples-m1-pro-the-ultimate-windows-11-experience-in-a-macbook-pro/"><u>Unveiling the Power of Apple's M1 Pro: The Ultimate Windows 11 Experience in a MacBook Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/graphy-subtitle-designer-for-2024/"><u>Videography Subtitle Designer for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Global Tech Crisis Prevention Takes Center Stage at Microsoft's Security Conference: Experts Weigh In"
-date: 2024-09-24T21:00:44.394Z
-updated: 2024-09-26T00:48:54.186Z
+date: 2024-09-23T16:05:34.692Z
+updated: 2024-09-30T16:05:35.247Z
 tags:
   - windows
 categories:
@@ -33,25 +33,11 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,6 +47,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -74,11 +67,25 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -98,10 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -109,19 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,14 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>[Updated] Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mixer-connectivity-seamless-live-broadcast-on-macos/"><u>[Updated] Mixer Connectivity Seamless Live Broadcast on macOS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/best-tips-to-resolve-rockstar-games-launcher-problems-as-of-2024/"><u>Best Tips to Resolve Rockstar Games Launcher Problems as of 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/design-chic-interactive-brochures-quickly-with-flipbooks-modern-and-user-friendly-templates-at-flipbuildercom/"><u>Design Chic Interactive Brochures Quickly with FlipBook's Modern and User-Friendly Templates at [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/diverse-template-elements-and-their-functionality-on-flipbuildercom/"><u>Diverse Template Elements and Their Functionality on flipbuilder.com</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-channeling-flipbook-audience-to-visit-your-main-site-lessons-from-flipbuildercom/"><u>Effective Strategies for Channeling FlipBook Audience to Visit Your Main Site - Lessons From FlipBuilder.com</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-conversion-free-software-for-changing-powerpoint-presentations-into-flash-swf-files/"><u>Effortless Conversion: Free Software for Changing PowerPoint Presentations Into Flash (.swf) Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-11-proplus-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme 11 Pro+ Phone Hassle-Free</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-the-imessage-disconnection-problem-on-your-iphone-with-these-tips/"><u>Solve the iMessage Disconnection Problem on Your iPhone with These Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-celebrity-quick-shot-analysis/"><u>[New] 2024 Approved Celebrity Quick Shot Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-repair-inaccessible-facebook-playback-icon/"><u>[New] 2024 Approved Repair Inaccessible Facebook Playback Icon</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-constructing-professional-podcast-rss-feeds/"><u>Essential Tips for Constructing Professional Podcast RSS Feeds</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expand-your-surface-pros-storage-capacity-and-save-big-a-step-by-step-guide-save-hundreds-tips-on-upgrading-seen-by-zdnet/"><u>Expand Your Surface Pro's Storage Capacity & Save Big: A Step-by-Step Guide (Save Hundreds) - Tips on Upgrading Seen by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-s23-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy S23 Ultra? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/is-microsoft-overreacting-this-time-critical-analysis-for-tech-aficionados-zdnet/"><u>Is Microsoft Overreacting This Time? Critical Analysis for Tech Aficionados | ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-rcu-actions-essential-frequently-asked-questions-explained/"><u>Mastering RCU Actions: Essential Frequently Asked Questions Explained</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-the-art-of-live-game-streaming-on-smashcastcom-an-ultimate-walkthrough-for-gamers/"><u>Mastering the Art of Live Game Streaming on Smashcast.com: An Ultimate Walkthrough for Gamers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-top-5-iphone-video-editing-apps-you-need/"><u>New 2024 Approved Unleash Your Creativity Top 5 iPhone Video Editing Apps You Need</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/optimizing-website-crawling-a-comprehensive-guide-to-effective-sitemaps/"><u>Optimizing Website Crawling: A Comprehensive Guide to Effective Sitemaps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-slideshow-software-for-iphone-fi-and-pro-max-for-2024/"><u>Perfect Slideshow Software For iPhone Fi & Pro Max for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/purchasing-and-setting-up-mirallis-solutions-frequently-asked-questions-explained/"><u>Purchasing and Setting Up Mirallis Solutions: Frequently Asked Questions Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/swift-exchange-space-age-video-rejuvenation/"><u>Swift Exchange: Space-Age Video Rejuvenation</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-downloading-content-how-to-download-videos-and-films-from-myvideo-as-mp4-avi-files-efficiently/"><u>Ultimate Guide to Downloading Content: How to Download Videos and Films From MyVideo as MP4, AVI Files Efficiently</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-tutorial-on-changing-vimeo-file-types-to-popular-formats-such-as-avi-flv-and-mp3/"><u>Ultimate Tutorial on Changing Vimeo File Types to Popular Formats Such as AVI, FLV, and MP3</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/whats-trending-on-tiktok-and-twittersphere-for-2024/"><u>What's Trending on TikTok and Twittersphere for 2024</u></a></li>
 </ul></div>
 
