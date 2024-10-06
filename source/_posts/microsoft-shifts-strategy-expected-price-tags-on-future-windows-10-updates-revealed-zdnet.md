@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Shifts Strategy: Expected Price Tags on Future Windows 10 Updates Revealed | ZDNet"
-date: 2024-09-25T16:08:28.141Z
-updated: 2024-09-30T16:00:30.064Z
+date: 2024-09-29T18:22:09.288Z
+updated: 2024-10-05T22:09:27.302Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,16 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +208,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-racer-cutting-edge-gaming-selection/"><u>[Updated] Elite Racer Cutting-Edge Gaming Selection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mitigating-virtual-reality-nausea/"><u>[Updated] Mitigating Virtual Reality Nausea</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mobile-magnification-premium-highlights-for-iphonesandroids/"><u>[Updated] Mobile Magnification Premium Highlights for IPhones/Androids</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitter-takes-the-lead-the-most-shared-content-of-the-day/"><u>2024 Approved Twitter Takes the Lead The Most Shared Content of the Day</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/are-bloggers-getting-cash-for-product-insights-in-2024/"><u>Are Bloggers Getting Cash for Product Insights, In 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/build-a-professional-mobile-ebook-featuring-lifelike-page-turning-a-comprehensive-guide-using-flipbuilder/"><u>Build a Professional Mobile eBook Featuring Lifelike Page Turning: A Comprehensive Guide Using FlipBuilder</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/como-identificar-animales-con-nombres-hispanos/"><u>Cómo Identificar Animales Con Nombres Hispanos</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/pro-paper-kit-2-advanced-angular-template-with-bootstrap-4-premier-ui-kit-by-creative-tim/"><u>Pro Paper Kit 2 Advanced Angular Template with Bootstrap 4 – Premier UI Kit by Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/professional-material-admin-dashboard-exclusive-bootstrap-3-template-with-advanced-features-from-creative-tim/"><u>Professional Material Admin Dashboard – Exclusive Bootstrap 3 Template with Advanced Features From Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/proportional-reasoning-ensures-that-all-elements-of-a-model-maintain-their-correct-relationships-when-scaled/"><u>Proportional Reasoning Ensures that All Elements of a Model Maintain Their Correct Relationships when Scaled.</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/revolutionize-your-project-with-complimentary-black-dashboard-reactgenezio-templates-from-creative-tim/"><u>Revolutionize Your Project with Complimentary Black Dashboard React/Genezio Templates From Creative Tim</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-six-prime-websites-to-buy-your-next-television/"><u>The Ultimate Selection: Six Prime Websites to Buy Your Next Television</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-collection-of-creative-tims-top-notch-astral-premium-designs/"><u>Ultimate Collection of Creative Tim's Top-Notch Astral Premium Designs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-dialogue-mastery-connecting-with-viewers-flawlessly/"><u>[New] In 2024, Digital Dialogue Mastery Connecting with Viewers Flawlessly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-choices-8-edits-suites-for-linux-users/"><u>[Updated] Best Choices 8 Edits Suites for Linux Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-merging-youtube-soundtracks-to-cinematic-scenes/"><u>[Updated] Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-for-ppt-screen-capture-2023-style-for-2024/"><u>[Updated] The Ultimate Guide for PPT Screen Capture, 2023 Style for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/choosing-the-best-streaming-platform-spotify-or-pandora/"><u>Choosing the Best Streaming Platform: Spotify or Pandora?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comprehensive-collection-of-downloaded-history-channel-footage-in-multiple-formats-including-mp4-mov-avi-and-more/"><u>Comprehensive Collection of Downloaded History Channel Footage in Multiple Formats Including MP4, MOV, AVI, and More</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/convert-and-download-high-quality-tracks-explore-various-formats-with-soundclick-beats-mp3-wav-aac-m4a-and-more/"><u>Convert & Download High-Quality Tracks: Explore Various Formats with SoundClick Beats - MP3, WAV, AAC, M4A, and More</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-finest-tv-streaming-options-for-prime-entertainment/"><u>Discover the Finest TV Streaming Options for Prime Entertainment</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-and-save-groove3-classes-as-high-quality-mp4-files-instantly/"><u>Download and Save Groove3 Classes as High-Quality MP4 Files Instantly</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-apple-movies-in-high-definition-free-app-for-itunes-film-trailers-as-mp4wmvavi/"><u>Download Apple Movies in High Definition: Free App for ITunes Film Trailers as MP4/WMV/AVI</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-episodes-from-1tv-streaming-networks-af-and-georgia-with-1tv-downloader/"><u>Download Episodes From 1TV Streaming Networks (AF and Georgia) with 1TV Downloader</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262388827-full-powered-computing-on-the-go-folding-mini-keyboard-houses-amd-ryzen-cpu-touchscreen-controls-and-self-contained-battery-just-add-a-display/"><u>Full Powered Computing on the Go – Folding Mini Keyboard Houses AMD Ryzen CPU, Touchscreen Controls, and Self-Contained Battery; Just Add a Display!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/journey-from-monochrome-masterpieces-to-vivid-hdri-imagery-for-2024/"><u>Journey From Monochrome Masterpieces to Vivid HDRI Imagery for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/on-edge-for-chatgpts-launch-on-desktop-delve-into-superior-alternatives-with-these-free-solutions/"><u>On Edge for ChatGPT's Launch on Desktop? Delve Into Superior Alternatives with These Free Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Your PC's Performance on Windows 11 with This Hidden Feature to Quickly Terminate Sluggish Programs | TechRadar
-date: 2024-09-27T16:06:51.632Z
-updated: 2024-09-30T16:04:20.168Z
+date: 2024-10-04T21:58:00.059Z
+updated: 2024-10-05T21:32:52.613Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -48,18 +55,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -85,16 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -103,19 +104,6 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -123,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -168,19 +156,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-aurora-hdr-reviews-is-aurora-hdr-a-good-choice-for-2024/"><u>[New] Aurora HDR Reviews Is Aurora HDR a Good Choice for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-the-path-to-igtv-fame-5-growth-strategies-explored/"><u>[New] Navigating the Path to IGTV Fame 5 Growth Strategies Explored</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-and-save-groove3-classes-as-high-quality-mp4-files-instantly/"><u>Download and Save Groove3 Classes as High-Quality MP4 Files Instantly</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-apple-movies-in-high-definition-free-app-for-itunes-film-trailers-as-mp4wmvavi/"><u>Download Apple Movies in High Definition: Free App for ITunes Film Trailers as MP4/WMV/AVI</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-episodes-from-1tv-streaming-networks-af-and-georgia-with-1tv-downloader/"><u>Download Episodes From 1TV Streaming Networks (AF and Georgia) with 1TV Downloader</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-laola1tv-shows-and-movies-quickly-direct-pc-and-mac-downloads/"><u>Download LAOLA1.TV Shows & Movies Quickly - Direct PC & Mac Downloads</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-videos-and-podcasts-for-later-viewing-with-top-mac-and-windows-software-solutions/"><u>Download Videos & Podcasts for Later Viewing with Top Mac & Windows Software Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvdtelevision2024/"><u>DVD視聴の新手法：Television上で鑑賞するための2024年のガイド！</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-one-minute-color-concealment/"><u>In 2024, One-Minute Color Concealment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>In 2024, Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-childs-creativity-10-top-video-editing-apps-free-and-paid/"><u>In 2024, Unleash Your Childs Creativity 10 Top Video Editing Apps, Free and Paid</u></a></li>
-<li><a href="https://discover-community.techidaily.com/solving-the-mystery-of-mute-top-strategies-to-restore-sound-on-facebook-videos/"><u>Solving the Mystery of Mute: Top Strategies to Restore Sound on Facebook Videos</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-hardware-controls-in-win-11-7-and-81-environments/"><u>Update Intel Hardware Controls in Win 11, 7 & 8.1 Environments</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/visual-bedtime-plays-reviewed-for-2024/"><u>Visual Bedtime Plays Reviewed for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-guide-enabling-a-full-screen-grid-on-zoom/"><u>[New] In 2024, Essential Guide Enabling a Full-Screen Grid on Zoom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-minute-by-minute-fortnite-tile-methods/"><u>[New] In 2024, Minute-by-Minute Fortnite Tile Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pewdiepie-financial-overview-monetary-metrics/"><u>[New] PewDiePie Financial Overview – Monetary Metrics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-definitive-rankings-best-microphones-for-podcasters-for-2024/"><u>[Updated] The Definitive Rankings Best Microphones for Podcasters for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y36-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-embark-on-a-digital-communication-adventure-with-google-meet/"><u>2024 Approved Embark on a Digital Communication Adventure with Google Meet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-iris-xe-graphics-655-drivers-for-windows-11/"><u>Download Intel Iris Xe Graphics 655 Drivers for Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>In 2024, A Comparative Review of Filmmaking Apps Filmora & Democracy Creator</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-crafting-unique-content-to-differentiate-your-channel/"><u>In 2024, Crafting Unique Content to Differentiate Your Channel</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-apowerrec-comprehensive-step-by-step-operating-instructions-for-optimal-performance/"><u>Mastering ApowerREC: Comprehensive Step-by-Step Operating Instructions for Optimal Performance</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamless-screen-mirroring-transferring-your-ipad-display-to-your-iphone/"><u>Seamless Screen Mirroring: Transferring Your iPad Display to Your iPhone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-notch-video-editing-apps-for-pc-alternatives-to-imovie/"><u>Top-Notch Video Editing Apps for PC: Alternatives to iMovie</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/transform-your-footage-with-ease-expert-guide-on-preparing-videos-for-imovie-integration/"><u>Transform Your Footage with Ease: Expert Guide on Preparing Videos for iMovie Integration</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/two-simple-strategies-for-successfully-uploading-big-files-by-email/"><u>Two Simple Strategies for Successfully Uploading Big Files by Email</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-converting-your-pdfs-into-microsoft-word-format-with-excel-approved-tools/"><u>Ultimate Guide to Converting Your PDFs Into Microsoft Word Format with Excel-Approved Tools</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-top-3-methods-to-remote-control-your-android-device-using-another-android/"><u>Ultimate Guide: Top 3 Methods to Remote Control Your Android Device Using Another Android</u></a></li>
 </ul></div>
 

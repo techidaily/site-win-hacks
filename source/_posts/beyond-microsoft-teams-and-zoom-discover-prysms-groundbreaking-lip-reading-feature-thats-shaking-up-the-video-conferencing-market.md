@@ -1,7 +1,7 @@
 ---
 title: Beyond Microsoft Teams and Zoom? Discover Prysm's Groundbreaking Lip-Reading Feature That’s Shaking Up the Video Conferencing Market
-date: 2024-09-23T16:02:12.185Z
-updated: 2024-09-30T16:01:38.311Z
+date: 2024-09-30T16:10:58.921Z
+updated: 2024-10-05T23:34:55.415Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,35 +136,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-tips-on-navigating-the-complex-world-of-instagram-hashtags/"><u>[New] 2024 Approved Expert Tips on Navigating the Complex World of Instagram Hashtags</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/aximize-viewer-interest-with-best-post-schedule/"><u>[New] Maximize Viewer Interest with Best Post Schedule</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>2024 Approved Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-p55-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel P55 and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/read-faster-with-flip-reader-your-essential-tool-for-ebooks-in-fbrzip-formats-from-flipbuilder/"><u>Read Faster with Flip Reader - Your Essential Tool for EBooks in Fbr/Zip Formats From FlipBuilder</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/securing-your-epub-books-from-illegal-downloads-with-flipbuilder-techniques/"><u>Securing Your ePub Books From Illegal Downloads with FlipBuilder Techniques</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-connectivity-issues-why-arent-links-working-on-flipbuilder-output-flipbooks/"><u>Solving Connectivity Issues: Why Aren't Links Working on FlipBuilder Output Flipbooks?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-to-adding-your-company-emblem-as-the-backdrop-in-flipbook-creations/"><u>Step-by-Step Guide to Adding Your Company Emblem as the Backdrop in FlipBook Creations</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-criticalprocessdied-error-code-0xc0000005-in-windows-systems/"><u>Step-by-Step Solution for Overcoming 'CRITICAL_PROCESS_DIED' (Error Code 0XC0000005) in Windows Systems</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-maximize-your-flipbook-experience-with-full-screen-mode-at-flipbuildercom/"><u>Step-by-Step Tutorial: Maximize Your FlipBook Experience with Full-Screen Mode at FlipBuilder.com</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/tailor-made-product-manuals-made-simple-with-rich-design-templates-discover-how-on-flipbuildercom/"><u>Tailor-Made Product Manuals Made Simple with Rich Design Templates - Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-gt-3-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on GT 3 without backup.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/totan-banerjees-expertise-in-restoring-digital-legacies/"><u>Totan Banerjee’s Expertise in Restoring Digital Legacies</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-fixing-persistent-read-only-folders/"><u>Win11: Fixing Persistent Read-Only Folders</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-windows-app-size-efficiency/"><u>Assessing Windows App Size Efficiency</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-oneplus-8t-phenomenal-speed-but-underwhelming-cameras/"><u>Comprehensive Review of OnePlus 8T: Phenomenal Speed but Underwhelming Cameras</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cing-content-with-youtube-tags-and-notes-for-2024/"><u>Enhancing Content with YouTube Tags & Notes for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/experience-copilot-pro-at-no-cost-the-ultimate-reasons-to-sign-up-today-insights-from-zdnet/"><u>Experience Copilot Pro at No Cost: The Ultimate Reasons to Sign Up Today – Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-downloading-the-latest-windows-compatible-drivers-for-your-canon-mg3522-all-in-one-printer/"><u>Guide to Downloading the Latest Windows-Compatible Drivers for Your Canon MG3522 All-in-One Printer</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-windows-11-captivates-engineering-minds-according-to-microsoft-insights-from-zdnet/"><u>How Windows 11 Captivates Engineering Minds, According to Microsoft - Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/maximizing-workplace-efficiency-revitalizing-a-traditional-office-layout-for-enhanced-teamwork-insights-from-zdnet/"><u>Maximizing Workplace Efficiency: Revitalizing a Traditional Office Layout for Enhanced Teamwork - Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsoft-shifts-strategy-expected-price-tags-on-future-windows-10-updates-revealed-zdnet/"><u>Microsoft Shifts Strategy: Expected Price Tags on Future Windows 10 Updates Revealed | ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/simplifying-communication-across-sectors-with-microsoft-teams-the-combined-work-life-and-study-app-insights-from-zdnet/"><u>Simplifying Communication Across Sectors with Microsoft Teams: The Combined Work, Life, and Study App - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-resolving-silent-stream-issues-on-twitch-platform/"><u>Solved: Resolving Silent Stream Issues on Twitch Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-users-handbook-for-coupling-amazons-fire-stick-with-a-high-quality-projector/"><u>The User's Handbook for Coupling Amazon's Fire Stick with a High-Quality Projector</u></a></li>
 </ul></div>
 

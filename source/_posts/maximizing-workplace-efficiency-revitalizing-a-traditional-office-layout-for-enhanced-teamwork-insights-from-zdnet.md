@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Workplace Efficiency: Revitalizing a Traditional Office Layout for Enhanced Teamwork - Insights From ZDNet"
-date: 2024-09-27T16:01:04.021Z
-updated: 2024-09-30T16:08:00.064Z
+date: 2024-09-30T23:00:22.206Z
+updated: 2024-10-05T21:15:24.269Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieve-superior-zoom-sound-2-essential-tweaks-explored/"><u>[New] Achieve Superior Zoom Sound 2 Essential Tweaks Explored</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-optimize-video-meetings-with-top-tier-10-free-recording-tools-for-2024/"><u>[New] Optimize Video Meetings with Top-Tier 10 Free Recording Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigate-to-the-top-5-mac-livestream-choices/"><u>[Updated] Navigate to the Top 5 Mac Livestream Choices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>[Updated] Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-6-minecraft-house-ideas-for-beginners-for-2024/"><u>[Updated] Top 6 Minecraft House Ideas for Beginners for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-efficiently-record-and-refine-webcam-videos-for-excellence/"><u>2024 Approved Efficiently Record & Refine WebCam Videos for Excellence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-pova-6-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Pova 6 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/free-black-dashboard-bootsstrap-4-admin-design-inspired-by-creative-tim/"><u>Free Black Dashboard Bootsstrap 4 Admin Design | Inspired by Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/innovative-bootstrap-powered-data-grid-feature-a-homage-to-creative-tims-original-concept/"><u>Innovative Bootstrap-Powered Data Grid Feature, a Homage to Creative Tim's Original Concept</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/innovative-design-inspirations-discover-over-35-stunning-tailwind-css-themes-and-template-collections-by-creative-tim/"><u>Innovative Design Inspirations: Discover Over 35 Stunning Tailwind CSS Themes & Template Collections by Creative Tim</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/premium-flowbite-admin-panel-soft-ui-with-advanced-features-using-tailwind-css-by-creative-tim/"><u>Premium Flowbite Admin Panel: Soft UI with Advanced Features Using Tailwind CSS by Creative Tim</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-intra-network-wifi-roaming-strategy/"><u>Understanding T-Mobile’s Intra-Network WiFi Roaming Strategy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-your-creations-uploading-imovie-videos-to-youtube-for-2024/"><u>[New] Maximizing Your Creations Uploading IMovie Videos to YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro/"><u>[New] Optimizing Your Workflow Efficiently Editing 360 Degree Videos in Premiere Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boost-income-secrets-to-successful-youtube-shorts-earning/"><u>[Updated] In 2024, Boost Income Secrets to Successful YouTube Shorts Earning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-mac-gif-saving-best-10-gif-apps-for-2024/"><u>[Updated] Top Mac GIF Saving Best 10 Gif Apps for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/a-guide-on-retrieving-healthcare-instructional-video-content-from-spears-learning-system/"><u>A Guide on Retrieving Healthcare Instructional Video Content From Spear's Learning System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-encompassing-review-djis-inspire-1-drone/"><u>All-Encompassing Review DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/boost-your-expertise-using-yesjapan-resources-get-educational-content-for-free/"><u>Boost Your Expertise Using YesJapan Resources: Get Educational Content for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-recover-my-eyes-only-pictures-on-snapchat/"><u>In 2024, How To Recover My Eyes Only Pictures On Snapchat</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solving-connectivity-issues-why-arent-links-working-on-flipbuilder-output-flipbooks/"><u>Solving Connectivity Issues: Why Aren't Links Working on FlipBuilder Output Flipbooks?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-to-adding-your-company-emblem-as-the-backdrop-in-flipbook-creations/"><u>Step-by-Step Guide to Adding Your Company Emblem as the Backdrop in FlipBook Creations</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-maximize-your-flipbook-experience-with-full-screen-mode-at-flipbuildercom/"><u>Step-by-Step Tutorial: Maximize Your FlipBook Experience with Full-Screen Mode at FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/tailor-made-product-manuals-made-simple-with-rich-design-templates-discover-how-on-flipbuildercom/"><u>Tailor-Made Product Manuals Made Simple with Rich Design Templates - Discover How on FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unlocking-sharing-problems-for-flipbuilder-html-ebooks-making-them-viewable-by-friends/"><u>Unlocking Sharing Problems for FlipBuilder HTML eBooks: Making Them Viewable by Friends</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies-for-2024/"><u>Updated In-Depth Review of Ivona Text to Speech by NextUp Technologies for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
 

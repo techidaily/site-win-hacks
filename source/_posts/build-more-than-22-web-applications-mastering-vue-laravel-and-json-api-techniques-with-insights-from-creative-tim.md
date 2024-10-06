@@ -1,7 +1,7 @@
 ---
 title: "Build More than 22 Web Applications: Mastering Vue, Laravel, and JSON API Techniques with Insights From Creative Tim"
-date: 2024-09-28T16:00:35.795Z
-updated: 2024-09-30T16:10:58.300Z
+date: 2024-10-01T00:30:06.165Z
+updated: 2024-10-05T19:02:14.775Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,15 +54,19 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-achieving-a-noiseless-presence-on-social-video-platforms-for-2024/"><u>[Updated] Achieving a Noiseless Presence on Social Video Platforms for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-the-criteria-for-youtube-comment-spotlighting/"><u>[Updated] Understanding the Criteria for YouTube Comment Spotlighting</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-shared-humor-top-20-memes-across-social-networks/"><u>2024 Approved Shared Humor Top 20 Memes Across Social Networks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>2024 Approved Top 4 Remedies Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/anticipating-the-future-knowing-when-microsoft-plans-to-phase-out-windows-and-office-versions/"><u>Anticipating the Future: Knowing When Microsoft Plans to Phase Out Windows and Office Versions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/boost-your-pcs-performance-on-windows-11-with-this-hidden-feature-to-quickly-terminate-sluggish-programs-techradar/"><u>Boost Your PC's Performance on Windows 11 with This Hidden Feature to Quickly Terminate Sluggish Programs | TechRadar</u></a></li>
-<li><a href="https://article-tips.techidaily.com/break-down-barriers-with-cost-free-vob-player-for-2024/"><u>Break Down Barriers with Cost-Free VOB Player for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/chromebook-users-rejoice-newly-formed-alliance-enables-running-of-all-windows-programs-insights-from-zdnet/"><u>Chromebook Users Rejoice: Newly Formed Alliance Enables Running of All Windows Programs – Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-are-apples-new-processors-revolutionizing-editing-tech/"><u>[New] 2024 Approved Are Apple's New Processors Revolutionizing Editing Tech?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-visualizing-the-spectrum-of-curves-in-photoshop/"><u>[New] 2024 Approved Visualizing the Spectrum of Curves in Photoshop</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-conquer-the-financial-frontier-of-tiktok-with-these-8-money-making-techniques/"><u>[Updated] Conquer the Financial Frontier of TikTok with These 8 Money-Making Techniques</u></a></li>
 <li><a href="https://win-hacks.techidaily.com/discover-the-top-secret-shortcuts-of-windows-trackpad-that-every-expert-should-master-insider-tips-revealed/"><u>Discover the Top Secret Shortcuts of Windows Trackpad That Every Expert Should Master - Insider Tips Revealed!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-continuity-a-step-by-step-guide-to-transferring-important-settings-and-documents-from-old-to-new-pc-using-windows-backup-tools/"><u>Effortless Continuity: A Step-by-Step Guide to Transferring Important Settings and Documents From Old to New PC Using Windows Backup Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/foremost-next-gen-video-game-devices-unveiled/"><u>Foremost Next-Gen Video Game Devices Unveiled</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/global-tech-crisis-prevention-takes-center-stage-at-microsofts-security-conference-experts-weigh-in/"><u>Global Tech Crisis Prevention Takes Center Stage at Microsoft's Security Conference: Experts Weigh In</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-does-apple-playfully-ridicule-windows-laptops-spotting-the-subject-of-their-humor/"><u>How Does Apple Playfully Ridicule Windows Laptops? Spotting the Subject of Their Humor.</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-masterfully-configure-your-xubuntu-linux-desktop-unleashing-full-potential-with-expert-guidance-featured-on-zdnet/"><u>How to Masterfully Configure Your Xubuntu Linux Desktop: Unleashing Full Potential with Expert Guidance Featured on ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/macos-vs-windows-unraveling-common-errors-among-windows-aficionados-a-zdnet-analysis/"><u>MacOS Vs. Windows: Unraveling Common Errors Among Windows Aficionados – A ZDNet Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-pc-performance-with-snappy-driver-installers-new-release-v113-unveiled/"><u>Maximizing Your PC Performance with Snappy Driver Installer's New Release - v1.13 Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-10-install-error-80240020-a-step-by-step-solution/"><u>Troubleshooting Guide for Windows 10 Install Error 80240020: A Step-by-Step Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-techniques-for-capturing-video-frames-as-individual-pictures/"><u>Ultimate Techniques for Capturing Video Frames as Individual Pictures</u></a></li>
 </ul></div>
 

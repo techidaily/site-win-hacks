@@ -1,7 +1,7 @@
 ---
 title: Are Unsupported Devices Being Excluded From Windows 11 Update Rollouts by Microsoft? | TechCrunch
-date: 2024-09-29T16:05:48.697Z
-updated: 2024-09-30T16:01:08.045Z
+date: 2024-10-02T16:04:05.294Z
+updated: 2024-10-05T19:25:27.520Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-visual-diary-unparalleled-tips-for-documenting-your-sims-stories-in-sims-4/"><u>[New] 2024 Approved The Ultimate Visual Diary Unparalleled Tips for Documenting Your Sims' Stories in Sims 4</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>[New] In 2024, A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-no-money-down-best-free-video-chat-platforms-in-2024/"><u>[New] No Money Down? Best Free Video Chat Platforms, In 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-channeling-flipbook-audience-to-visit-your-main-site-lessons-from-flipbuildercom/"><u>Effective Strategies for Channeling FlipBook Audience to Visit Your Main Site - Lessons From FlipBuilder.com</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-conversion-free-software-for-changing-powerpoint-presentations-into-flash-swf-files/"><u>Effortless Conversion: Free Software for Changing PowerPoint Presentations Into Flash (.swf) Files</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/expert-tips-for-not-displaying-flipbuilder-sites-in-your-ebooks-web-address/"><u>Expert Tips for Not Displaying FlipBuilder Sites in Your eBook's Web Address</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-to-setting-up-downloadable-ebooks-on-your-website-via-flipbuilder/"><u>Guide to Setting Up Downloadable eBooks on Your Website via FlipBuilder</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-batch-convert-your-ppt-presentations-into-digital-flipbooks-with-ease-discover-flipbuilders-powerful-feature/"><u>How to Batch Convert Your PPT Presentations Into Digital Flipbooks with Ease - Discover FlipBuilder's Powerful Feature</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-create-an-engaging-flipbook-ebook-with-images-by-using-txt-files-on-flipbuildercom/"><u>How to Create an Engaging Flipbook EBook with Images by Using TXT Files on FlipBuilder.com</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-resolve-issues-with-the-download-feature-at-flipbuildercom/"><u>How to Resolve Issues with the Download Feature at FlipBuilder.com</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-c51-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco C51 for Free? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-freefire-the-30-best-tag-strategies-to-increase-views/"><u>Mastering FreeFire The 30 Best Tag Strategies to Increase Views</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/scan-activation-successful-in-windows-11/"><u>Scan Activation Successful in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-your-samsung-remote-to-your-television/"><u>Ultimate Guide: Connecting Your Samsung Remote to Your Television</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-10-webcam-recording-the-top-10-software-options/"><u>Windows 10 Webcam Recording The Top 10 Software Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-the-ideal-youtube-playlist-an-easy-step-by-step-method/"><u>[Updated] 2024 Approved Crafting the Ideal YouTube Playlist An Easy, Step-by-Step Method</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-basic-blueprint-for-seamless-speech-alteration-in-your-windows-sphere-for-2024/"><u>[Updated] The Basic Blueprint for Seamless Speech Alteration in Your Windows Sphere for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-bestlive-cam-app-enhance-your-streaming-experience-with-manycam-features/"><u>1. BestLive Cam App: Enhance Your Streaming Experience with ManyCam Features</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-11-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 11 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965869181-enhance-your-experience-with-freshly-released-nvidia-rtx-2n80-super-driver-packs-windows-compatibility-guaranteed/"><u>Enhance Your Experience with Freshly Released NVIDIA RTX 2N80 Super Driver Packs - Windows Compatibility Guaranteed</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-for-transforming-bild-videos-to-mp4-on-windows-and-mac-systems/"><u>Step-by-Step Tutorial for Transforming .BILD Videos to MP4 on Windows & Mac Systems</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-on-downloading-and-saving-learnvray-content-as-mp4-or-avi-files/"><u>Step-by-Step Tutorial on Downloading and Saving LearnVray Content as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/steps-to-access-free-dawn-weaver-dog-agility-lessons-video-guide/"><u>Steps to Access Free Dawn Weaver Dog Agility Lessons: Video Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/streamlined-conversion-save-your-favorite-films-from-megashare-and-convert-them-into-mp4-avi-or-mov-files/"><u>Streamlined Conversion: Save Your Favorite Films From Megashare and Convert Them Into MP4, AVI or MOV Files</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/tidal-downloader-pro-convert-and-save-your-favorite-tracks-from-tidal-as-mp4-mp3-or-flac-files/"><u>Tidal Downloader Pro: Convert and Save Your Favorite Tracks From Tidal as MP4, MP3 or FLAC Files</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-ranked-youtube-playlist-download-apps-comparing-the-best-for-macos-and-windows/"><u>Top-Ranked YouTube Playlist Download Apps: Comparing the Best for macOS & Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-first-impressions-of-the-advanced-apple-iphone-n15-pro-an-interactive-guide/"><u>Unboxing & First Impressions of the Advanced Apple iPhone N15 Pro: An Interactive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-project-gemini-by-google-a-dive-into-its-purpose-progress-and-the-innovations-its-pursuing-in-ai-development/"><u>Unraveling Project Gemini by Google: A Dive Into Its Purpose, Progress, and the Innovations It's Pursuing in AI Development</u></a></li>
 </ul></div>
 

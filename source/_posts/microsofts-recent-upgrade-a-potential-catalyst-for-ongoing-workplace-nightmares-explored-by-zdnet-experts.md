@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Recent Upgrade: A Potential Catalyst for Ongoing Workplace Nightmares, Explored by ZDNet Experts"
-date: 2024-09-26T16:02:23.832Z
-updated: 2024-09-30T16:01:40.622Z
+date: 2024-09-29T21:39:57.744Z
+updated: 2024-10-05T19:30:04.337Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/-step-by-step-approach-to-youtube-gold-music-reaction-magic-for-2024/"><u>[New] A Step-by-Step Approach to YouTube Gold Music Reaction Magic for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/levating-content-strategy-through-youtube-metrics-for-2024/"><u>[New] Elevating Content Strategy Through YouTube Metrics for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elite-race-games-collection-guide-for-2024/"><u>[New] Elite Race Games Collection Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>2024 Approved YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-the-leading-edge-of-web-browsing-the-data-you-need-to-see-powered-by-zdnet-analysis/"><u>Exploring the Leading Edge of Web Browsing : The Data You Need to See | Powered by ZDNet Analysis</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-diagnosing-no-audio-in-your-realtek-device-issue-resolved/"><u>Guide to Diagnosing No Audio in Your Realtek Device [Issue Resolved]</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/harnessing-creativity-in-microsoft-excel-the-unexpected-challenge-that-led-me-there-insights-from-zdnet/"><u>Harnessing Creativity in Microsoft Excel: The Unexpected Challenge That Led Me There - Insights From ZDNet</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-genai-is-revolutionizing-developer-workflow-insights-on-increased-productivity-in-software-projects/"><u>How GenAI Is Revolutionizing Developer Workflow: Insights on Increased Productivity in Software Projects</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-microsofts-ai-integration-in-surface-pro-and-laptop-poses-a-challenge-to-apple-zdnet-insight/"><u>How Microsoft's AI Integration in Surface Pro and Laptop Poses a Challenge to Apple - ZDNET Insight</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-restore-lifelike-sound-fidelity-by-thoroughly-cleansing-your-home-audio-speaker-units/"><u>How To Restore Lifelike Sound Fidelity by Thoroughly Cleansing Your Home Audio Speaker Units</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mastering-your-microsoft-365-plan-in-the-world-of-windows-11-with-guidance-by-experts-at-zdnet/"><u>Mastering Your Microsoft 365 Plan in the World of Windows 11 with Guidance by Experts at ZDNET</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/maximizing-workplace-efficiency-revitalizing-a-traditional-office-layout-for-enhanced-teamwork-insights-from-zdnet/"><u>Maximizing Workplace Efficiency: Revitalizing a Traditional Office Layout for Enhanced Teamwork - Insights From ZDNet</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/microsoft-shifts-strategy-expected-price-tags-on-future-windows-10-updates-revealed-zdnet/"><u>Microsoft Shifts Strategy: Expected Price Tags on Future Windows 10 Updates Revealed | ZDNet</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pixelated-panorama-vr-cinematic-odyssey/"><u>Pixelated Panorama VR Cinematic Odyssey</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/simplifying-communication-across-sectors-with-microsoft-teams-the-combined-work-life-and-study-app-insights-from-zdnet/"><u>Simplifying Communication Across Sectors with Microsoft Teams: The Combined Work, Life, and Study App - Insights From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-resolving-problems-with-the-realtek-rtl8723be-network-adapter/"><u>Troubleshooting & Resolving Problems with the Realtek RTL8723BE Network Adapter</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-7-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 7 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-key-to-successful-multi-view-facebook-streaming/"><u>[New] 2024 Approved The Key to Successful Multi-View Facebook Streaming</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-trending-beats-navigating-the-world-of-viral-tiktok-raps/"><u>2024 Approved Trending Beats Navigating the World of Viral TikTok Raps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-v29-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo V29 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-frameworks-for-engaging-visual-media/"><u>Balancing Frameworks for Engaging Visual Media</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-v30-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme V30</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-admin-panel-a-complete-bootstrap-4-dashboard-solution-for-flask-applications/"><u>Creative Tim's Admin Panel: A Complete Bootstrap 4 Dashboard Solution for Flask Applications</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-exclusive-pair-of-premium-ecommerce-themes/"><u>Creative Tim's Exclusive Pair of Premium eCommerce Themes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-creative-tims-best-3plus-astro-themes-and-customizable-design-templates-for-websites/"><u>Discover Creative Tim's Best 3+ Astro Themes and Customizable Design Templates for Websites</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/elevate-your-web-project-with-aspnets-best-admindashboard-solutions-by-creative-tim/"><u>Elevate Your Web Project with ASP.NET's Best Admin/Dashboard Solutions by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhanced-administrator-interface-flowbites-professional-dashboard-with-modern-tailwind-and-creative-tim-design/"><u>Enhanced Administrator Interface: Flowbite's Professional Dashboard with Modern Tailwind & Creative Tim Design</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exclusive-premium-django-designs-and-templates-by-creative-tim-elevate-your-web-project/"><u>Exclusive Premium Django Designs & Templates by Creative Tim: Elevate Your Web Project</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/explore-10plus-elegant-vue-material-ui-template-collections-by-creative-tim/"><u>Explore 10+ Elegant Vue Material UI Template Collections by Creative Tim</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-polishing-profile-vids-tips-and-tricks/"><u>In 2024, Polishing Profile Vids Tips and Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-what-to-do-if-the-facebook-message-shows-its-you-in-this-video/"><u>In 2024, What To Do If the Facebook Message Shows It’s You in This Video?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-visual-bug-tutorial-defeating-the-notorious-errgfxstate-error/"><u>Red Dead Redemption 2 Visual Bug Tutorial - Defeating the Notorious ERR_GFX_STATE Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unleash-your-imagination-best-drawers-for-ipados-for-2024/"><u>Unleash Your Imagination Best Drawers for iPadOS for 2024</u></a></li>
 </ul></div>
 

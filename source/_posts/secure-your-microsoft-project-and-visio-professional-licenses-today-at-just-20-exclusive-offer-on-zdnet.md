@@ -1,7 +1,7 @@
 ---
 title: Secure Your Microsoft Project and Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet!
-date: 2024-09-29T16:08:37.989Z
-updated: 2024-09-30T16:08:02.425Z
+date: 2024-10-01T20:15:29.399Z
+updated: 2024-10-05T16:14:00.226Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlock-hidden-potential-sharing-videos-with-ease/"><u>[New] Unlock Hidden Potential Sharing Videos with Ease</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>2024 Approved Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-12-video-capture-tools-never-stop/"><u>2024 Approved Perfect 12 Video Capture Tools - Never Stop</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/easy-guide-on-converting-and-downloading-skillmeup-video-content-in-various-formats/"><u>Easy Guide on Converting and Downloading SkillMeup Video Content in Various Formats</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/easy-guide-convert-br-mediasite-videos-into-mp4-format-for-pc-and-mac/"><u>Easy Guide: Convert BR Mediasite Videos Into MP4 Format for PC & Mac</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/easy-video-downloads-from-pac-12-how-to-capture-and-transform-videos-into-high-quality-mp4-or-avi-files/"><u>Easy Video Downloads From Pac-12: How to Capture and Transform Videos Into High-Quality MP4 or AVI Files</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-steps-how-to-transform-your-vudu-films-into-versatile-formats-like-mp4-and-mov/"><u>Effortless Steps: How to Transform Your Vudu Films Into Versatile Formats Like MP4 & MOV</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/get-your-favorite-tracks-with-a-click-directly-download-music-files-as-mp3-or-wav-from-audiomack/"><u>Get Your Favorite Tracks with a Click – Directly Download Music Files as MP3 or WAV From AudioMack</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-converting-and-downloading-youtube-content-as-a-keynote-friendly-video-file/"><u>Guide: Converting and Downloading YouTube Content as a Keynote Friendly Video File</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-converting-magic-stream-files-into-mp4avi-formats-for-mac-and-pc/"><u>Guide: Converting Magic Stream Files Into MP4/AVI Formats for Mac & PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-x50-gt-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor X50 GT FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-step-by-step-macootd-tiktok-creation-process/"><u>In 2024, Step by Step MacOOTD TikTok Creation Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-accessing-ai-chat-platforms-like-gpt-and-messaging-apps-sans-phone-registration/"><u>Step-by-Step Tutorial: Accessing AI Chat Platforms Like GPT and Messaging Apps Sans Phone Registration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-the-propstysdll-missing-mistake-in-your-system-expert-fixes/"><u>Tackling the Propstys.dll Missing Mistake in Your System – Expert Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[Updated] Buy Subscribers Wisely, Watch Your Numbers Soar!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-captivating-carousel-concept-for-ig/"><u>2024 Approved Captivating Carousel Concept for IG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-obs-mac-guide-streamlabs-setup/"><u>2024 Approved OBS Mac Guide Streamlabs Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-lut-use-in-premiere-pro-for-2024/"><u>Advanced Techniques for LUT Use in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/anticipating-the-future-knowing-when-microsoft-plans-to-phase-out-windows-and-office-versions/"><u>Anticipating the Future: Knowing When Microsoft Plans to Phase Out Windows and Office Versions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/controversial-microsoft-feature-sparks-discussion-leaving-key-privacy-queries-unresolved-insights-from-zdnet/"><u>Controversial Microsoft Feature Sparks Discussion, Leaving Key Privacy Queries Unresolved | Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/inside-look-microsoft-leader-uncovers-potential-challenges-facing-aspiring-professionals-zdnet/"><u>Inside Look: Microsoft Leader Uncovers Potential Challenges Facing Aspiring Professionals - ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leveraging-expertise-for-growth-the-impact-of-it-professionals-in-emerging-technology-free-enterprises-as-explained-by-zdnet/"><u>Leveraging Expertise for Growth: The Impact of IT Professionals in Emerging Technology-Free Enterprises, as Explained by ZDNET</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsoft-mutes-pleas-for-windows-11-lifeline-extension-dreams-dashed-in-stealth-mode-digital-sentinel-insights/"><u>Microsoft Mutes Pleas for Windows 11 Lifeline Extension - Dreams Dashed in Stealth Mode | Digital Sentinel Insights</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/preserve-your-data-while-refreshing-windows-11-a-step-by-step-guide/"><u>Preserve Your Data While Refreshing Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-final-line-unavailable-issue-on-your-iphone-a-comprehensive-guide/"><u>Resolving 'Final Line Unavailable' Issue on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-animators-toolkit-windows-movie-maker-for-winning-projects-for-2024/"><u>The Animator's Toolkit Windows Movie Maker for Winning Projects for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nvestors-handbook-for-monetized-youtubers/"><u>The Investor's Handbook for Monetized Youtubers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/upgrading-against-all-rules-how-some-users-managed-to-run-windows-11-on-unsupported-hardware-zdnet/"><u>Upgrading Against All Rules: How Some Users Managed to Run Windows 11 on Unsupported Hardware | ZDNet</u></a></li>
 </ul></div>
 

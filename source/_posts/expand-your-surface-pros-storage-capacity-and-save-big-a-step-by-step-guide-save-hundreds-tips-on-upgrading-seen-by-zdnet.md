@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Surface Pro's Storage Capacity & Save Big: A Step-by-Step Guide (Save Hundreds) - Tips on Upgrading Seen by ZDNet"
-date: 2024-09-25T16:08:58.628Z
-updated: 2024-09-30T16:08:36.809Z
+date: 2024-09-30T20:48:06.325Z
+updated: 2024-10-06T00:23:01.384Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-perfect-videos-in-total-quietude/"><u>[New] How To Record Perfect Videos in Total Quietude</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamline-entertainment-incorporating-subtitles-into-wmp/"><u>2024 Approved Streamline Entertainment Incorporating Subtitles Into WMP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-picture-in-picture-how-to-use-it-for-youtube/"><u>2024 Approved Understanding Picture In Picture How to Use It for YouTube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/clearing-up-the-mystery-fixes-for-iphone-blackout-screens/"><u>Clearing Up the Mystery: Fixes for iPhone Blackout Screens</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/convert-your-doc-files-into-pdfs-for-free-with-flipbuilder-effortless-format-conversion/"><u>Convert Your DOC Files Into PDFs for Free with FlipBuilder - Effortless Format Conversion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y200-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y200 Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-s18e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo S18e Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-quick-video-pace-adjustments-on-youtube-for-2024/"><u>Mastering Quick Video Pace Adjustments on YouTube for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/steps-to-access-free-dawn-weaver-dog-agility-lessons-video-guide/"><u>Steps to Access Free Dawn Weaver Dog Agility Lessons: Video Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/streamlined-conversion-save-your-favorite-films-from-megashare-and-convert-them-into-mp4-avi-or-mov-files/"><u>Streamlined Conversion: Save Your Favorite Films From Megashare and Convert Them Into MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/tidal-downloader-pro-convert-and-save-your-favorite-tracks-from-tidal-as-mp4-mp3-or-flac-files/"><u>Tidal Downloader Pro: Convert and Save Your Favorite Tracks From Tidal as MP4, MP3 or FLAC Files</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-ranked-youtube-playlist-download-apps-comparing-the-best-for-macos-and-windows/"><u>Top-Ranked YouTube Playlist Download Apps: Comparing the Best for macOS & Windows</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-downloading-content-how-to-download-videos-and-films-from-myvideo-as-mp4-avi-files-efficiently/"><u>Ultimate Guide to Downloading Content: How to Download Videos and Films From MyVideo as MP4, AVI Files Efficiently</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-guide-converting-datpiff-tracks-into-multiple-formats-mp3-aac-wav-wma-flac/"><u>Ultimate Guide: Converting DatPiff Tracks Into Multiple Formats (MP3, AAC, WAV, WMA, FLAC)</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-tutorial-on-changing-vimeo-file-types-to-popular-formats-such-as-avi-flv-and-mp3/"><u>Ultimate Tutorial on Changing Vimeo File Types to Popular Formats Such as AVI, FLV, and MP3</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-soundbites-insights-for-youtube-short-tunes/"><u>[New] Elevate Your Soundbites Insights for YouTube Short Tunes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-easy-screencasting-techniques-systematic-guidebook/"><u>[New] In 2024, Easy Screencasting Techniques Systematic Guidebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-insights-choosing-the-best-platforms-for-watching-cricket-live-for-2024/"><u>[Updated] Expert Insights Choosing the Best Platforms for Watching Cricket LIVE for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-art-of-building-engaging-facebook-moment-slides/"><u>[Updated] In 2024, The Art of Building Engaging Facebook Moment Slides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-sierra-icloud-document-and-desktop-guide/"><u>[Updated] The Ultimate Sierra iCloud Document & Desktop Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>2024 Approved Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/controversial-microsoft-feature-sparks-discussion-leaving-key-privacy-queries-unresolved-insights-from-zdnet/"><u>Controversial Microsoft Feature Sparks Discussion, Leaving Key Privacy Queries Unresolved | Insights From ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/gardyn-smart-indoor-gardening-kit-30-review-the-ultimate-guide-for-a-thriving-home-harvest/"><u>Gardyn Smart Indoor Gardening Kit 3.0 Review: The Ultimate Guide for a Thriving Home Harvest</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/in-depth-analysis-of-the-ultra-customizable-mavix-m9-gaming-chair-an-honest-verdict-for-gamers/"><u>In-Depth Analysis of the Ultra-Customizable Mavix M9 Gaming Chair: An Honest Verdict for Gamers!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/inside-look-microsoft-leader-uncovers-potential-challenges-facing-aspiring-professionals-zdnet/"><u>Inside Look: Microsoft Leader Uncovers Potential Challenges Facing Aspiring Professionals - ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsoft-mutes-pleas-for-windows-11-lifeline-extension-dreams-dashed-in-stealth-mode-digital-sentinel-insights/"><u>Microsoft Mutes Pleas for Windows 11 Lifeline Extension - Dreams Dashed in Stealth Mode | Digital Sentinel Insights</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/preserve-your-data-while-refreshing-windows-11-a-step-by-step-guide/"><u>Preserve Your Data While Refreshing Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/secure-your-microsoft-project-and-visio-professional-licenses-today-at-just-20-exclusive-offer-on-zdnet/"><u>Secure Your Microsoft Project and Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-dilemma-of-affordability-in-the-microsoft-surface-go-review-more-than-just-your-ordinary-tablet/"><u>The Dilemma of Affordability in the Microsoft Surface Go Review: More Than Just Your Ordinary Tablet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-rated-ergonomic-standing-chair-and-stability-stool-options-expert-reviews-by-zdnet/"><u>Top-Rated Ergonomic Standing Chair & Stability Stool Options : Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-for-downloading-hp-laserjet-pro-mfp-m127fn-printer-drivers/"><u>Troubleshooting Guide for Downloading HP LaserJet Pro MFP M127FN Printer Drivers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-video-editing-on-a-mac-here-are-the-best-options-for/"><u>Updated Video Editing on a Mac? Here Are the Best Options For</u></a></li>
 </ul></div>
 

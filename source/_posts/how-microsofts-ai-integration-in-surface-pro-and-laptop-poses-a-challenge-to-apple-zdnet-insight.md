@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's AI Integration in Surface Pro and Laptop Poses a Challenge to Apple - ZDNET Insight
-date: 2024-09-29T16:00:24.811Z
-updated: 2024-09-30T16:08:41.316Z
+date: 2024-10-02T00:18:06.568Z
+updated: 2024-10-05T17:03:01.443Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hacks.techidaily.com/1726792604735-m-0/"><u> [M = 0 </u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pinnacle-speed-windows-10-image-browser/"><u>[Updated] In 2024, Pinnacle Speed Windows 10 Image Browser</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-transform-your-instagram-vocal-identity-today/"><u>[Updated] In 2024, Transform Your Instagram Vocal Identity Today</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-should-you-consider-itop-for-professional-use-in-2024/"><u>[Updated] Should You Consider ITop for Professional Use, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-producing-square-videos-in-imovie-for-instagram/"><u>[Updated] Step-by-Step Producing Square Videos in iMovie for Instagram</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-video-editing-in-obs-with-luts/"><u>2024 Approved Streamlining Video Editing in OBS With LUTs</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/answer-you-would-need-to-use-6-cups-of-flour-to-keep-the-ratio-of-flour-to-sugar-at-21/"><u>Answer: You Would Need to Use 6 Cups of Flour to Keep the Ratio of Flour to Sugar at 2:1.</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/bootstrap-calendar-excellence-discover-the-unmatched-features-of-the-free-date-picker-by-creative-tim/"><u>Bootstrap Calendar Excellence: Discover the Unmatched Features of the FREE Date Picker by Creative Tim!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/build-more-than-22-web-applications-mastering-vue-laravel-and-json-api-techniques-with-insights-from-creative-tim/"><u>Build More than 22 Web Applications: Mastering Vue, Laravel, and JSON API Techniques with Insights From Creative Tim</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-elon-musks-vision-a-deep-dive-into-the-intriguing-world-of-truthgpt/"><u>Unraveling Elon Musk's Vision: A Deep Dive Into the Intriguing World of TruthGPT!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windows-10-update-cost-microsoft-announces-paid-service-beginning-learn-the-prices/"><u>Windows 10 Update Cost: Microsoft Announces Paid Service Beginning - Learn the Prices!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windows-11-to-get-a-price-tag-discover-microsofts-new-policy-on-charging-for-future-updates-from-next-year-zdnets-breakdown-of-costs/"><u>Windows 11 to Get a Price Tag: Discover Microsoft’s New Policy on Charging for Future Updates From Next Year - ZDNet's Breakdown of Costs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-definitive-guide-to-proportion-perfection-in-youtube-for-2024/"><u>[Updated] The Definitive Guide to Proportion Perfection in YouTube for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critical-assessment-unveiling-the-strengths-and-weaknesses-of-pioneer-bdr-xd05b-blu-ray-burner-design/"><u>Critical Assessment: Unveiling the Strengths & Weaknesses of Pioneer BDR-XD05B Blu-Ray Burner Design</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-tips-for-not-displaying-flipbuilder-sites-in-your-ebooks-web-address/"><u>Expert Tips for Not Displaying FlipBuilder Sites in Your eBook's Web Address</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-to-setting-up-downloadable-ebooks-on-your-website-via-flipbuilder/"><u>Guide to Setting Up Downloadable eBooks on Your Website via FlipBuilder</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-batch-convert-your-ppt-presentations-into-digital-flipbooks-with-ease-discover-flipbuilders-powerful-feature/"><u>How to Batch Convert Your PPT Presentations Into Digital Flipbooks with Ease - Discover FlipBuilder's Powerful Feature</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-create-an-engaging-flipbook-ebook-with-images-by-using-txt-files-on-flipbuildercom/"><u>How to Create an Engaging Flipbook EBook with Images by Using TXT Files on FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-resolve-issues-with-the-download-feature-at-flipbuildercom/"><u>How to Resolve Issues with the Download Feature at FlipBuilder.com</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-f25-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo F25 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Bootloader Easily</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ps4-pro-evaluation-a-leap-to-crystal-clear-4k-gaming-experience/"><u>PS4 Pro Evaluation: A Leap to Crystal Clear, 4K Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-of-trio-configuring-widgets-for-windows-11-users/"><u>Triumph of Trio: Configuring Widgets for Windows 11 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-upgrading-your-videos-from-standard-definition-to-crystal-clear-hd-or-stunning-4k-on-pcs-and-macbooks/"><u>Ultimate Guide: Upgrading Your Videos From Standard Definition to Crystal-Clear HD or Stunning 4K on PCs & MacBooks</u></a></li>
 </ul></div>
 

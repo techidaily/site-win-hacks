@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Against All Rules: How Some Users Managed to Run Windows 11 on Unsupported Hardware | ZDNet"
-date: 2024-09-24T16:08:02.400Z
-updated: 2024-09-30T16:08:45.260Z
+date: 2024-10-04T16:03:56.320Z
+updated: 2024-10-05T22:26:17.106Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,18 +61,18 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -91,6 +91,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -98,10 +105,16 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -109,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,19 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-10-screen-capture-apps-for-mac-users/"><u>[New] Essential 10 Screen Capture Apps for Mac Users</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-how-to-customize-thumbnail-background-colors-with-flipbuilder-step-by-step-guide/"><u>1. How to Customize Thumbnail Background Colors with FlipBuilder - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-how-to-set-your-preferred-application-as-the-first-program-on-startup-with-flipbuildercom/"><u>1. How to Set Your Preferred Application as the First Program on Startup with FlipBuilder.com</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-quiet-echo-architects-6-unpublicized-voice-recorder-apps/"><u>2024 Approved Quiet Echo Architects 6 Unpublicized Voice Recorder Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-control-over-sound-dampening-in-audacity/"><u>2024 Approved Understanding Control over Sound Dampening in Audacity</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/adjusting-animation-speed-for-seamless-navigation-in-flipbook-creator/"><u>Adjusting Animation Speed for Seamless Navigation in FlipBook Creator</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/convert-your-ms-word-documents-to-stunning-high-res-images-flipbuilder-free-conversion-tool/"><u>Convert Your MS Word Documents to Stunning High-Res Images - FlipBuilder Free Conversion Tool!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/design-chic-interactive-brochures-quickly-with-flipbooks-modern-and-user-friendly-templates-at-flipbuildercom/"><u>Design Chic Interactive Brochures Quickly with FlipBook's Modern and User-Friendly Templates at [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/diverse-template-elements-and-their-functionality-on-flipbuildercom/"><u>Diverse Template Elements and Their Functionality on flipbuilder.com</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Fingerprint Lock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speedy-no-cost-avi-video-converter-software-the-ultimate-guide-for-hassle-free-format-changes/"><u>Speedy, No-Cost AVI Video Converter Software - The Ultimate Guide for Hassle-Free Format Changes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-incorporating-music-into-your-canva-projects/"><u>Step-by-Step Incorporating Music Into Your Canva Projects</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-techniques-correcting-errors-with-ntldr-on-your-computer/"><u>Ultimate Troubleshooting Techniques: Correcting Errors with NTLDR on Your Computer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-achieving-seamless-360-streaming-on-facebook/"><u>[Updated] Achieving Seamless 360 Streaming on Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>2024 Approved Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/circlesmiths-arsenal-for-2024/"><u>Circlesmith's Arsenal for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/contrasting-vocabularies-across-the-atlantic/"><u>Contrasting Vocabularies Across the Atlantic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-black-boxes-insights-into-their-functioning-mechanisms/"><u>Decoding AI Black Boxes - Insights Into Their Functioning Mechanisms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/highest-quality-portable-optical-readwrite-devices-2024-selection/"><u>Highest Quality Portable Optical Read/Write Devices - 2024 Selection</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-6s-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 6s?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-rcu-actions-essential-frequently-asked-questions-explained/"><u>Mastering RCU Actions: Essential Frequently Asked Questions Explained</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-the-art-of-live-game-streaming-on-smashcastcom-an-ultimate-walkthrough-for-gamers/"><u>Mastering the Art of Live Game Streaming on Smashcast.com: An Ultimate Walkthrough for Gamers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/optimizing-website-crawling-a-comprehensive-guide-to-effective-sitemaps/"><u>Optimizing Website Crawling: A Comprehensive Guide to Effective Sitemaps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/revolutionize-your-lessons-implementing-youtube-in-the-academic-realm-for-2024/"><u>Revolutionize Your Lessons Implementing YouTube in the Academic Realm for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/the-ultimate-guide-to-removing-emphasis-markers-from-pdf-files-updated-methods/"><u>The Ultimate Guide to Removing Emphasis Markers From PDF Files – Updated Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audacity-sound-output-issues-with-these-5-simple-techniques/"><u>Troubleshoot Audacity Sound Output Issues with These 5 Simple Techniques</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-apowersoft-mobile-app-issues-unable-to-access-sms-calls-and-contact-details-on-android-devices/"><u>Troubleshooting Apowersoft Mobile App Issues: Unable to Access SMS, Calls & Contact Details on Android Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-downloading-content-how-to-download-videos-and-films-from-myvideo-as-mp4-avi-files-efficiently/"><u>Ultimate Guide to Downloading Content: How to Download Videos and Films From MyVideo as MP4, AVI Files Efficiently</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-converting-datpiff-tracks-into-multiple-formats-mp3-aac-wav-wma-flac/"><u>Ultimate Guide: Converting DatPiff Tracks Into Multiple Formats (MP3, AAC, WAV, WMA, FLAC)</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-tutorial-on-changing-vimeo-file-types-to-popular-formats-such-as-avi-flv-and-mp3/"><u>Ultimate Tutorial on Changing Vimeo File Types to Popular Formats Such as AVI, FLV, and MP3</u></a></li>
 </ul></div>
 

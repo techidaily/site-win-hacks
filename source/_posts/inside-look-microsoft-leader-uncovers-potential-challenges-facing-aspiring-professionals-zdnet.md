@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Leader Uncovers Potential Challenges Facing Aspiring Professionals - ZDNet"
-date: 2024-09-28T16:00:30.425Z
-updated: 2024-09-30T16:05:38.048Z
+date: 2024-10-04T17:05:07.955Z
+updated: 2024-10-05T17:55:34.532Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +137,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-basic-procedure-swapping-video-playback-in-vlc-media-player/"><u>[New] 2024 Approved Basic Procedure Swapping Video Playback in VLC Media Player</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dissecting-youtubes-operational-model-post-upload-for-2024/"><u>[New] Dissecting YouTube's Operational Model Post-Upload for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-free-mobile-photography-tools-for-slow-movement-effect/"><u>2024 Approved Premium Free Mobile Photography Tools for Slow Movement Effect</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-crossfade-excellence-with-audacitys-comprehensive-tutorials/"><u>Dive Into Crossfade Excellence with Audacity's Comprehensive Tutorials</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-episodes-from-1tv-streaming-networks-af-and-georgia-with-1tv-downloader/"><u>Download Episodes From 1TV Streaming Networks (AF and Georgia) with 1TV Downloader</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-laola1tv-shows-and-movies-quickly-direct-pc-and-mac-downloads/"><u>Download LAOLA1.TV Shows & Movies Quickly - Direct PC & Mac Downloads</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-videos-and-podcasts-for-later-viewing-with-top-mac-and-windows-software-solutions/"><u>Download Videos & Podcasts for Later Viewing with Top Mac & Windows Software Solutions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-yahoo7-television-shows-in-high-quality-as-mp4-files-for-pc-or-mac/"><u>Download Yahoo7 Television Shows in High Quality as MP4 Files for PC or Mac</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/downloading-youtube-videos-in-compatible-formats-for-presentations-with-keynote/"><u>Downloading YouTube Videos in Compatible Formats for Presentations with Keynote</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-ios-data-rescue-techniques-how-to-reclaim-lost-files-on-your-apple-devices/"><u>Expert IOS Data Rescue Techniques: How to Reclaim Lost Files on Your Apple Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-pro-max-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 Pro Max using itunes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mov-to-gif-conversion-guide-unveiling-3-easy-techniques-including-2-cost-free-solutions/"><u>MOV to GIF Conversion Guide: Unveiling 3 Easy Techniques, Including 2 Cost-Free Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-superior-features-of-the-new-chatgpt-desktop-application/"><u>Unveiling Superior Features of the New ChatGPT Desktop Application</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturafx-firefox-add-ons/"><u>[New] 2024 Approved CapturaFX FireFox Add-Ons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quality-control-vll-approach-to-apps/"><u>[New] Quality Control VLL Approach to Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-game-plan-to-trendsetting-video-content-for-2024/"><u>[New] The Game Plan to Trendsetting Video Content for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-12-pro-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 12 Pro Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beyond-microsoft-teams-and-zoom-discover-prysms-groundbreaking-lip-reading-feature-thats-shaking-up-the-video-conferencing-market/"><u>Beyond Microsoft Teams and Zoom? Discover Prysm's Groundbreaking Lip-Reading Feature That’s Shaking Up the Video Conferencing Market</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comprehensive-review-of-brydge-sp-max-plus-the-ultimate-protective-keyboard-for-surface-pro-8-insights-from-zdnet/"><u>Comprehensive Review of Brydge SP Max Plus: The Ultimate Protective Keyboard for Surface Pro 8 - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-hitman-3-network-issue-a-step-by-step-guide/"><u>Fixing the Hitman 3 Network Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/gardyn-smart-indoor-gardening-kit-30-review-the-ultimate-guide-for-a-thriving-home-harvest/"><u>Gardyn Smart Indoor Gardening Kit 3.0 Review: The Ultimate Guide for a Thriving Home Harvest</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-enhance-your-gopros-battery-health/"><u>In 2024, How to Enhance Your GoPro's Battery Health</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/in-depth-analysis-of-the-ultra-customizable-mavix-m9-gaming-chair-an-honest-verdict-for-gamers/"><u>In-Depth Analysis of the Ultra-Customizable Mavix M9 Gaming Chair: An Honest Verdict for Gamers!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterclass-in-tv-streaming-the-ultimate-guide-for-2024/"><u>Masterclass in TV Streaming The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-xs-max-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone XS Max to PC or Mac | Stellar</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/secure-your-microsoft-project-and-visio-professional-licenses-today-at-just-20-exclusive-offer-on-zdnet/"><u>Secure Your Microsoft Project and Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/the-rise-of-siri-at-apple-signals-a-move-to-an-ai-powered-bing-equivalent-zdnet/"><u>The Rise of Siri at Apple Signals a Move to an AI-Powered Bing Equivalent | ZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-12-secure-and-legitimate-sites-offering-free-movies-online-your-ultimate-guide/"><u>Top 12 Secure & Legitimate Sites Offering Free Movies Online: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-rated-ergonomic-standing-chair-and-stability-stool-options-expert-reviews-by-zdnet/"><u>Top-Rated Ergonomic Standing Chair & Stability Stool Options : Expert Reviews by ZDNet</u></a></li>
 </ul></div>
 
