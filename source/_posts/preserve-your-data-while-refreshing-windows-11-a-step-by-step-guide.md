@@ -1,7 +1,7 @@
 ---
 title: Preserve Your Data While Refreshing Windows 11 - A Step-by-Step Guide
-date: 2024-10-01T18:43:56.512Z
-updated: 2024-10-05T18:10:05.785Z
+date: 2024-10-07T16:34:20.518Z
+updated: 2024-10-11T16:50:49.391Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-smart-recording-solutions-for-schools-and-colleges-for-2024/"><u>[New] Smart Recording Solutions for Schools & Colleges for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>[Updated] 2024 Approved Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-license-free-minecraft-banner-pack/"><u>2024 Approved License-Free Minecraft Banner Pack</u></a></li>
-<li><a href="https://app-tips.techidaily.com/bridging-the-knowledge-chasm-in-artifice-intelligence-through-robust-data-management-tips-and-techniques/"><u>Bridging the Knowledge Chasm in Artifice Intelligence Through Robust Data Management - Tips and Techniques</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comparing-apples-latest-how-does-iphone-xs-stack-up-against-xs-max-and-xr/"><u>Comparing Apple's Latest: How Does iPhone XS Stack Up Against XS Max & XR?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/convert-youtube-videos-to-your-iphone-with-this-free-mac-app/"><u>Convert YouTube Videos to Your iPhone with This FREE Mac App!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-methods-for-reducing-mp3-file-size-on-desktops-and-smartphones/"><u>Effortless Methods for Reducing MP3 File Size on Desktops & Smartphones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/explore-the-leading-microphones-in-podcasting/"><u>Explore the Leading Microphones in Podcasting</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-zero-to-hero-mastering-wax-free-video-editor-for-2024/"><u>From Zero to Hero Mastering Wax Free Video Editor for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-to-use-tools-for-transcribing-digital-conferences/"><u>In 2024, Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/overcoming-issues-with-apowermanager-app-guide-for-seamless-media-sync-to-ios-devices/"><u>Overcoming Issues with ApowerManager App - Guide for Seamless Media Sync to iOS Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-smart-8-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Smart 8 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/transfer-data-efficiently-moving-files-from-pc-to-samsung-galaxy-devices/"><u>Transfer Data Efficiently: Moving Files From PC to Samsung Galaxy Devices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/two-simple-strategies-for-successfully-uploading-big-files-by-email/"><u>Two Simple Strategies for Successfully Uploading Big Files by Email</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-guide-taking-perfect-screenshots-with-windows-11/"><u>Ultimate Guide: Taking Perfect Screenshots with Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1726792604735-m-0/"><u> [M = 0 </u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-srgb-and-traditional-rgb-rendering/"><u>[New] 2024 Approved Srgb and Traditional Rgb Rendering</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-deletion-methods-for-youtubes-backlogged-video-collection-for-2024/"><u>[New] Deletion Methods for YouTube's Backlogged Video Collection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syncing-sounds-to-visuals-online/"><u>[Updated] Syncing Sounds to Visuals Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-full-screen-flexibility-with-pip-feature-on-iphones/"><u>2024 Approved Unlock Full Screen Flexibility with PIP Feature on iPhones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-tp-link-archer-c50-router-evaluation-balancing-cost-with-quality/"><u>Affordable TP-Link Archer C50 Router Evaluation: Balancing Cost with Quality</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/answer-you-would-need-to-use-6-cups-of-flour-to-keep-the-ratio-of-flour-to-sugar-at-21/"><u>Answer: You Would Need to Use 6 Cups of Flour to Keep the Ratio of Flour to Sugar at 2:1.</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/bootstrap-calendar-excellence-discover-the-unmatched-features-of-the-free-date-picker-by-creative-tim/"><u>Bootstrap Calendar Excellence: Discover the Unmatched Features of the FREE Date Picker by Creative Tim!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/build-more-than-22-web-applications-mastering-vue-laravel-and-json-api-techniques-with-insights-from-creative-tim/"><u>Build More than 22 Web Applications: Mastering Vue, Laravel, and JSON API Techniques with Insights From Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-admin-panel-a-complete-bootstrap-4-dashboard-solution-for-flask-applications/"><u>Creative Tim's Admin Panel: A Complete Bootstrap 4 Dashboard Solution for Flask Applications</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-exclusive-pair-of-premium-ecommerce-themes/"><u>Creative Tim's Exclusive Pair of Premium eCommerce Themes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/should-cyber-spaces-permit-negative-feedback/"><u>Should Cyber Spaces Permit Negative Feedback?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/the-ultimate-guide-to-removing-emphasis-markers-from-pdf-files-updated-methods/"><u>The Ultimate Guide to Removing Emphasis Markers From PDF Files – Updated Methods</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-apowersoft-mobile-app-issues-unable-to-access-sms-calls-and-contact-details-on-android-devices/"><u>Troubleshooting Apowersoft Mobile App Issues: Unable to Access SMS, Calls & Contact Details on Android Devices</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/website-tailored-using-advanced-cookiebot-solutions-for-custom-user-experiences/"><u>Website Tailored Using Advanced Cookiebot Solutions for Custom User Experiences</u></a></li>
 </ul></div>
 
