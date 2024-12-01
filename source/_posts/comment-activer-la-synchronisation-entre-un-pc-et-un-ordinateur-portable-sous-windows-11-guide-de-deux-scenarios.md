@@ -1,7 +1,7 @@
 ---
 title: "Comment Activer La Synchronisation Entre Un PC Et Un Ordinateur Portable Sous Windows 11 : Guide De Deux Scénarios"
-date: 2024-11-15T18:51:20.761Z
-updated: 2024-11-22T17:21:02.613Z
+date: 2024-11-28T17:32:54.778Z
+updated: 2024-11-30T18:16:19.666Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9042a37d5d2c8af9496ec8a51e895c3285abaf5142ec54106a5ba432af4fcf01.jpg
@@ -43,7 +43,7 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -53,10 +53,6 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## About winload.efi file
 
@@ -75,7 +71,7 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
@@ -91,7 +87,7 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best free bootable media creation tool
@@ -103,7 +99,7 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
@@ -115,7 +111,7 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
@@ -123,7 +119,7 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -188,6 +184,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 Exercise caution to avoid potential system errors when using this command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 5\. Repair EFI Boot Loader
 
 To repair the EFI boot loader and address corrupted or missing winload.efi errors, follow these steps:
@@ -238,14 +238,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -295,7 +295,7 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -313,22 +313,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-acoustic-ambiance-in-photo-videos/"><u>[New] 2024 Approved Acoustic Ambiance in Photo Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/emystifying-video-profit-on-youtube/"><u>[New] Demystifying Video Profit on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-best-android-animal-games/"><u>[New] The Ultimate Guide to Best Android Animal Games</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastery-techniques-for-embedding-social-media-live-videos-for-2024/"><u>[Updated] Mastery Techniques for Embedding Social Media Live Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>[Updated] Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ctical-approach-to-incorporate-youtube-playlists-online/"><u>A Practical Approach to Incorporate YouTube Playlists Online</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/asusand/"><u>ASUSコンピューター保護法：無料で安全にバックアップ&リカバリ手順解説</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/come-imparare-ad-usare-robocopy-su-windows-11-unessenziale-guida-e-sostituto/"><u>Come Imparare Ad Usare Robocopy Su Windows 11: Un'Essenziale Guida E Sostituto</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/erstellen-eines-server-2012-wiederherstellungslaufwerks-eine-schritt-fur-schritt-anleitung/"><u>Erstellen Eines Server 2012-Wiederherstellungslaufwerks: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-spends-5-million-attracting-journalists-to-its-substack-rival/"><u>Facebook Spends $5 Million Attracting Journalists to Its Substack Rival</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/quick-guide-resurrecting-your-vms-fast-with-vmware-and-hyper-v/"><u>Quick Guide: Resurrecting Your VMs Fast with VMWare and Hyper-V</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/resolution-facile-comment-configurer-correctement-votre-image-systeme-sur-une-cle-usb-pour-les-systemes-dexploitation-windows/"><u>Résolution Facile : Comment Configurer Correctement Votre Image Système Sur Une Clé USB Pour Les Systèmes D'Exploitation Windows</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-retrieving-your-xbox-cs-lost-game-saves-after-hdd-formatting/"><u>Step-by-Step Guide: Retrieving Your Xbox C's Lost Game Saves After HDD Formatting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-the-top-13-free-pdf-editors-of-july-2024/"><u>The Comprehensive Guide to the Top 13 Free PDF Editors of July 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-11-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 11 Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728467690334-usb/"><u>USBメモリをフォーマットしたら、どんな影響があるのでしょうか？</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728509917488-windows-113/"><u>Windows 11でうまくローカルバックアップするための3つのシンプル方法</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-buy-youtube-views-everything-you-need-to-know-for-2024/"><u>[New] How to Buy YouTube Views - Everything You Need To Know for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam-in-2024/"><u>[New] In Pursuit of Perfection Is Black GoPro Better than Sony Action Cam, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-sequential-appearance-start/"><u>[Updated] In 2024, Sequential Appearance Start</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-professional-lands-cooked-by-audacity/"><u>[Updated] Navigating the Professional Lands Cooked by Audacity</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-schlanke-dateivorgange-ohne-attributkopie-unter-windows-optimieren/"><u>1. Schlanke Dateivorgänge Ohne Attributkopie Unter Windows Optimieren</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/best-iphone-data-retrieval-apps-for-pcmac-enthusiasts-a-comprehensive-guide/"><u>Best iPhone Data Retrieval Apps for PC/Mac Enthusiasts: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuite-dun-fichier-mpeg-en-format-avi-sur-internet-movavi/"><u>Conversion Gratuite D'un Fichier MPEG en Format AVI Sur Internet - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-gameplay-performance-for-cod-black-ops-aturality-iv-resolving-lags-and-frame-rate-drop/"><u>Enhanced Gameplay Performance for Cod Black Ops Aturality IV: Resolving Lags and Frame Rate Drop</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-complet-de-restauration-des-donnees-dans-windows-11-a-laide-dune-sauvegarde-faites-le-vous-meme/"><u>Guide Complet De Restauration Des Données Dans Windows 11 À L'aide D'une Sauvegarde : Faites-Le Vous-Même !</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-unresponsive-windows-start-button/"><u>How to Reactivate a Unresponsive Window's Start Button</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728467664135-ntfs/"><u>NTFS区块恢复技术：安全快速的实践指南</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/reinitialiser-votre-historique-email-utilisation-daomei-backupper-pour-la-restauration-de-sauvegarde/"><u>Réinitialiser Votre Historique Email : Utilisation D'AOMEI Backupper Pour La Restauration De Sauvegarde</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/restoring-lost-or-untitled-wordpad-files-a-complete-guide/"><u>Restoring Lost or Untitled WordPad Files: A Complete Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-2-methods-for-securing-your-active-directory-backups-in-windows-server-201/"><u>Top 2 Methods for Securing Your Active Directory Backups in Windows Server 201#</u></a></li>
 </ul></div>
 
