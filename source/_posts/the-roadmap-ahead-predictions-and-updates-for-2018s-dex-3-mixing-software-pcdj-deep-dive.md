@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive"
-date: 2024-11-24T06:12:29.707Z
-updated: 2024-12-01T03:38:41.607Z
+date: 2024-12-07T08:58:09.756Z
+updated: 2024-12-09T01:42:43.659Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ We’re leaving [2017 behind in our dust](https://tools.techidaily.com/pcdj/prod
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 in 2018
@@ -31,7 +31,7 @@ Throughout 2017 we’ve not only released a series of substantial upgrades to ou
 [LEARN MORE ABOUT DEX 3 AND DOWNLOAD A FREE TRIAL ![DEX 3.9.0.10 DJ software screenshot](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/dex39010_screenshot.jpg?fit=300%2C169&ssl=1 "DEX 3.9.0.10 DJ software screenhot")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the addition of the integrated [Party Tyme Karaoke subscription](https://tools.techidaily.com/pcdj/products/), not surprisingly, the requests have been pilling in for additional karaoke-specific features designed to make a karaoke hosts job easier. Notably: More rotation management, singer/song history, and other karaoke features that KJs have come to rely on with karaoke only software products such as [PCDJ Karaoki](https://tools.techidaily.com/pcdj/products/).
@@ -49,7 +49,7 @@ If you have feature requests for DEX 3 we’d love your input! Please feel free 
 **#PCDJ #MixEverything**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,19 +71,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/dex3-2018-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-exploring-new-horizons-with-iphone-xs-camera-tech/"><u>[New] In 2024, Exploring New Horizons with iPhone X's Camera Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-dialogues-the-key-to-listener-retention/"><u>[New] Innovative Dialogues The Key to Listener Retention</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-introducing-the-essence-of-motion-blur-techniques-on-iphone-for-2024/"><u>[New] Introducing the Essence of Motion-Blur Techniques on iPhone for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-secrets-to-preventing-photo-app-problems-in-windows-11/"><u>[New] Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery-for-2024/"><u>[New] Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-to-premium-hd-screen-capture-gear-for-2024/"><u>[New] Ultimate Guide to Premium HD Screen Capture Gear for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-instant-video-post-how-to-turn-mp3s-into-youtube-playables/"><u>2024 Approved Instant Video Post How to Turn MP3s Into YouTube Playables</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728467325701-aomei-backupper/"><u>AOMEI Backupper サポートチームにご質問:最新ツールの使い方</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-apples-latest-ai-advanceby-showcase-at-wwdc-2024-revealed/"><u>Exploring Apple's Latest AI Advanceby Showcase at WWDC 2024 Revealed</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/free-ultimate-mp4-converter-tools-list-quick-reliable-video-format-change/"><u>Free Ultimate MP4 Converter Tools List - Quick, Reliable Video Format Change</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/secure-all-your-files-with-these-essential-steps-when-using-windows-eze-10-backup-tool/"><u>Secure All Your Files with These Essential Steps When Using Windows Eze 10 Backup Tool</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-des-logiciels-de-duplication-hdd-hitachi-solutions-optimales-pour-votre-sauvegarde/"><u>Top Des Logiciels De Duplication HDD Hitachi : Solutions Optimales Pour Votre Sauvegarde</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-picks-la-mejor-herramienta-de-desbloqueo-de-bitlocker-para-windows-10-8-7-y-11/"><u>Top Picks: La Mejor Herramienta De Desbloqueo De BitLocker Para Windows 10, 8, 7 Y 11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/vergrosserung-der-ps4-festplattenkapazitat-ohne-informationsverlust-durch-klonen/"><u>Vergrösserung Der PS4-Festplattenkapazität Ohne Informationsverlust Durch Klonen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-youtubes-shorts-fund-aims-to-revolutionize-content-creation/"><u>[Updated] 2024 Approved How YouTube's Shorts Fund Aims to Revolutionize Content Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-playlist-for-every-mood/"><u>[Updated] 2024 Approved The Ultimate Playlist for Every Mood</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-time-lapse-screen-recorders-for-2024/"><u>[Updated] Top 5 Time-Lapse Screen Recorders for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhance-system-performance-and-program-fluidity-with-proven-strategies-by-yl-software-experts/"><u>Enhance System Performance & Program Fluidity with Proven Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/high-definition-grass-themed-wallpapers-and-desktop-pictures-premium-collection-by-yl-computing/"><u>High-Definition Grass Themed Wallpapers & Desktop Pictures - Premium Collection by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-turn-off-automatic-scanning-in-your-system-insights-from-yl-computing/"><u>How to Turn Off Automatic Scanning in Your System: Insights From YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-next-level-lut-creation/"><u>In 2024, Innovative Techniques for Next-Level LUT Creation</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-audio-file-management-a-comprehensive-guide-by-yl-computing/"><u>Mastering Audio File Management: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-rising-video-view-counts/"><u>Mastering Instagram Rising Video View Counts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/overcoming-windows-defender-challenges-expert-tips-from-yl-software/"><u>Overcoming Windows Defender Challenges: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-media-format-rejection-by-vlc/"><u>Remedying Windows Media Format Rejection by VLC</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-installuninstall-applications-on-your-pc-with-yl-computing-solutions/"><u>Step-by-Step Guide: Install/Uninstall Applications on Your PC with YL Computing Solutions</u></a></li>
+<li><a href="https://win-webster.techidaily.com/understanding-itunes-functionality-is-image-storage-a-part-of-it/"><u>Understanding iTunes Functionality – Is Image Storage a Part of It?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-creativity-exploring-lenovo-thinkpad-x1-fold-the-ultimate-blend-of-eccentricity-amusement-and-pricey-tech-zdnet/"><u>Unleashing Creativity: Exploring Lenovo ThinkPad X1 Fold - The Ultimate Blend of Eccentricity, Amusement & Pricey Tech | ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-apples-podcast-library-a-download-guide-for-2024/"><u>Unlocking Apple's Podcast Library A Download Guide for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-unveils-top-emerging-technologies-shaping-the-future-of-cryptocurrencies/"><u>YL Software Unveils Top Emerging Technologies Shaping the Future of Cryptocurrencies</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-softwares-vivid-hd-abstract-pattern-with-dynamic-blues-for-your-phone-display/"><u>YL Software's Vivid HD Abstract Pattern with Dynamic Blues for Your Phone Display</u></a></li>
 </ul></div>
 

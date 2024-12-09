@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2024-11-24T04:13:23.226Z
-updated: 2024-12-01T06:51:10.907Z
+date: 2024-12-08T08:11:04.349Z
+updated: 2024-12-09T05:17:40.698Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-reverse-a-video-on-iphone/"><u>[New] How to Reverse a Video on iPhone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-instantaneous-fortnite-tile-design-guide/"><u>[Updated] Instantaneous Fortnite Tile Design Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>[Updated] The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-selection-of-omnidirectional-recording-devices/"><u>[Updated] Ultimate Selection of Omnidirectional Recording Devices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/aomei-image-deploy/"><u>「AOMEI Image Deployを使ってセキュアなイメージ展開方法を確認しよう」</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728487670952-4/"><u>無需技術：4項指引回復桌上型計算機照片刪除</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-realiser-la-meilleure-copie-de-sauvegarde-complete-dune-carte-sd-sur-un-pc-avec-windows/"><u>Comment Réaliser La Meilleure Copie De Sauvegarde Complète D'une Carte SD Sur Un PC Avec Windows ?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-gratuito-para-clonar-un-hd-a-una-unidad-de-estado-solido-mas-barata-sin-windows-1187/"><u>Download Gratuito Para Clonar Un HD a Una Unidad De Estado Sólido Más Barata Sin Windows 11/8/7</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-maximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes/"><u>In 2024, Maximizing Visibility A Comprehensive Guide to YT Gaming Hashes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-resetting-your-dell-laptop-back-to-original-factory-conditions/"><u>Step-by-Step Tutorial: Resetting Your Dell Laptop Back to Original Factory Conditions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-score-a-complimentary-macbook-air-m3-from-best-buy-with-this-clever-hack/"><u>Unlock Exclusive Savings: Score a Complimentary MacBook Air M3 From Best Buy with This Clever Hack</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[Updated] Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728463364974-windows-11/"><u>创建Windows 11系统中硬盘完全拷贝的两种有效方法 - 详解</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/can-you-stop-ransomware-with-windows-defender-insights-from-yl-computings-security-expertise/"><u>Can You Stop Ransomware with Windows Defender? - Insights From YL Computing's Security Expertise</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/first-generation-cummins-highlights-visuals-images-and-backdrops-powered-by-yl-computing/"><u>First-Generation Cummins Highlights: Visuals, Images & Backdrops - Powered by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/natures-grandeur-in-full-resolution-premium-wallpapers-and-photographs-from-yl-computing-for-your-display/"><u>Nature's Grandeur in Full Resolution: Premium Wallpapers and Photographs From YL Computing for Your Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quickly-crafting-a-facebook-collage-a-step-by-step-guide-for-2024/"><u>Quickly Crafting a Facebook Collage A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/safeguarding-your-system-against-digital-risks-with-tips-from-yl-computings-expertise/"><u>Safeguarding Your System Against Digital Risks with Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/speedy-steps-for-immediate-access-to-windows-11s-control-panel-by-digital-guru/"><u>Speedy Steps for Immediate Access to Windows 11'S Control Panel by Digital Guru</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/understanding-the-causes-of-your-gpu-malfunction-insights-from-yl-computing/"><u>Understanding the Causes of Your GPU Malfunction: Insights From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-your-palworld-account-on-eos-a-guide-to-successfully-resolving-6-common-login-problems/"><u>Unlock Your Palworld Account on EOS: A Guide to Successfully Resolving 6 Common Login Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808023099-update-usb-drivers-in-windows-11-7-8-and-81-easily/"><u>Update USB Drivers in Windows 11, 7, 8 & 8.1. Easily!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/windows-groeiende-data-opbrengst-de-prullenbak-van-window-11-in-gebouwenprocess/"><u>Windows Groeiende Data-Opbrengst: De Prullenbak Van Window 11 in Gebouwenprocess</u></a></li>
 </ul></div>
 

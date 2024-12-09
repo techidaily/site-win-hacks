@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Free Karaoke Program - Public Preview v0.8.6836 on PCDJ
-date: 2024-11-29T23:06:30.292Z
-updated: 2024-12-01T03:20:28.133Z
+date: 2024-12-05T04:47:37.177Z
+updated: 2024-12-08T21:06:49.710Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,14 +74,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-5-cloud-giants-unlimited-capacity-showdown-for-2024/"><u>[Updated] Top 5 Cloud Giants Unlimited Capacity Showdown for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-convert-and-store-webcam-footage-in-vlc-media/"><u>2024 Approved Convert & Store Webcam Footage in VLC Media</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-issue-code-43-sorted/"><u>Device Issue: Code 43 Sorted</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-obtain-and-update-your-surface-drivers-today/"><u>Easy Steps: Obtain and Update Your Surface Drivers Today</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/erwecken-sie-ihre-aus-dem-papierkorb-geloschten-dokumente-wieder-zum-leben-fallsuche-erforderlich/"><u>Erwecken Sie Ihre Aus Dem Papierkorb Gelöschten Dokumente Wieder Zum Leben - Fallsuche Erforderlich!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-move-your-video-files-from-an-exterior-ssd-onto-ios-devices/"><u>How to Move Your Video Files From an Exterior SSD Onto iOS Devices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/the-calcification-of-the-pineal-gland-is-a-normal-aging-process-but-its-effects-on-cognitive-function-are-still-being-explored-in-neuroendocrinological-rese63/"><u>The Calcification of the Pineal Gland Is a Normal Aging Process, but Its Effects on Cognitive Function Are Still Being Explored in Neuroendocrinological Research.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-does-my-fuser-keep-hitting-a-wall-resolving-critical-application-issues-in-windows-environments/"><u>Why Does My Fuser Keep Hitting a Wall? Resolving Critical Application Issues in Windows Environments</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windows-11-programdata-folder-not-found-issue-resolved/"><u>Windows 11 ProgramData Folder Not Found - Issue Resolved</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-tips-for-efficient-ez-grabber-use/"><u>[New] 2024 Approved Expert Tips for Efficient EZ Grabber Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-achieving-youtube-excellence-with-gamers-channel-graphics-for-2024/"><u>[Updated] Achieving YouTube Excellence with Gamers' Channel Graphics for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-hypergame-hub-your-portal-to-infinite-titles-for-2024/"><u>[Updated] HyperGame Hub Your Portal to Infinite Titles for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-gmail-organization-techniques-to-streamline-your-inbox/"><u>Advanced Gmail Organization Techniques to Streamline Your Inbox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-aeiusys-portable-solar-generator-with-pure-sine-wave-for-delicate-medical-devices/"><u>Comprehensive Guide to Aeiusy's Portable Solar Generator with Pure Sine Wave for Delicate Medical Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-efficient-is-windows-defender-in-eradicating-computer-threats-guidance-from-yl-software-experts/"><u>How Efficient Is Windows Defender in Eradicating Computer Threats? - Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-restore-your-gpu-solutions-for-broken-graphics-cards-by-the-tech-experts-at-yl-software/"><u>How to Restore Your GPU: Solutions for Broken Graphics Cards by the Tech Experts at YL Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-assassin-saga-final-review-is-it-a-flawless-finale/"><u>Master Assassin Saga Final Review: Is It a Flawless Finale?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-easy-the-top-ten-for-youtube-mpeg-transformation-for-2024/"><u>Quick and Easy The Top Ten for YouTube MPEG Transformation for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/rev-up-your-parties-with-new-tracks-get-into-the-groove-with-this-weeks-fresh-selection-from-dj-marshmello-to-iron-butterfly-at-partytyme/"><u>Rev Up Your Parties with New Tracks: Get Into the Groove with This Week's Fresh Selection From DJ Marshmello to Iron Butterfly at PartyTyme!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solving-empty-ink-cartridge-troubles-expert-guide-by-yl-computing/"><u>Solving 'Empty Ink Cartridge' Troubles: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-editors-alchemy-transforming-raw-to-radiant-pictures/"><u>The Editor's Alchemy Transforming Raw to Radiant Pictures</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-agni-2-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Agni 2 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-karaoke-hack-masterful-tips-for-renaming-your-pcdj-tracks-efficiently/"><u>Ultimate Karaoke Hack - Masterful Tips for Renaming Your PCDJ Tracks Efficiently</u></a></li>
 </ul></div>
 

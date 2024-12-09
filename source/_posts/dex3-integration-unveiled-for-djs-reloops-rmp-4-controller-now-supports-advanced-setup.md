@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2024-11-24T18:34:28.548Z
-updated: 2024-11-30T23:09:40.284Z
+date: 2024-12-06T11:30:11.028Z
+updated: 2024-12-09T09:13:30.001Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,21 +106,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-tips-for-minecraft-recording-with-macos/"><u>[New] 2024 Approved Essential Tips for Minecraft Recording with MacOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-snipping-edits-imovies-size-changing-secrets/"><u>[New] 2024 Approved Snipping Edits IMovie’s Size-Changing Secrets</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/cmd-tricks-zur-schnellen-wiederherstellung-geloschter-festplattenpartitionen/"><u>CMD-Tricks Zur Schnellen Wiederherstellung Gelöschter Festplattenpartitionen</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/effective-ways-to-delete-every-bit-of-data-from-your-iphone/"><u>Effective Ways to Delete Every Bit of Data From Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808226276-enlisted-how-to-boost-fps-and-fix-lag/"><u>Enlisted – How to Boost FPS & Fix Lag</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guida-passo-passo-come-eseguire-il-backup-dei-file-su-hard-disk-esterno-con-windows/"><u>Guida Passo-Passo: Come Eseguire Il Backup Dei File Su Hard Disk Esterno Con Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-incorporating-natural-language-processing-siri-into-your-tiktok-strategy/"><u>In 2024, Incorporating Natural Language Processing (Siri) Into Your TikTok Strategy</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-v30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme V30? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/resolving-incomplete-backups-with-windows-10s-file-history-feature/"><u>Resolving Incomplete Backups with Windows 10'S File History Feature</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-retrieving-files-from-a-nonfunctional-external-hard-drive/"><u>Step-by-Step Guide: Retrieving Files From a Nonfunctional External Hard Drive</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-successful-recovery-of-data-from-a-toshiba-sd-card/"><u>Step-by-Step Guide: Successful Recovery of Data From a Toshiba SD Card</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/the-complete-troubleshooter-for-fixing-adobe-photoshop-malfunction-issues/"><u>The Complete Troubleshooter for Fixing Adobe Photoshop Malfunction Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncovering-gaming-history-the-enduring-charm-of-super-mario-bros-on-nintendo-game-and-watch/"><u>Uncovering Gaming History: The Enduring Charm of Super Mario Bros on Nintendo Game & Watch</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728466004441-windows-10/"><u>システム復元ポイント修復:Windows 10の詳しいガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-snapshots-of-opposites-youtube-video-inverts/"><u>[New] 2024 Approved Snapshots of Opposites YouTube Video Inverts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-quickest-quarter-mile-sochi-22/"><u>[New] In 2024, The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-resolve-absent-watch-screen-button-for-2024/"><u>[New] Resolve Absent Watch Screen Button for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-review-of-ispring-recording-tech/"><u>[New] The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-stealthy-spectator-of-online-tales/"><u>[Updated] 2024 Approved Stealthy Spectator of Online Tales</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-in-depth-evaluation-of-clipcreator-editor-updated/"><u>[Updated] In 2024, In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-resolving-unrecognized-hardware-issues-expert-solutions-from-yl-computings-support-team/"><u>1. Resolving Unrecognized Hardware Issues: Expert Solutions From YL Computing's Support Team</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/adjusting-your-monitors-display-preferences-in-windows-a-step-by-step-guide/"><u>Adjusting Your Monitor's Display Preferences in Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-your-gaming-experience-solve-wows-lagging-issues-for-a-smoother-2024-run/"><u>Enhancing Your Gaming Experience: Solve WoW's Lagging Issues for a Smoother 2024 Run</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-does-current-law-affect-cryptocurrency-usage-insights-from-yl-computing-and-yl-software/"><u>How Does Current Law Affect Cryptocurrency Usage? Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/master-the-beat-with-these-groovy-rock-hits-for-dancing-essential-playlist-guide-by-djntv-video/"><u>Master the Beat with These Groovy Rock Hits for Dancing - Essential Playlist Guide by #DJNTV (Video)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/preventing-pc-overheating-a-guide-on-monitoring-your-systems-temperature-tips-from-yl-computing/"><u>Preventing PC Overheating: A Guide on Monitoring Your System's Temperature - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-reach-videos-that-immediately-amass-views-for-2024/"><u>Rapid Reach Videos that Immediately Amass Views for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2024-11-25T01:44:22.937Z
-updated: 2024-12-01T04:23:35.566Z
+date: 2024-12-05T22:39:13.337Z
+updated: 2024-12-09T00:02:32.425Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,16 +70,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>[New] In 2024, The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-5-ps1-emulation-software-on-modern-computers/"><u>[New] In 2024, Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/429-a-comprehensive-user-guide/"><u>429 - A Comprehensive User Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/5pww5o2u5ogi5asn5oml5q6177ya5yip55so5oyh5luk56ym5yplus357q6yen5bu65pah5lu255qe5lik56en5pa55rov/"><u>数据恢复手段：利用指令符号线重建文件的两种方法</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/einfach-transferieren-mit-hyper-v-vms-expertenhafte-techniken-fur-einen-nahtlosen-wechsel/"><u>Einfach Transferieren Mit Hyper-V VMs: Expertenhafte Techniken Für Einen Nahtlosen Wechsel</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-etape-par-etape-pour-recuperation-des-donnees-de-cartes-memoire-patriot/"><u>Guide Étape Par Étape Pour Récupération Des Données De Cartes Mémoire Patriot</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-create-events-on-facebook/"><u>How to Create Events on Facebook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-text-warping-techniques-in-photos-and-videos/"><u>In 2024, Mastering Text Warping Techniques in Photos & Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ioss-best-ps2-emulation-software-guide/"><u>IOS’s Best PS2 Emulation Software Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/recuperation-des-fichiers-perdus-sur-le-disque-local-d-guide-rapide-et-efficace/"><u>Récupération Des Fichiers Perdus Sur Le Disque Local (D:) - Guide Rapide Et Efficace</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sony-wm-x900-top-tier-sound-review/"><u>Sony WM-X900: Top-Tier Sound Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xclusive-insight-into-low-cost-footage-websites-for-2024/"><u>[New] Exclusive Insight Into Low-Cost Footage Websites for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-tutorial-using-microsofts-movie-maker-on-w11/"><u>2024 Approved Step-By-Step Tutorial Using Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comprehensive-guide-to-ridding-your-system-of-harmful-software-by-yl-tech-experts/"><u>Comprehensive Guide to Ridding Your System of Harmful Software by YL Tech Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/historical-analysis-the-precipitating-factors-that-sparked-the-conflict-between-china-and-japan-in-1937-explored-by-experts-at-yl-computing-yl-software/"><u>Historical Analysis: The Precipitating Factors That Sparked the Conflict Between China and Japan in 1937 – Explored by Experts at YL Computing | YL Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-detect-and-fix-windows-network-adapter-issues-tips-from-yl-computing/"><u>How to Detect and Fix Windows Network Adapter Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-tactics-ensuring-quality-in-live-sport-broadcasts-for-2024/"><u>Prime Tactics Ensuring Quality in Live Sport Broadcasts for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/quick-fixes-for-lagging-windows-pcs-expert-strategies-from-yl-computings-guide-on-internet-speed-optimization/"><u>Quick Fixes for Lagging Windows PCs: Expert Strategies From YL Computing's Guide on Internet Speed Optimization</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 Plus You Should Try Out</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transforme-gratuitement-h265-hevc-vers-h264-sur-pc-and-mac-guides-complets-pour-windows-1011/"><u>Transformé Gratuitement H.265 HEVC Vers H.264 Sur PC & MAC : Guides Complets Pour Windows 10/11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-your-airpods-microphone-issues-on-windows-10/"><u>Troubleshooting Guide: How to Fix Your AirPods Microphone Issues on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-x9a-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor X9a Phones</u></a></li>
 </ul></div>
 
