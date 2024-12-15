@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Free Karaoke Program - Public Preview v0.8.6836 on PCDJ
-date: 2024-12-05T04:47:37.177Z
-updated: 2024-12-08T21:06:49.710Z
+date: 2024-12-10T14:02:05.591Z
+updated: 2024-12-15T04:34:51.041Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-tips-for-efficient-ez-grabber-use/"><u>[New] 2024 Approved Expert Tips for Efficient EZ Grabber Use</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-achieving-youtube-excellence-with-gamers-channel-graphics-for-2024/"><u>[Updated] Achieving YouTube Excellence with Gamers' Channel Graphics for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-hypergame-hub-your-portal-to-infinite-titles-for-2024/"><u>[Updated] HyperGame Hub Your Portal to Infinite Titles for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advanced-gmail-organization-techniques-to-streamline-your-inbox/"><u>Advanced Gmail Organization Techniques to Streamline Your Inbox</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-aeiusys-portable-solar-generator-with-pure-sine-wave-for-delicate-medical-devices/"><u>Comprehensive Guide to Aeiusy's Portable Solar Generator with Pure Sine Wave for Delicate Medical Devices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-efficient-is-windows-defender-in-eradicating-computer-threats-guidance-from-yl-software-experts/"><u>How Efficient Is Windows Defender in Eradicating Computer Threats? - Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-restore-your-gpu-solutions-for-broken-graphics-cards-by-the-tech-experts-at-yl-software/"><u>How to Restore Your GPU: Solutions for Broken Graphics Cards by the Tech Experts at YL Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-assassin-saga-final-review-is-it-a-flawless-finale/"><u>Master Assassin Saga Final Review: Is It a Flawless Finale?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-and-easy-the-top-ten-for-youtube-mpeg-transformation-for-2024/"><u>Quick and Easy The Top Ten for YouTube MPEG Transformation for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/rev-up-your-parties-with-new-tracks-get-into-the-groove-with-this-weeks-fresh-selection-from-dj-marshmello-to-iron-butterfly-at-partytyme/"><u>Rev Up Your Parties with New Tracks: Get Into the Groove with This Week's Fresh Selection From DJ Marshmello to Iron Butterfly at PartyTyme!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-empty-ink-cartridge-troubles-expert-guide-by-yl-computing/"><u>Solving 'Empty Ink Cartridge' Troubles: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-editors-alchemy-transforming-raw-to-radiant-pictures/"><u>The Editor's Alchemy Transforming Raw to Radiant Pictures</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-lava-agni-2-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Lava Agni 2 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-karaoke-hack-masterful-tips-for-renaming-your-pcdj-tracks-efficiently/"><u>Ultimate Karaoke Hack - Masterful Tips for Renaming Your PCDJ Tracks Efficiently</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review-for-2024/"><u>[New] Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-audio-anomalies-essential-rhythm-altering-tools/"><u>[New] In 2024, Audio Anomalies Essential Rhythm Altering Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-online-presence-with-linked-fb-stories/"><u>[New] Optimize Your Online Presence with Linked FB Stories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats-for-2024/"><u>[New] The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[Updated] Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722133452469-app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/dealing-with-non-compatible-devices-expert-advice-from-yl-softwares-perspective/"><u>Dealing With Non-Compatible Devices: Expert Advice From YL Software's Perspective</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-leading-windows-registry-cleanup-programs-insights-from-yl-software-experts/"><u>Exploring Leading Windows Registry Cleanup Programs - Insights From YL Software Experts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-restoring-standard-operations-of-outlook-on-windows/"><u>Strategies for Restoring Standard Operations of Outlook on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-x-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone X</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/uncovering-reasons-behind-blue-screens-insights-from-yl-computings-expertise/"><u>Uncovering Reasons Behind Blue Screens: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-computing-a-step-by-step-guide-on-tweaking-your-user-profile-options/"><u>YL Computing: A Step-by-Step Guide on Tweaking Your User Profile Options</u></a></li>
 </ul></div>
 

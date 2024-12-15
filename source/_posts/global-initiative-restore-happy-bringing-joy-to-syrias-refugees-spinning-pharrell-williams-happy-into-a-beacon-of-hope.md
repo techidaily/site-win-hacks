@@ -1,7 +1,7 @@
 ---
 title: "Global Initiative 'Restore Happy': Bringing Joy to Syria's Refugees, Spinning Pharrell Williams' 'Happy' Into a Beacon of Hope"
-date: 2024-12-07T20:10:18.887Z
-updated: 2024-12-09T06:36:01.967Z
+date: 2024-12-09T22:15:09.502Z
+updated: 2024-12-15T10:37:10.017Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>[New] 2024 Approved The Metaverse & Omniverse A Detailed Breakdown</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-best-android-experience-with-rich-3d-content/"><u>[New] In 2024, Best Android Experience with Rich 3D Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-understanding-hdr-techniques-in-modern-photoshoots/"><u>[New] In 2024, Understanding HDR Techniques in Modern Photoshoots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-essential-instructions-for-effective-use-of-telegram-browser/"><u>[Updated] Essential Instructions for Effective Use of Telegram Browser</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-time-management-for-youtubers-with-day-jobs/"><u>2024 Approved Mastering Time Management for YouTubers with Day Jobs</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/achieve-superior-sound-quality-expert-tips-on-configuring-your-sound-card-for-ultimate-efficiency-using-yl-computing-solutions/"><u>Achieve Superior Sound Quality: Expert Tips on Configuring Your Sound Card for Ultimate Efficiency Using YL Computing Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/borderlands-3-crash-woes-easily-fix-them-with-these-tips/"><u>Borderlands 3 Crash Woes? Easily Fix Them with These Tips!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/determining-the-ideal-frequency-when-to-clear-your-web-browsing-data-and-cookies-tips-from-yl-software/"><u>Determining the Ideal Frequency: When to Clear Your Web Browsing Data & Cookies - Tips From YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/easy-guide-zipping-files-on-your-pc-with-windows-tips-from-yl-computing/"><u>Easy Guide: Zipping Files on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-file-compression-techniques-on-windows-a-guide-by-yl-computing/"><u>Effective File Compression Techniques on Windows: A Guide by YL Computing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/next-level-processing-power-russia-prepares-to-implement-128-cores-in-their-supercomputer-infrastructure/"><u>Next Level Processing Power: Russia Prepares to Implement 128 Cores in Their Supercomputer Infrastructure</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/opening-docx-files-made-easy-with-yl-softwares-comprehensive-tutorial/"><u>Opening DOCX Files Made Easy with YL Software's Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-film-techniques-for-drones-for-2024/"><u>Professional Film Techniques for Drones for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-common-issues-a-step-by-step-guide-to-fixing-windows-program-installation-failures-tech-insights-by-yl-computing/"><u>Solving Common Issues: A Step-by-Step Guide to Fixing Windows Program Installation Failures - Tech Insights by YL Computing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites-for-2024/"><u>The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-guide-resolving-issues-with-your-video-card-tips-from-yl-software-experts/"><u>Troubleshooting Guide: Resolving Issues with Your Video Card - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/understanding-the-impact-of-adding-more-ram-for-optimal-system-speed-tips-from-yl-computing-professionals/"><u>Understanding the Impact of Adding More RAM for Optimal System Speed - Tips From YL Computing Professionals</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unleash-potential-stardews-premium-mod-lineup-7-14/"><u>Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-computings-tutorial-managing-zip-archives-in-windows-operating-system/"><u>YL Computing's Tutorial: Managing Zip Archives in Windows Operating System</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-iphone-hdr-photography-for-professional-results/"><u>[Updated] 2024 Approved Mastering iPhone HDR Photography for Professional Results</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[Updated] 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-flip-photo-trail-on-fb-3-techniques-explored-for-2024/"><u>[Updated] Flip Photo Trail on FB - 3 Techniques Explored for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-scrutinizing-vidmas-latest-screen-recording-tech-for-2024/"><u>[Updated] Scrutinizing Vidma’s Latest Screen Recording Tech for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-resolving-the-unbootable-hard-drive-issue-in-windows-expert-tips-and-solutions-from-yl-computing/"><u>1. Resolving the 'Unbootable Hard Drive' Issue in Windows - Expert Tips & Solutions From YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/cosmic-feline-collection-galaxy-themed-wallpapers-and-hd-images-by-yl-software/"><u>Cosmic Feline Collection - Galaxy-Themed Wallpapers & HD Images by YL Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-pro-max-how-to-unlock-a-disabled-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Disabled iPhone 12 Pro Max How to Unlock a Disabled iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/emperor-qin-shi-huangs-architectural-legacy-starting-the-great-wall-discover-with-yl-software-solutions/"><u>Emperor Qin Shi Huang's Architectural Legacy: Starting the Great Wall – Discover with YL Software Solutions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-advice-navigating-to-windows-user-profiles-in-the-control-panel-with-help-from-yl-software-solutions/"><u>Expert Advice: Navigating to Windows User Profiles in the Control Panel with Help From YL Software Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-play-40c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Play 40C to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-processing-unit-gpu-expert-insights-from-yl-computing/"><u>Identifying Signs of a Malfunctioning Graphics Processing Unit (GPU) - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-visual-content-size-videos-correctly-for-instagram/"><u>In 2024, Mastering Visual Content Size Videos Correctly for Instagram</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/lyrx-karaoke-platform-v15-released-explore-enhanced-functionality-and-upgrades/"><u>LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/masterclass-on-music-remixing-navigating-youtube-videos-for-killer-mixes-and-sing-alongs-with-pcdj/"><u>Masterclass on Music Remixing: Navigating YouTube Videos for Killer Mixes and Sing-Alongs with PCDJ</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/resolving-your-missing-network-adapter-a-step-by-step-guide-yl-computings-solution/"><u>Resolving Your Missing Network Adapter: A Step-by-Step Guide - YL Computing's Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-alterations-of-display-drivers-in-win7/"><u>Speedy Alterations of Display Drivers in Win7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-preferred-news-aggregator-platforms/"><u>Top 10 Preferred News Aggregator Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-mac-os-sierra-video-editing-apps/"><u>Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unrecognized-new-hardware-troubleshooting-your-pc-expert-advice-from-yl-computing/"><u>Unrecognized New Hardware: Troubleshooting Your PC - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

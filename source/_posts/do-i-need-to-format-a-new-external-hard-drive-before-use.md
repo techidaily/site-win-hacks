@@ -1,7 +1,7 @@
 ---
 title: Do I Need to Format a New External Hard Drive Before Use?
-date: 2024-12-05T11:33:31.987Z
-updated: 2024-12-08T16:30:12.743Z
+date: 2024-12-10T07:08:57.778Z
+updated: 2024-12-15T05:40:45.093Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834317c4e6bfcb9abc42eeaf14.png
@@ -18,26 +18,18 @@ thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Table of Contents** 
@@ -59,10 +51,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
@@ -86,6 +74,10 @@ Causes of "winload.efi missing or contains error after clone" issues:
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Option 1\. Use the Boot Repair Tool
 
 **[AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)** stands out as a powerful and user-friendly tool. With the ability to create bootable devices, you can boot to your system when misfortunate happens and operate as normal, including executing backup and restore operations and repair your corrupted or missing winload efi files.
@@ -93,6 +85,10 @@ The "winload.efi missing" error happens when the OS can't find or access the win
 Furthermore, AOMEI Backupper proves invaluable in tackling various problems such as system failure, system blue screen, system black screen, hard disk corruption, hard disk conversion, and more. Here I will show you how to create a bootable media using this software:
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Best free bootable media creation tool
 
@@ -102,17 +98,21 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
@@ -136,10 +136,6 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -151,10 +147,6 @@ Step 2\. Boot the system from the USB and choose **Repair your Computer**.
 Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
 
@@ -186,7 +178,15 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -241,11 +241,7 @@ You just need to download this software and install it. Open it and navigate to 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -259,6 +255,10 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -292,11 +292,11 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,18 +313,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-streamline-your-media-save-vimeo-to-mp4/"><u>[New] Streamline Your Media Save Vimeo to MP4</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts-for-2024/"><u>[New] Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-undead-uprising-top-8-unleashed-in-video-game-realm/"><u>[Updated] 2024 Approved Undead Uprising - Top 8 Unleashed in Video Game Realm</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/activating-sound-improvements-on-your-pc-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Activating Sound Improvements on Your PC with Windows - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/an-in-depth-look-at-the-windows-registry-and-its-functions/"><u>An In-Depth Look at The Windows Registry and Its Functions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/boost-your-pcs-processor-speed-top-tips-and-tweaks-for-windows-expert-advice-from-yl-computing/"><u>Boost Your PC's Processor Speed: Top Tips and Tweaks for Windows - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/does-reinstalling-windows-enable-auto-activation-of-windows-defender-expert-insight-by-yl-computing/"><u>Does Reinstalling Windows Enable Auto Activation of Windows Defender - Expert Insight by YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/grab-prime-time-savings-premium-roku-models-now-at-record-low-prices/"><u>Grab Prime Time Savings: Premium Roku Models Now at Record Low Prices</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/high-definition-kobe-bryant-memorial-wallpaper-collection-premium-quality-images-and-photo-display-officially-licensed-by-yl-software/"><u>High-Definition Kobe Bryant Memorial Wallpaper Collection - Premium Quality Images & Photo Display - Officially Licensed by YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-unclogging-your-printers-nozzle-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Unclogging Your Printer's Nozzle - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/why-does-your-pcs-cpu-fan-cease-rotation-exploring-causes-with-yl-software/"><u>Why Does Your PC's CPU Fan Cease Rotation? Exploring Causes with YL Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[Updated] 2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>[Updated] Stand Out with a Signature Style A Guide to YouTube Branding Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-photography-toolkit-a-comprehensive-app-analysis/"><u>2024 Approved Photography Toolkit A Comprehensive App Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-securely-distributing-exclusive-youtube-videos-through-gmail/"><u>2024 Approved Securely Distributing Exclusive YouTube Videos Through Gmail</u></a></li>
+<li><a href="https://win-news.techidaily.com/current-projects-unveiling-the-new-features-in-dex-3-the-latest-from-plugin-creative-dj/"><u>Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/dealing-with-non-compatible-devices-expert-advice-from-yl-softwares-perspective/"><u>Dealing With Non-Compatible Devices: Expert Advice From YL Software's Perspective</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhancing-pc-performance-with-updated-drivers-essential-tips-by-yl-software-experts/"><u>Enhancing PC Performance with Updated Drivers - Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-leading-windows-registry-cleanup-programs-insights-from-yl-software-experts/"><u>Exploring Leading Windows Registry Cleanup Programs - Insights From YL Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 13 Pro Max | Stellar</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/identifying-graphics-card-malfunctions-tips-and-symptoms-by-yl-computing-experts/"><u>Identifying Graphics Card Malfunctions: Tips and Symptoms by YL Computing Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-guide-to-vr-travel-adventures/"><u>In 2024, A Comprehensive Guide to VR Travel Adventures</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/switching-language-preferences-a-step-by-step-guide-with-yl-computing-solutions/"><u>Switching Language Preferences: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-strategies-for-sharing-high-resolution-photos-on-instagram/"><u>Ultimate Strategies for Sharing High-Resolution Photos on Instagram</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/understanding-dim-and-distorted-prints-your-guide-to-clear-output-with-yl-software-tips/"><u>Understanding Dim and Distorted Prints: Your Guide to Clear Output with YL Software Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-the-potential-asus-newly-designed-motherboard-supercharges-chinese-processors-achieving-25-faster-kx-7000-speeds/"><u>Unleash the Potential: Asus’ Newly Designed Motherboard Supercharges Chinese Processors, Achieving 25% Faster KX-7000 Speeds</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unveiling-the-changes-in-chinese-social-fabric-post-cultural-revolution-an-analysis-from-yl-computing-and-yl-software-perspective/"><u>Unveiling the Changes in Chinese Social Fabric Post-Cultural Revolution: An Analysis From YL Computing and YL Software Perspective</u></a></li>
 </ul></div>
 

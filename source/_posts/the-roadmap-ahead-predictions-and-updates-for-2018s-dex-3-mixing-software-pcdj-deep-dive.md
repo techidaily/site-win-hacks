@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive"
-date: 2024-12-07T08:58:09.756Z
-updated: 2024-12-09T01:42:43.659Z
+date: 2024-12-13T02:05:04.290Z
+updated: 2024-12-14T19:04:39.706Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ We’re leaving [2017 behind in our dust](https://tools.techidaily.com/pcdj/prod
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 in 2018
@@ -31,7 +31,7 @@ Throughout 2017 we’ve not only released a series of substantial upgrades to ou
 [LEARN MORE ABOUT DEX 3 AND DOWNLOAD A FREE TRIAL ![DEX 3.9.0.10 DJ software screenshot](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/dex39010_screenshot.jpg?fit=300%2C169&ssl=1 "DEX 3.9.0.10 DJ software screenhot")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the addition of the integrated [Party Tyme Karaoke subscription](https://tools.techidaily.com/pcdj/products/), not surprisingly, the requests have been pilling in for additional karaoke-specific features designed to make a karaoke hosts job easier. Notably: More rotation management, singer/song history, and other karaoke features that KJs have come to rely on with karaoke only software products such as [PCDJ Karaoki](https://tools.techidaily.com/pcdj/products/).
@@ -49,7 +49,7 @@ If you have feature requests for DEX 3 we’d love your input! Please feel free 
 **#PCDJ #MixEverything**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,22 +71,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/dex3-2018-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-youtubes-shorts-fund-aims-to-revolutionize-content-creation/"><u>[Updated] 2024 Approved How YouTube's Shorts Fund Aims to Revolutionize Content Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-playlist-for-every-mood/"><u>[Updated] 2024 Approved The Ultimate Playlist for Every Mood</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-time-lapse-screen-recorders-for-2024/"><u>[Updated] Top 5 Time-Lapse Screen Recorders for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/enhance-system-performance-and-program-fluidity-with-proven-strategies-by-yl-software-experts/"><u>Enhance System Performance & Program Fluidity with Proven Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/high-definition-grass-themed-wallpapers-and-desktop-pictures-premium-collection-by-yl-computing/"><u>High-Definition Grass Themed Wallpapers & Desktop Pictures - Premium Collection by YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-turn-off-automatic-scanning-in-your-system-insights-from-yl-computing/"><u>How to Turn Off Automatic Scanning in Your System: Insights From YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-next-level-lut-creation/"><u>In 2024, Innovative Techniques for Next-Level LUT Creation</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mastering-audio-file-management-a-comprehensive-guide-by-yl-computing/"><u>Mastering Audio File Management: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-rising-video-view-counts/"><u>Mastering Instagram Rising Video View Counts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/overcoming-windows-defender-challenges-expert-tips-from-yl-software/"><u>Overcoming Windows Defender Challenges: Expert Tips From YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-windows-media-format-rejection-by-vlc/"><u>Remedying Windows Media Format Rejection by VLC</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-installuninstall-applications-on-your-pc-with-yl-computing-solutions/"><u>Step-by-Step Guide: Install/Uninstall Applications on Your PC with YL Computing Solutions</u></a></li>
-<li><a href="https://win-webster.techidaily.com/understanding-itunes-functionality-is-image-storage-a-part-of-it/"><u>Understanding iTunes Functionality – Is Image Storage a Part of It?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-creativity-exploring-lenovo-thinkpad-x1-fold-the-ultimate-blend-of-eccentricity-amusement-and-pricey-tech-zdnet/"><u>Unleashing Creativity: Exploring Lenovo ThinkPad X1 Fold - The Ultimate Blend of Eccentricity, Amusement & Pricey Tech | ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-apples-podcast-library-a-download-guide-for-2024/"><u>Unlocking Apple's Podcast Library A Download Guide for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-software-unveils-top-emerging-technologies-shaping-the-future-of-cryptocurrencies/"><u>YL Software Unveils Top Emerging Technologies Shaping the Future of Cryptocurrencies</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-softwares-vivid-hd-abstract-pattern-with-dynamic-blues-for-your-phone-display/"><u>YL Software's Vivid HD Abstract Pattern with Dynamic Blues for Your Phone Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-premium-ff-downloader-suite-for-efficient-fb-media-grabs/"><u>[New] In 2024, Premium FF Downloader Suite for Efficient FB Media Grabs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-smart-way-to-store-video-meetings-on-devices-for-2024/"><u>[New] The Smart Way to Store Video Meetings on Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-iphone-game-with-smart-gif-storage-strategies-for-2024/"><u>[Updated] Elevate Your iPhone Game with Smart GIF Storage Strategies for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beginners-journey-into-bitcoin-mining-with-advanced-techniques-by-yl-software/"><u>Beginner's Journey Into Bitcoin Mining with Advanced Techniques by YL Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/finding-and-recovering-past-versions-of-files-in-windows-a-guide-from-yl-computing/"><u>Finding and Recovering Past Versions of Files in Windows: A Guide From YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-download-and-keep-your-favorite-fb-stories-for-2024/"><u>How to Download and Keep Your Favorite FB Stories for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-clash-of-kings-royal-games-top-10-titles/"><u>In 2024, Clash of Kings Royal Games' Top 10 Titles</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/optimize-your-computers-speed-by-deleting-unnecessary-files-expert-advice-from-yl-computing/"><u>Optimize Your Computer’s Speed by Deleting Unnecessary Files – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-productivity-my-experience-with-lenovos-innovative-dual-screen-laptop-a-comprehensive-review/"><u>Revolutionizing Productivity: My Experience with Lenovo's Innovative Dual-Screen Laptop - A Comprehensive Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211439104--witchcraft/"><u>Witchcraft | Free Book</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-solutions-troubleshooting-and-repairing-printer-issues-easily/"><u>YL Software Solutions: Troubleshooting and Repairing Printer Issues Easily</u></a></li>
 </ul></div>
 

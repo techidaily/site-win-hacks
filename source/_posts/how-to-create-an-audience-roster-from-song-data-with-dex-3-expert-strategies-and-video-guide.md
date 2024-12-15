@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2024-12-08T08:11:04.349Z
-updated: 2024-12-09T05:17:40.698Z
+date: 2024-12-10T05:31:09.903Z
+updated: 2024-12-15T02:01:01.703Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[Updated] Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/1728463364974-windows-11/"><u>创建Windows 11系统中硬盘完全拷贝的两种有效方法 - 详解</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/can-you-stop-ransomware-with-windows-defender-insights-from-yl-computings-security-expertise/"><u>Can You Stop Ransomware with Windows Defender? - Insights From YL Computing's Security Expertise</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/first-generation-cummins-highlights-visuals-images-and-backdrops-powered-by-yl-computing/"><u>First-Generation Cummins Highlights: Visuals, Images & Backdrops - Powered by YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/natures-grandeur-in-full-resolution-premium-wallpapers-and-photographs-from-yl-computing-for-your-display/"><u>Nature's Grandeur in Full Resolution: Premium Wallpapers and Photographs From YL Computing for Your Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quickly-crafting-a-facebook-collage-a-step-by-step-guide-for-2024/"><u>Quickly Crafting a Facebook Collage A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/safeguarding-your-system-against-digital-risks-with-tips-from-yl-computings-expertise/"><u>Safeguarding Your System Against Digital Risks with Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/speedy-steps-for-immediate-access-to-windows-11s-control-panel-by-digital-guru/"><u>Speedy Steps for Immediate Access to Windows 11'S Control Panel by Digital Guru</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-causes-of-your-gpu-malfunction-insights-from-yl-computing/"><u>Understanding the Causes of Your GPU Malfunction: Insights From YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-your-palworld-account-on-eos-a-guide-to-successfully-resolving-6-common-login-problems/"><u>Unlock Your Palworld Account on EOS: A Guide to Successfully Resolving 6 Common Login Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808023099-update-usb-drivers-in-windows-11-7-8-and-81-easily/"><u>Update USB Drivers in Windows 11, 7, 8 & 8.1. Easily!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/windows-groeiende-data-opbrengst-de-prullenbak-van-window-11-in-gebouwenprocess/"><u>Windows Groeiende Data-Opbrengst: De Prullenbak Van Window 11 in Gebouwenprocess</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-starting-from-scratch-stardews-ginger-island-guide/"><u>[New] Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beginners-roadmap-to-building-a-cryptocurrency-miner-insights-from-yl-software-pros/"><u>Beginner's Roadmap to Building a Cryptocurrency Miner - Insights From YL Software Pros</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/"><u>Best FB Video Extractors for iOS Devices Ranked #1 for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/download-the-latest-public-beta-v086368-of-karaoke-pro-player-free-trial-available-now/"><u>Download the Latest Public Beta v0.8.6368 of Karaoke Pro Player – Free Trial Available Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-fullscreen-experience-tackling-windows-overscan/"><u>Enhance Fullscreen Experience: Tackling Windows Overscan</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enhance-internet-speeds-effortlessly-with-proven-strategies-by-yl-software-specialists/"><u>Enhance Internet Speeds Effortlessly with Proven Strategies by YL Software Specialists</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-how-the-linksys-ea8300-revolutionizes-connected-device-management/"><u>Expert Insights: How the Linksys EA8300 Revolutionizes Connected Device Management</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-the-level-of-decentralization-in-cryptocurrencies-insights-from-yl-computings-perspective/"><u>Exploring the Level of Decentralization in Cryptocurrencies: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/hd-it-chapter-two-desktop-backgrounds-yl-technologies-high-resolution-graphics/"><u>HD It Chapter Two Desktop Backgrounds - YL Technologies | High-Resolution Graphics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>In 2024, The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/minimizing-memory-consumption-effective-strategies-for-your-pc-guided-by-yl-software-experts/"><u>Minimizing Memory Consumption: Effective Strategies for Your PC, Guided by YL Software Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/precision-visuals-mastering-close-ups-in-msteams/"><u>Precision Visuals Mastering Close-Ups in MSTEAMS</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/professional-graphics-lamborghini-huracan-visual-content-for-your-pc-sourced-from-yl-software-solutions/"><u>Professional Graphics: Lamborghini Huracan Visual Content for Your PC - Sourced From YL Software Solutions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/reinstall-windows-without-data-loss-a-step-by-step-guide-yls-ultimate-solution/"><u>Reinstall Windows Without Data Loss: A Step-by-Step Guide - YL's Ultimate Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-erasing-clipboard-data-in-windows-10/"><u>Step-by-Step Guide: Erasing Clipboard Data in Windows 10</u></a></li>
 </ul></div>
 

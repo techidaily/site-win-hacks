@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2024-12-05T22:39:13.337Z
-updated: 2024-12-09T00:02:32.425Z
+date: 2024-12-12T04:30:01.115Z
+updated: 2024-12-15T13:21:40.516Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,16 +70,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/xclusive-insight-into-low-cost-footage-websites-for-2024/"><u>[New] Exclusive Insight Into Low-Cost Footage Websites for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-tutorial-using-microsofts-movie-maker-on-w11/"><u>2024 Approved Step-By-Step Tutorial Using Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comprehensive-guide-to-ridding-your-system-of-harmful-software-by-yl-tech-experts/"><u>Comprehensive Guide to Ridding Your System of Harmful Software by YL Tech Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/historical-analysis-the-precipitating-factors-that-sparked-the-conflict-between-china-and-japan-in-1937-explored-by-experts-at-yl-computing-yl-software/"><u>Historical Analysis: The Precipitating Factors That Sparked the Conflict Between China and Japan in 1937 – Explored by Experts at YL Computing | YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-detect-and-fix-windows-network-adapter-issues-tips-from-yl-computing/"><u>How to Detect and Fix Windows Network Adapter Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/prime-tactics-ensuring-quality-in-live-sport-broadcasts-for-2024/"><u>Prime Tactics Ensuring Quality in Live Sport Broadcasts for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/quick-fixes-for-lagging-windows-pcs-expert-strategies-from-yl-computings-guide-on-internet-speed-optimization/"><u>Quick Fixes for Lagging Windows PCs: Expert Strategies From YL Computing's Guide on Internet Speed Optimization</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 Plus You Should Try Out</u></a></li>
-<li><a href="https://solve-news.techidaily.com/transforme-gratuitement-h265-hevc-vers-h264-sur-pc-and-mac-guides-complets-pour-windows-1011/"><u>Transformé Gratuitement H.265 HEVC Vers H.264 Sur PC & MAC : Guides Complets Pour Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-your-airpods-microphone-issues-on-windows-10/"><u>Troubleshooting Guide: How to Fix Your AirPods Microphone Issues on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-x9a-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor X9a Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-become-a-wizard-elevating-the-art-of-ppt-to-video-conversion/"><u>[New] 2024 Approved Become a Wizard Elevating the Art of PPT to Video Conversion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-instantaneity-in-playlist-dissemination-webby/"><u>[New] 2024 Approved Instantaneity in Playlist Dissemination Webby</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers/"><u>[New] 2024 Approved Step-by-Step Guide to Perfecting Videos on a PC for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beware-the-allure-of-sham-youtube-audience/"><u>[New] In 2024, Beware the Allure of Sham YouTube Audience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>[Updated] Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/dealing-with-non-compatible-devices-expert-advice-from-yl-softwares-perspective/"><u>Dealing With Non-Compatible Devices: Expert Advice From YL Software's Perspective</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-leading-windows-registry-cleanup-programs-insights-from-yl-software-experts/"><u>Exploring Leading Windows Registry Cleanup Programs - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-reasons-for-reduced-image-clarity-during-the-scanning-process-with-insights-by-yl-software-professionals/"><u>Exploring Reasons for Reduced Image Clarity During the Scanning Process with Insights by YL Software Professionals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-xr-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone XR If Youve Tried Everything</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/protect-your-files-with-confidence-learn-how-to-backup-data-effectively-using-yl-software-solutions/"><u>Protect Your Files with Confidence: Learn How to Backup Data Effectively Using YL Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-auto-gpt-journey-start-and-complete/"><u>The Auto-GPT Journey: Start and Complete</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-frozen-lol-startup/"><u>Troubleshooting Frozen LOL Startup</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/uncovering-reasons-behind-blue-screens-insights-from-yl-computings-expertise/"><u>Uncovering Reasons Behind Blue Screens: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/unveiling-the-changes-in-chinese-social-fabric-post-cultural-revolution-an-analysis-from-yl-computing-and-yl-software-perspective/"><u>Unveiling the Changes in Chinese Social Fabric Post-Cultural Revolution: An Analysis From YL Computing and YL Software Perspective</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-computing-a-step-by-step-guide-on-tweaking-your-user-profile-options/"><u>YL Computing: A Step-by-Step Guide on Tweaking Your User Profile Options</u></a></li>
 </ul></div>
 
