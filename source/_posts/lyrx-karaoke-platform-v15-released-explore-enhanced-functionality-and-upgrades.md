@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2024-12-12T04:30:01.115Z
-updated: 2024-12-15T13:21:40.516Z
+date: 2024-12-17T16:29:57.796Z
+updated: 2024-12-23T18:35:20.326Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,22 +70,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-become-a-wizard-elevating-the-art-of-ppt-to-video-conversion/"><u>[New] 2024 Approved Become a Wizard Elevating the Art of PPT to Video Conversion</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-instantaneity-in-playlist-dissemination-webby/"><u>[New] 2024 Approved Instantaneity in Playlist Dissemination Webby</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers/"><u>[New] 2024 Approved Step-by-Step Guide to Perfecting Videos on a PC for YouTubers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beware-the-allure-of-sham-youtube-audience/"><u>[New] In 2024, Beware the Allure of Sham YouTube Audience</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>[Updated] Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/dealing-with-non-compatible-devices-expert-advice-from-yl-softwares-perspective/"><u>Dealing With Non-Compatible Devices: Expert Advice From YL Software's Perspective</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-leading-windows-registry-cleanup-programs-insights-from-yl-software-experts/"><u>Exploring Leading Windows Registry Cleanup Programs - Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-reasons-for-reduced-image-clarity-during-the-scanning-process-with-insights-by-yl-software-professionals/"><u>Exploring Reasons for Reduced Image Clarity During the Scanning Process with Insights by YL Software Professionals</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-xr-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone XR If Youve Tried Everything</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/protect-your-files-with-confidence-learn-how-to-backup-data-effectively-using-yl-software-solutions/"><u>Protect Your Files with Confidence: Learn How to Backup Data Effectively Using YL Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-auto-gpt-journey-start-and-complete/"><u>The Auto-GPT Journey: Start and Complete</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-frozen-lol-startup/"><u>Troubleshooting Frozen LOL Startup</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/uncovering-reasons-behind-blue-screens-insights-from-yl-computings-expertise/"><u>Uncovering Reasons Behind Blue Screens: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/unveiling-the-changes-in-chinese-social-fabric-post-cultural-revolution-an-analysis-from-yl-computing-and-yl-software-perspective/"><u>Unveiling the Changes in Chinese Social Fabric Post-Cultural Revolution: An Analysis From YL Computing and YL Software Perspective</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-computing-a-step-by-step-guide-on-tweaking-your-user-profile-options/"><u>YL Computing: A Step-by-Step Guide on Tweaking Your User Profile Options</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-techniques-for-crafting-encouraging-personal-growth-vids/"><u>[New] 2024 Approved Techniques for Crafting Encouraging Personal Growth Vids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-all-encompassing-expense-elucidation-beginning-a-podcast/"><u>[New] All-Encompassing Expense Elucidation Beginning A Podcast</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-entrance-video-analysis-review-for-2024/"><u>[New] Entrance Video Analysis Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-5-chromebook-screen-capture-tools-unveiled/"><u>[New] In 2024, Best 5 Chromebook Screen Capture Tools Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[Updated] 2024 Approved Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pixelplay-review-system/"><u>[Updated] In 2024, PixelPlay Review System</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/429-a-comprehensive-user-guide/"><u>429 - A Comprehensive User Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windowscf/"><u>發現Windows上最適合自由CF卡打印機</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/5pww5o2u5ogi5asn5oml5q6177ya5yip55so5oyh5luk56ym5yplus357q6yen5bu65pah5lu255qe5lik56en5pa55rov/"><u>数据恢复手段：利用指令符号线重建文件的两种方法</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/einfach-transferieren-mit-hyper-v-vms-expertenhafte-techniken-fur-einen-nahtlosen-wechsel/"><u>Einfach Transferieren Mit Hyper-V VMs: Expertenhafte Techniken Für Einen Nahtlosen Wechsel</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-etape-par-etape-pour-recuperation-des-donnees-de-cartes-memoire-patriot/"><u>Guide Étape Par Étape Pour Récupération Des Données De Cartes Mémoire Patriot</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/installare-una-chiave-di-ripristino-windows-1011-in-ununita-usb-guida-passo-passo/"><u>Installare Una Chiave Di Ripristino Windows 10/11 in Un'unità USB - Guida Passo-Passo</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/inviolable-transfere-en-douceur-dun-disque-dur-sans-egal-avec-acronis-trueimage/"><u>Inviolable : Transféré en Douceur D'un Disque Dur Sans Égal Avec Acronis TrueImage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-instability-solutions-to-ghostwire-tokyo-crashes-on-computer/"><u>Overcoming Game Instability - Solutions to Ghostwire: Tokyo Crashes on Computer</u></a></li>
 </ul></div>
 

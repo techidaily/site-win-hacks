@@ -1,7 +1,7 @@
 ---
 title: "Global Initiative 'Restore Happy': Bringing Joy to Syria's Refugees, Spinning Pharrell Williams' 'Happy' Into a Beacon of Hope"
-date: 2024-12-09T22:15:09.502Z
-updated: 2024-12-15T10:37:10.017Z
+date: 2024-12-17T18:25:06.208Z
+updated: 2024-12-24T00:39:22.959Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-iphone-hdr-photography-for-professional-results/"><u>[Updated] 2024 Approved Mastering iPhone HDR Photography for Professional Results</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[Updated] 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-flip-photo-trail-on-fb-3-techniques-explored-for-2024/"><u>[Updated] Flip Photo Trail on FB - 3 Techniques Explored for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-scrutinizing-vidmas-latest-screen-recording-tech-for-2024/"><u>[Updated] Scrutinizing Vidma’s Latest Screen Recording Tech for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-resolving-the-unbootable-hard-drive-issue-in-windows-expert-tips-and-solutions-from-yl-computing/"><u>1. Resolving the 'Unbootable Hard Drive' Issue in Windows - Expert Tips & Solutions From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/cosmic-feline-collection-galaxy-themed-wallpapers-and-hd-images-by-yl-software/"><u>Cosmic Feline Collection - Galaxy-Themed Wallpapers & HD Images by YL Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-pro-max-how-to-unlock-a-disabled-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Disabled iPhone 12 Pro Max How to Unlock a Disabled iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/emperor-qin-shi-huangs-architectural-legacy-starting-the-great-wall-discover-with-yl-software-solutions/"><u>Emperor Qin Shi Huang's Architectural Legacy: Starting the Great Wall – Discover with YL Software Solutions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/expert-advice-navigating-to-windows-user-profiles-in-the-control-panel-with-help-from-yl-software-solutions/"><u>Expert Advice: Navigating to Windows User Profiles in the Control Panel with Help From YL Software Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-play-40c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Play 40C to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-processing-unit-gpu-expert-insights-from-yl-computing/"><u>Identifying Signs of a Malfunctioning Graphics Processing Unit (GPU) - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-visual-content-size-videos-correctly-for-instagram/"><u>In 2024, Mastering Visual Content Size Videos Correctly for Instagram</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/lyrx-karaoke-platform-v15-released-explore-enhanced-functionality-and-upgrades/"><u>LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/masterclass-on-music-remixing-navigating-youtube-videos-for-killer-mixes-and-sing-alongs-with-pcdj/"><u>Masterclass on Music Remixing: Navigating YouTube Videos for Killer Mixes and Sing-Alongs with PCDJ</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/resolving-your-missing-network-adapter-a-step-by-step-guide-yl-computings-solution/"><u>Resolving Your Missing Network Adapter: A Step-by-Step Guide - YL Computing's Solution</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-alterations-of-display-drivers-in-win7/"><u>Speedy Alterations of Display Drivers in Win7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-preferred-news-aggregator-platforms/"><u>Top 10 Preferred News Aggregator Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-5-mac-os-sierra-video-editing-apps/"><u>Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/unrecognized-new-hardware-troubleshooting-your-pc-expert-advice-from-yl-computing/"><u>Unrecognized New Hardware: Troubleshooting Your PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>[New] 2024 Approved History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-astronomys-best-showcase-10-prime-hd-sky-archives/"><u>2024 Approved Astronomy's Best Showcase - 10 Prime HD Sky Archives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-behind-the-scenes-of-podcast-scripts-tips-and-examples/"><u>2024 Approved Behind the Scenes of Podcast Scripts Tips and Examples</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-the-societal-transformations-in-china-due-to-the-taiping-rebellion-insights-by-yl-computing-and-yl-software/"><u>Exploring the Societal Transformations in China Due to the Taiping Rebellion - Insights by YL Computing and YL Software</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-poco-m6-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco M6 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/high-definition-tree-wallpaper-collection-stunning-nature-scenes-by-yl-computing/"><u>High-Definition Tree Wallpaper Collection: Stunning Nature Scenes by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-can-i-repair-a-malfunctioning-usb-port-tips-from-yl-computings-expertise/"><u>How Can I Repair a Malfunctioning USB Port? - Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-xs-max-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone XS Max to Computer? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-hp-laptops-dead-usb-port-with-this-proven-solution/"><u>Revive Your HP Laptop's Dead USB Port with This Proven Solution</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/stunning-samurai-themed-backgrounds-collection-1920x1080-from-yl-software-images-photos-and-pictures-for-pc-users/"><u>Stunning Samurai Themed Backgrounds Collection (1920X1080) From YL Software: Images, Photos & Pictures for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-recurrent-breakdowns-in-sovled-warno-application-for-windows-users/"><u>Understanding and Resolving Recurrent Breakdowns in SOVLED Warno Application for Windows Users</u></a></li>
 </ul></div>
 

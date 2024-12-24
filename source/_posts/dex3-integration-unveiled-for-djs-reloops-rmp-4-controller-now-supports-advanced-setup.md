@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2024-12-08T02:45:25.918Z
-updated: 2024-12-14T23:45:20.709Z
+date: 2024-12-18T03:37:46.871Z
+updated: 2024-12-24T10:36:34.724Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,24 +106,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-spinning-stories-across-a-whole-cone/"><u>[New] Spinning Stories Across a Whole Cone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-invisible-snapshotting-hidden-image-recording-on-snapchat-for-2024/"><u>[Updated] Invisible Snapshotting Hidden Image Recording on Snapchat for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-maximizing-your-mixes-with-itunes-smart-playlists-in-pioneer-cdj-dj-equipment/"><u>1. Maximizing Your Mixes with iTunes Smart Playlists in Pioneer CDJ DJ Equipment</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-bring-sound-effects-into-premiere-pro/"><u>2024 Approved Bring Sound Effects Into Premiere Pro</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-read-/"><u>2024 Approved Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
-<li><a href="https://discover-data.techidaily.com/5aac5l2v5bplusr6ycf5lplusu5b6p5lin5q2j5bi45asw5o6l56gs56kf5yplusc5pww6zsz6kplusv77ya5ywo6z2i5oyh5y2x/"><u>如何快速修復不正常外接硬碟参数错误：全面指南</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/boost-your-pcs-performance-with-essential-software-tools-find-the-best-options-today/"><u>Boost Your PC's Performance with Essential Software Tools - Find the Best Options Today!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/captioning-techniques-for-professional-youtube-content-for-2024/"><u>Captioning Techniques for Professional YouTube Content for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/compatibility-guide-running-your-personal-antivirus-alongside-windows-defender-expert-advice-from-yl-software/"><u>Compatibility Guide: Running Your Personal Antivirus Alongside Windows Defender - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-methods-to-refresh-and-optimize-your-pc-expert-tips-by-yl-computing/"><u>Effective Methods to Refresh and Optimize Your PC - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/essential-installation-guide-identifying-key-device-drivers-your-pc-needs-expert-advice-from-yl-software/"><u>Essential Installation Guide: Identifying Key Device Drivers Your PC Needs - Expert Advice From YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-ascending-with-asmr-top-strategies-for-video-creation/"><u>In 2024, Ascending with ASMR Top Strategies for Video Creation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-a05s-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel A05s online without jailbreak</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/maximizing-your-pcs-performance-effective-techniques-to-clear-up-hard-drive-space/"><u>Maximizing Your PC's Performance: Effective Techniques to Clear Up Hard Drive Space</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/premium-wallpaper-collection-featuring-little-caprice-crisp-clear-images-by-yl-software/"><u>Premium Wallpaper Collection Featuring Little Caprice - Crisp, Clear Images by YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-tips-for-accelerating-your-computers-performance-expert-advice-from-yl-computing/"><u>Top Tips for Accelerating Your Computer's Performance: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/understanding-gold-price-stability-through-hedging-strategies-navigating-short-term-volatility-with-expert-insights-from-yl-software/"><u>Understanding Gold Price Stability Through Hedging Strategies: Navigating Short-Term Volatility with Expert Insights From YL Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-rotate-your-3gp-videos-for-free-top-5-tools-of-the-year/"><u>Updated 2024 Approved Rotate Your 3GP Videos for Free Top 5 Tools of the Year</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-inside-the-tech-what-is-virtual-reality-gear/"><u>[New] In 2024, Inside the Tech What Is Virtual Reality Gear?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>[New] In 2024, Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transition-tunes-mastering-crossfading-in-music/"><u>[Updated] 2024 Approved Transition Tunes Mastering Crossfading in Music</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-reasons-for-reduced-image-clarity-during-the-scanning-process-with-insights-by-yl-software-professionals/"><u>Exploring Reasons for Reduced Image Clarity During the Scanning Process with Insights by YL Software Professionals</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-boost-your-pcs-performance-with-easy-tips-learn-from-the-experts-at-yl-computing/"><u>How to Boost Your PC's Performance with Easy Tips - Learn From the Experts at YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-edge-40-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Edge 40 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-black-screen-issues/"><u>How to Fix Windows Black Screen Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-overcome-audio-issues-playing-games-and-using-discord-simultaneously/"><u>How to Overcome Audio Issues: Playing Games and Using Discord Simultaneously</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-lava-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Lava</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/protect-your-files-with-confidence-learn-how-to-backup-data-effectively-using-yl-software-solutions/"><u>Protect Your Files with Confidence: Learn How to Backup Data Effectively Using YL Software Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-13-mini-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
 </ul></div>
 

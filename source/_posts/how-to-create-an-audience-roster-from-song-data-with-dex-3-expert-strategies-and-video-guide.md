@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2024-12-10T05:31:09.903Z
-updated: 2024-12-15T02:01:01.703Z
+date: 2024-12-18T22:20:32.915Z
+updated: 2024-12-24T00:04:32.263Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-starting-from-scratch-stardews-ginger-island-guide/"><u>[New] Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/beginners-roadmap-to-building-a-cryptocurrency-miner-insights-from-yl-software-pros/"><u>Beginner's Roadmap to Building a Cryptocurrency Miner - Insights From YL Software Pros</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/"><u>Best FB Video Extractors for iOS Devices Ranked #1 for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/download-the-latest-public-beta-v086368-of-karaoke-pro-player-free-trial-available-now/"><u>Download the Latest Public Beta v0.8.6368 of Karaoke Pro Player – Free Trial Available Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-fullscreen-experience-tackling-windows-overscan/"><u>Enhance Fullscreen Experience: Tackling Windows Overscan</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/enhance-internet-speeds-effortlessly-with-proven-strategies-by-yl-software-specialists/"><u>Enhance Internet Speeds Effortlessly with Proven Strategies by YL Software Specialists</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-how-the-linksys-ea8300-revolutionizes-connected-device-management/"><u>Expert Insights: How the Linksys EA8300 Revolutionizes Connected Device Management</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-the-level-of-decentralization-in-cryptocurrencies-insights-from-yl-computings-perspective/"><u>Exploring the Level of Decentralization in Cryptocurrencies: Insights From YL Computing's Perspective</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/hd-it-chapter-two-desktop-backgrounds-yl-technologies-high-resolution-graphics/"><u>HD It Chapter Two Desktop Backgrounds - YL Technologies | High-Resolution Graphics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G Stylus (2023)?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>In 2024, The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/minimizing-memory-consumption-effective-strategies-for-your-pc-guided-by-yl-software-experts/"><u>Minimizing Memory Consumption: Effective Strategies for Your PC, Guided by YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/precision-visuals-mastering-close-ups-in-msteams/"><u>Precision Visuals Mastering Close-Ups in MSTEAMS</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/professional-graphics-lamborghini-huracan-visual-content-for-your-pc-sourced-from-yl-software-solutions/"><u>Professional Graphics: Lamborghini Huracan Visual Content for Your PC - Sourced From YL Software Solutions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/reinstall-windows-without-data-loss-a-step-by-step-guide-yls-ultimate-solution/"><u>Reinstall Windows Without Data Loss: A Step-by-Step Guide - YL's Ultimate Solution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-erasing-clipboard-data-in-windows-10/"><u>Step-by-Step Guide: Erasing Clipboard Data in Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] 2024 Approved Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-three-key-strategies-to-record-and-review-education-talks-on-macbooks/"><u>[New] 2024 Approved Three Key Strategies to Record and Review Education Talks on MacBooks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-exploring-the-core-inside-apples-m1-innovation/"><u>[New] Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-skyrocket-engagement-20-video-tricks-for-maximum-impact/"><u>[Updated] Skyrocket Engagement 20 Video Tricks for Maximum Impact</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unveil-windows-xps-essential-movie-making-features/"><u>[Updated] Unveil Windows XP’s Essential Movie Making Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-novices-introduction-to-video-coders/"><u>A Novice's Introduction to Video Coders</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beginners-guide-mastering-cryptocurrency-investments-with-yl-computing/"><u>Beginner's Guide: Mastering Cryptocurrency Investments with YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-adjustments-to-your-pcs-network-settings-in-the-windows-control-panel-tech-insights-by-yl-software/"><u>Easy Adjustments to Your PC's Network Settings in the Windows Control Panel - Tech Insights by YL Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-did-confucian-teachings-shape-chinas-cultural-heritage-a-deep-dive-with-insights-from-yl-software/"><u>How Did Confucian Teachings Shape China's Cultural Heritage? A Deep Dive with Insights From YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016778856-solve-your-anthem-games-sound-issues-on-windows-10-here/"><u>Solve Your Anthem Game's Sound Issues on Windows 10 Here</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solving-common-issues-a-step-by-step-guide-to-fixing-windows-program-installation-failures-tech-insights-by-yl-computing/"><u>Solving Common Issues: A Step-by-Step Guide to Fixing Windows Program Installation Failures - Tech Insights by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-computings-tutorial-managing-zip-archives-in-windows-operating-system/"><u>YL Computing's Tutorial: Managing Zip Archives in Windows Operating System</u></a></li>
 </ul></div>
 

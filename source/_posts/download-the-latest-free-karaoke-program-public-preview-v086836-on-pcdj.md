@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Free Karaoke Program - Public Preview v0.8.6836 on PCDJ
-date: 2024-12-10T14:02:05.591Z
-updated: 2024-12-15T04:34:51.041Z
+date: 2024-12-23T10:24:57.867Z
+updated: 2024-12-23T23:01:30.455Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-apeaksoft-scrutiny-mastering-the-art-of-screen-capture-review-for-2024/"><u>[New] Apeaksoft Scrutiny – Mastering the Art of Screen Capture Review for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-audio-anomalies-essential-rhythm-altering-tools/"><u>[New] In 2024, Audio Anomalies Essential Rhythm Altering Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-online-presence-with-linked-fb-stories/"><u>[New] Optimize Your Online Presence with Linked FB Stories</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats-for-2024/"><u>[New] The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[Updated] Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722133452469-app-alert-chatgpt-now-on-ios/"><u>App Alert: ChatGPT Now on iOS!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/dealing-with-non-compatible-devices-expert-advice-from-yl-softwares-perspective/"><u>Dealing With Non-Compatible Devices: Expert Advice From YL Software's Perspective</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-leading-windows-registry-cleanup-programs-insights-from-yl-software-experts/"><u>Exploring Leading Windows Registry Cleanup Programs - Insights From YL Software Experts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-restoring-standard-operations-of-outlook-on-windows/"><u>Strategies for Restoring Standard Operations of Outlook on Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-x-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone X</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/uncovering-reasons-behind-blue-screens-insights-from-yl-computings-expertise/"><u>Uncovering Reasons Behind Blue Screens: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-computing-a-step-by-step-guide-on-tweaking-your-user-profile-options/"><u>YL Computing: A Step-by-Step Guide on Tweaking Your User Profile Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[New] 2024 Approved Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhanced-entertainment-tv-ready-looping-techniques-for-video-content/"><u>[New] 2024 Approved Enhanced Entertainment Tv-Ready Looping Techniques for Video Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-techniques-for-captivating-fb-video-content/"><u>[New] In 2024, Innovative Techniques for Captivating FB Video Content</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-potential-clashes-between-your-antivirus-and-other-programs-guidance-by-yl-computing-specialists/"><u>Exploring Potential Clashes Between Your Antivirus and Other Programs – Guidance by YL Computing Specialists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-video-quality-with-updated-webcam-drivers-for-windows-10-users/"><u>Improve Video Quality with Updated WebCam Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-your-crypto-investments-finding-the-ultimate-trading-platform-with-insights-from-yl-software/"><u>Mastering Your Crypto Investments: Finding the Ultimate Trading Platform with Insights From YL Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/preventative-measures-for-avoiding-hard-drive-crashes-expert-advice-by-yl-technology-solutions/"><u>Preventative Measures for Avoiding Hard Drive Crashes - Expert Advice by YL Technology Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-windows-startup-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Windows Startup Issues: Expert Tips From YL Computing</u></a></li>
 </ul></div>
 
