@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Free Karaoke Program - Public Preview v0.8.6836 on PCDJ
-date: 2024-12-23T10:24:57.867Z
-updated: 2024-12-23T23:01:30.455Z
+date: 2024-12-24T21:58:05.844Z
+updated: 2024-12-29T17:38:55.043Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,14 +74,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[New] 2024 Approved Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-enhanced-entertainment-tv-ready-looping-techniques-for-video-content/"><u>[New] 2024 Approved Enhanced Entertainment Tv-Ready Looping Techniques for Video Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-techniques-for-captivating-fb-video-content/"><u>[New] In 2024, Innovative Techniques for Captivating FB Video Content</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-potential-clashes-between-your-antivirus-and-other-programs-guidance-by-yl-computing-specialists/"><u>Exploring Potential Clashes Between Your Antivirus and Other Programs – Guidance by YL Computing Specialists</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-video-quality-with-updated-webcam-drivers-for-windows-10-users/"><u>Improve Video Quality with Updated WebCam Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/mastering-your-crypto-investments-finding-the-ultimate-trading-platform-with-insights-from-yl-software/"><u>Mastering Your Crypto Investments: Finding the Ultimate Trading Platform with Insights From YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/preventative-measures-for-avoiding-hard-drive-crashes-expert-advice-by-yl-technology-solutions/"><u>Preventative Measures for Avoiding Hard Drive Crashes - Expert Advice by YL Technology Solutions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-windows-startup-issues-expert-tips-from-yl-computing/"><u>Troubleshooting Windows Startup Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-everlasting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>[New] In 2024, Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-resolving-the-unbootable-hard-drive-issue-in-windows-expert-tips-and-solutions-from-yl-computing/"><u>1. Resolving the 'Unbootable Hard Drive' Issue in Windows - Expert Tips & Solutions From YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcast-cover-design-ten-essential-best-practices/"><u>2024 Approved Podcast Cover Design Ten Essential Best Practices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/accelerate-your-pc-expert-tips-for-boosting-computer-performance-yl-tech-insights/"><u>Accelerate Your PC: Expert Tips for Boosting Computer Performance - YL Tech Insights</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/can-you-stop-ransomware-with-windows-defender-insights-from-yl-computings-security-expertise/"><u>Can You Stop Ransomware with Windows Defender? - Insights From YL Computing's Security Expertise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/charting-the-course-for-cost-efficient-learning-the-insiders-guide-to-attaining-a-tidal-student-discount/"><u>Charting the Course for Cost-Efficient Learning: The Insider's Guide to Attaining a Tidal Student Discount</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/cosmic-feline-collection-galaxy-themed-wallpapers-and-hd-images-by-yl-software/"><u>Cosmic Feline Collection - Galaxy-Themed Wallpapers & HD Images by YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-assessment-samsungs-360-degree-capture-device/"><u>Full Assessment Samsung's 360-Degree Capture Device</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-can-you-unzip-files-on-windows-pcs-essential-software-options/"><u>How Can You Unzip Files on Windows PCs: Essential Software Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-10-image-storage-solutions-guarantee-photographic-safety/"><u>In 2024, Optimal 10 Image Storage Solutions, Guarantee Photographic Safety</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/lyrx-karaoke-platform-v15-released-explore-enhanced-functionality-and-upgrades/"><u>LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/masterclass-on-music-remixing-navigating-youtube-videos-for-killer-mixes-and-sing-alongs-with-pcdj/"><u>Masterclass on Music Remixing: Navigating YouTube Videos for Killer Mixes and Sing-Alongs with PCDJ</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mp4wav3/"><u>MP4形式へのWAVファイル変換手順：3つの簡単な技術</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ps5-versus-ps4-pro-future-proofing-your-gaming/"><u>PS5 Versus PS4 Pro: Future-Proofing Your Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unleashing-creative-potential-in-minecraft-with-circles-and-spheres-for-2024/"><u>Unleashing Creative Potential in Minecraft with Circles & Spheres for 2024</u></a></li>
 </ul></div>
 

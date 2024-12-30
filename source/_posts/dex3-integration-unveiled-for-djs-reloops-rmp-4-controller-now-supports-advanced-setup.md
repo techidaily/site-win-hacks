@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2024-12-18T03:37:46.871Z
-updated: 2024-12-24T10:36:34.724Z
+date: 2024-12-23T00:13:04.956Z
+updated: 2024-12-30T03:34:56.413Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,18 +106,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-inside-the-tech-what-is-virtual-reality-gear/"><u>[New] In 2024, Inside the Tech What Is Virtual Reality Gear?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>[New] In 2024, Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transition-tunes-mastering-crossfading-in-music/"><u>[Updated] 2024 Approved Transition Tunes Mastering Crossfading in Music</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-reasons-for-reduced-image-clarity-during-the-scanning-process-with-insights-by-yl-software-professionals/"><u>Exploring Reasons for Reduced Image Clarity During the Scanning Process with Insights by YL Software Professionals</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-boost-your-pcs-performance-with-easy-tips-learn-from-the-experts-at-yl-computing/"><u>How to Boost Your PC's Performance with Easy Tips - Learn From the Experts at YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-edge-40-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Edge 40 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-black-screen-issues/"><u>How to Fix Windows Black Screen Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-overcome-audio-issues-playing-games-and-using-discord-simultaneously/"><u>How to Overcome Audio Issues: Playing Games and Using Discord Simultaneously</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-lava-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Lava</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/protect-your-files-with-confidence-learn-how-to-backup-data-effectively-using-yl-software-solutions/"><u>Protect Your Files with Confidence: Learn How to Backup Data Effectively Using YL Software Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-13-mini-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 13 mini</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/verify-active-status-of-windows-defender-a-step-by-step-guide-tips-from-yl-computing/"><u>Verify Active Status of Windows Defender: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-captivating-crafts-trending-instagram-filters/"><u>[Updated] Captivating Crafts Trending Instagram Filters</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/achieve-superior-sound-quality-expert-tips-on-configuring-your-sound-card-for-ultimate-efficiency-using-yl-computing-solutions/"><u>Achieve Superior Sound Quality: Expert Tips on Configuring Your Sound Card for Ultimate Efficiency Using YL Computing Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-acer-predator-triton/"><u>Comprehensive Acer Predator Triton</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-netgear-nighthawk-x6-ac3200-triple-band-speed-demon-and-easy-setup/"><u>Comprehensive Guide: Netgear Nighthawk X6 AC3200 - Triple Band, Speed Demon & Easy Setup</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-guide-zipping-files-on-your-pc-with-windows-tips-from-yl-computing/"><u>Easy Guide: Zipping Files on Your PC with Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-pros-and-cons-of-googles-stadia-gaming-service/"><u>Exploring the Pros and Cons of Google's Stadia Gaming Service</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo K11 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-reno-11-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Reno 11 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a24-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A24 Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>New 2024 Approved A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/opening-docx-files-made-easy-with-yl-softwares-comprehensive-tutorial/"><u>Opening DOCX Files Made Easy with YL Software's Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solving-common-issues-a-step-by-step-guide-to-fixing-windows-program-installation-failures-tech-insights-by-yl-computing/"><u>Solving Common Issues: A Step-by-Step Guide to Fixing Windows Program Installation Failures - Tech Insights by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-guide-resolving-issues-with-your-video-card-tips-from-yl-software-experts/"><u>Troubleshooting Guide: Resolving Issues with Your Video Card - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/understanding-the-impact-of-adding-more-ram-for-optimal-system-speed-tips-from-yl-computing-professionals/"><u>Understanding the Impact of Adding More RAM for Optimal System Speed - Tips From YL Computing Professionals</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-computings-tutorial-managing-zip-archives-in-windows-operating-system/"><u>YL Computing's Tutorial: Managing Zip Archives in Windows Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2024-12-17T16:29:57.796Z
-updated: 2024-12-23T18:35:20.326Z
+date: 2024-12-26T19:22:29.686Z
+updated: 2024-12-30T00:57:22.024Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,20 +70,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-techniques-for-crafting-encouraging-personal-growth-vids/"><u>[New] 2024 Approved Techniques for Crafting Encouraging Personal Growth Vids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-all-encompassing-expense-elucidation-beginning-a-podcast/"><u>[New] All-Encompassing Expense Elucidation Beginning A Podcast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-entrance-video-analysis-review-for-2024/"><u>[New] Entrance Video Analysis Review for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-5-chromebook-screen-capture-tools-unveiled/"><u>[New] In 2024, Best 5 Chromebook Screen Capture Tools Unveiled</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-camera-roll-sharing-in-just-a-few-steps/"><u>[Updated] 2024 Approved Mastering Camera Roll Sharing in Just a Few Steps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pixelplay-review-system/"><u>[Updated] In 2024, PixelPlay Review System</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/429-a-comprehensive-user-guide/"><u>429 - A Comprehensive User Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windowscf/"><u>發現Windows上最適合自由CF卡打印機</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/5pww5o2u5ogi5asn5oml5q6177ya5yip55so5oyh5luk56ym5yplus357q6yen5bu65pah5lu255qe5lik56en5pa55rov/"><u>数据恢复手段：利用指令符号线重建文件的两种方法</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/einfach-transferieren-mit-hyper-v-vms-expertenhafte-techniken-fur-einen-nahtlosen-wechsel/"><u>Einfach Transferieren Mit Hyper-V VMs: Expertenhafte Techniken Für Einen Nahtlosen Wechsel</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-etape-par-etape-pour-recuperation-des-donnees-de-cartes-memoire-patriot/"><u>Guide Étape Par Étape Pour Récupération Des Données De Cartes Mémoire Patriot</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/installare-una-chiave-di-ripristino-windows-1011-in-ununita-usb-guida-passo-passo/"><u>Installare Una Chiave Di Ripristino Windows 10/11 in Un'unità USB - Guida Passo-Passo</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/inviolable-transfere-en-douceur-dun-disque-dur-sans-egal-avec-acronis-trueimage/"><u>Inviolable : Transféré en Douceur D'un Disque Dur Sans Égal Avec Acronis TrueImage</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-game-instability-solutions-to-ghostwire-tokyo-crashes-on-computer/"><u>Overcoming Game Instability - Solutions to Ghostwire: Tokyo Crashes on Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-gems-celebrating-the-best-music-playback-2023/"><u>[New] 2024 Approved YouTube Gems Celebrating the Best Music Playback, 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-ranked-drones-synced-seamlessly-with-gopros/"><u>[New] Top-Ranked Drones Synced Seamlessly With GoPros</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-the-new-frontier-what-makes-triller-stand-out-for-2024/"><u>[Updated] Exploring the New Frontier What Makes Triller Stand Out for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-reinvent-your-youtube-presence-a-guide-to-elevated-subscription-rates/"><u>[Updated] Reinvent Your YouTube Presence A Guide to Elevated Subscription Rates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-getting-started-with-azure-speech-to-text-service/"><u>2024 Approved Getting Started with Azure Speech-to-Text Service</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-activer-la-synchronisation-entre-un-pc-et-un-ordinateur-portable-sous-windows-11-guide-de-deux-scenarios/"><u>Comment Activer La Synchronisation Entre Un PC Et Un Ordinateur Portable Sous Windows 11 : Guide De Deux Scénarios</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-reparer-lechec-du-chiffrement-de-partition-sur-les-systemes-dexploitation-windows-guide-des-4-bonnes-pratiques-pour-w118v7/"><u>Comment Réparer L'Echec Du Chiffrement De Partition Sur Les Systèmes D'Exploitation Windows : Guide Des 4 Bonnes Pratiques Pour W11/8/V7</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-retrieving-lost-files-from-a-hard-drive-in-windows-2024/"><u>Effective Strategies for Retrieving Lost Files From a Hard Drive in Windows 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-hot-40-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Hot 40 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Phone with Broken Screen</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/soluzione-al-problema-di-avvio-non-funzionante-in-windows-10-segui-questi-passaggi-per-la-riparazione/"><u>Soluzione Al Problema Di Avvio Non Funzionante in Windows 10 - Segui Questi Passaggi per La Riparazione!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-starting-point-for-film-designers/"><u>The Starting Point for Film Designers</u></a></li>
 </ul></div>
 
