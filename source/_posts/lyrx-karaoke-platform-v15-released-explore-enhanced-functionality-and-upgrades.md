@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2024-12-26T19:22:29.686Z
-updated: 2024-12-30T00:57:22.024Z
+date: 2025-01-08T00:34:16.681Z
+updated: 2025-01-08T18:27:54.110Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,18 +70,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-gems-celebrating-the-best-music-playback-2023/"><u>[New] 2024 Approved YouTube Gems Celebrating the Best Music Playback, 2023</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-ranked-drones-synced-seamlessly-with-gopros/"><u>[New] Top-Ranked Drones Synced Seamlessly With GoPros</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exploring-the-new-frontier-what-makes-triller-stand-out-for-2024/"><u>[Updated] Exploring the New Frontier What Makes Triller Stand Out for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-reinvent-your-youtube-presence-a-guide-to-elevated-subscription-rates/"><u>[Updated] Reinvent Your YouTube Presence A Guide to Elevated Subscription Rates</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-getting-started-with-azure-speech-to-text-service/"><u>2024 Approved Getting Started with Azure Speech-to-Text Service</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-activer-la-synchronisation-entre-un-pc-et-un-ordinateur-portable-sous-windows-11-guide-de-deux-scenarios/"><u>Comment Activer La Synchronisation Entre Un PC Et Un Ordinateur Portable Sous Windows 11 : Guide De Deux Scénarios</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-reparer-lechec-du-chiffrement-de-partition-sur-les-systemes-dexploitation-windows-guide-des-4-bonnes-pratiques-pour-w118v7/"><u>Comment Réparer L'Echec Du Chiffrement De Partition Sur Les Systèmes D'Exploitation Windows : Guide Des 4 Bonnes Pratiques Pour W11/8/V7</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-retrieving-lost-files-from-a-hard-drive-in-windows-2024/"><u>Effective Strategies for Retrieving Lost Files From a Hard Drive in Windows 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-hot-40-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Hot 40 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Phone with Broken Screen</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/soluzione-al-problema-di-avvio-non-funzionante-in-windows-10-segui-questi-passaggi-per-la-riparazione/"><u>Soluzione Al Problema Di Avvio Non Funzionante in Windows 10 - Segui Questi Passaggi per La Riparazione!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-starting-point-for-film-designers/"><u>The Starting Point for Film Designers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp-for-2024/"><u>[New] Prolific Strategies for Broadcasting FB Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities/"><u>[Updated] In 2024, Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamer-soundscape-the-top-5-headset-guidebook-for-2024/"><u>[Updated] Streamer Soundscape The Top 5 Headset Guidebook for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728487068167-windows-10/"><u>如何讓 Windows 10 重新達成出廠鎖位設定 - 一步一步指引</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-glimpse-through-time-charting-the-genesis-of-machine-intelligence-advancements/"><u>A Glimpse Through Time: Charting the Genesis of Machine Intelligence Advancements</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-step-by-step-guide-to-identifying-suitable-motherboards/"><u>A Step-by-Step Guide to Identifying Suitable Motherboards</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>In 2024, Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/quick-guide-how-to-transfer-files-seamlessly-between-ssd-and-hdd-on-windows-operating-systems/"><u>Quick Guide: How to Transfer Files Seamlessly Between SSD and HDD on Windows Operating Systems</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamlessly-move-safari-favorites-to-your-latest-iphone-discover-3-hassle-free-techniques/"><u>Seamlessly Move Safari Favorites to Your Latest iPhone - Discover 3 Hassle-Free Techniques</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamlessly-upgrade-your-storage-how-to-convert-a-ghost-hard-drive-to-an-ssd-in-windows-10-with-ease/"><u>Seamlessly Upgrade Your Storage: How to Convert a Ghost Hard Drive to an SSD in Windows 10 with Ease</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/secure-your-windows-server-on-onedrive-with-these-3-effective-methods/"><u>Secure Your Windows Server on OneDrive with These 3 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-resolve-slowness-issues-of-a-windows-printer/"><u>Swiftly Resolve Slowness Issues of a Windows Printer</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728475094321-3/"><u>パソコンから消えた写真のフル復元術:上位3つのテクニック</u></a></li>
 </ul></div>
 

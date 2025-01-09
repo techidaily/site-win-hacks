@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2024-12-24T22:50:41.379Z
-updated: 2024-12-29T18:02:58.511Z
+date: 2025-01-05T02:21:08.369Z
+updated: 2025-01-09T12:00:06.735Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>[New] In 2024, The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-toptwitter-tweets-amassing-views/"><u>[New] TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-youtube-seo-strategies-for-enhanced-video-popularity/"><u>[New] Top 10 YouTube SEO Strategies for Enhanced Video Popularity</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-in-action-a-screen-recorders-journey-for-2024/"><u>[Updated] Capturing in Action A Screen Recorder's Journey for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-quick-cut-screenplay-snippet/"><u>2024 Approved Quick-Cut Screenplay Snippet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comprehensive-guide-to-ridding-your-system-of-harmful-software-by-yl-tech-experts/"><u>Comprehensive Guide to Ridding Your System of Harmful Software by YL Tech Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/easy-guide-transferring-files-and-folders-across-directories-with-yl-software-solutions/"><u>Easy Guide: Transferring Files and Folders Across Directories with YL Software Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/et-to-your-device-today/"><u>Et to Your Device Today!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/historical-analysis-the-precipitating-factors-that-sparked-the-conflict-between-china-and-japan-in-1937-explored-by-experts-at-yl-computing-yl-software/"><u>Historical Analysis: The Precipitating Factors That Sparked the Conflict Between China and Japan in 1937 – Explored by Experts at YL Computing | YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-accelerate-your-computers-performance-top-tools-and-strategies-expert-advice-from-yl-computing/"><u>How to Accelerate Your Computer's Performance: Top Tools and Strategies - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-smart-8-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Smart 8 and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/introducing-our-exciting-partnership-pcdj-supports-dream-unfinished-live-events/"><u>Introducing Our Exciting Partnership: PCDJ Supports Dream Unfinished Live Events!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/outcomes-of-the-chinese-civil-war-a-comprehensive-review-by-yl-computings-expert-team/"><u>Outcomes of the Chinese Civil War: A Comprehensive Review by YL Computing's Expert Team</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-persistent-0xf0831-issue-in-win11/"><u>Overcoming the Persistent 0XF0831 Issue in Win11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/the-right-time-for-a-digital-spring-clean-pc-maintenance-tips-from-yl-software/"><u>The Right Time for a Digital Spring Clean: PC Maintenance Tips From YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/unleash-your-inner-star-add-50-new-tracks-to-your-playlist-with-pcdjs-karaoke-cloud-pro-start-singing-now/"><u>Unleash Your Inner Star: Add 50 New Tracks to Your Playlist with PCDJ's Karaoke Cloud Pro - Start Singing Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unleashing-your-gaming-potential-with-win10-recordings-for-2024/"><u>[New] Unleashing Your Gaming Potential with Win10 Recordings for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-visual-mastery-premier-cameras-for-professional-use-for-2024/"><u>[New] Visual Mastery Premier Cameras for Professional Use for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-does-image-smoothing-streamline-the-creative-process/"><u>[Updated] 2024 Approved Does Image Smoothing Streamline the Creative Process?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-digital-whirlwind-top-30-hashes-for-video-stardom/"><u>2024 Approved Digital Whirlwind Top 30 Hashes for Video Stardom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-doctor-consults-chatgpt-pitfalls-explored/"><u>Bypassing Doctor Consults: ChatGPT Pitfalls Explored</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-your-gpu-a-step-by-step-guide-to-identifying-your-graphics-card-insights-by-yl-computing/"><u>Discover Your GPU: A Step-by-Step Guide to Identifying Your Graphics Card - Insights by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/enabling-automatic-update-functionality-in-windows-10-a-step-by-step-guide-yl-computing/"><u>Enabling Automatic Update Functionality in Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>In 2024, Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps-for-2024/"><u>New Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/simultaneous-graphics-card-usage-is-it-feasible-with-dual-gpus/"><u>Simultaneous Graphics Card Usage: Is It Feasible with Dual GPUs?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solving-network-adapter-issues-on-your-pc-a-step-by-step-guide-expert-insights-from-yl-computing/"><u>Solving Network Adapter Issues on Your PC: A Step-by-Step Guide - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s18-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S18 Pro FRP</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-techniques-for-diagnosing-and-fixing-graphics-card-problems-tips-from-yl-computing/"><u>Top Techniques for Diagnosing and Fixing Graphics Card Problems - Tips From YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/understanding-your-pcs-speed-methods-to-diagnose-and-troubleshoot-lagging-systems-by-yl-solutions/"><u>Understanding Your PC's Speed: Methods to Diagnose and Troubleshoot Lagging Systems by YL Solutions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-tutorial-step-by-step-process-for-buying-cryptocurrency-easily-and-safely/"><u>YL Software Tutorial: Step-by-Step Process for Buying Cryptocurrency Easily and Safely</u></a></li>
 </ul></div>
 

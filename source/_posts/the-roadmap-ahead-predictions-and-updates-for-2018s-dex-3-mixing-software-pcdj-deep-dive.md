@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive"
-date: 2024-12-28T18:57:34.083Z
-updated: 2024-12-29T23:49:49.454Z
+date: 2025-01-05T06:27:16.602Z
+updated: 2025-01-09T04:33:51.273Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ We’re leaving [2017 behind in our dust](https://tools.techidaily.com/pcdj/prod
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 in 2018
@@ -31,7 +31,7 @@ Throughout 2017 we’ve not only released a series of substantial upgrades to ou
 [LEARN MORE ABOUT DEX 3 AND DOWNLOAD A FREE TRIAL ![DEX 3.9.0.10 DJ software screenshot](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/dex39010_screenshot.jpg?fit=300%2C169&ssl=1 "DEX 3.9.0.10 DJ software screenhot")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the addition of the integrated [Party Tyme Karaoke subscription](https://tools.techidaily.com/pcdj/products/), not surprisingly, the requests have been pilling in for additional karaoke-specific features designed to make a karaoke hosts job easier. Notably: More rotation management, singer/song history, and other karaoke features that KJs have come to rely on with karaoke only software products such as [PCDJ Karaoki](https://tools.techidaily.com/pcdj/products/).
@@ -49,7 +49,7 @@ If you have feature requests for DEX 3 we’d love your input! Please feel free 
 **#PCDJ #MixEverything**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/dex3-2018-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleashing-creativity-in-instagram-photography-through-border-use/"><u>[New] In 2024, Unleashing Creativity in Instagram Photography Through Border Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[Updated] 2024 Approved Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-configurer-lexecution-automatique-de-taches-dans-windows-11-a-laide-de-synctoy-une-approche-simple/"><u>Comment Configurer L'exécution Automatique De Tâches Dans Windows 11 À L'aide De Synctoy: Une Approche Simple</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/die-besten-losungen-von-toshiba-fur-das-sichern-ihrer-daten-auf-externen-laufwerken-unter-windows-erfahren-sie-mehr-uber-die-top-2-optionen/"><u>Die Besten Lösungen Von Toshiba Für Das Sichern Ihrer Daten Auf Externen Laufwerken Unter Windows - Erfahren Sie Mehr Über Die Top 2 Optionen!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/engaging-audiennas-a-captivate-presentation-guide-for-2024/"><u>Engaging Audiennas A Captivate Presentation Guide for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-adjust-line-height-in-emeditor-a-comprehensive-guide/"><u>How to Adjust Line Height in EmEditor: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-laughter-labyr-writes-making-memorable-parodies/"><u>In 2024, Laughter Labyr Writes Making Memorable Parodies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/maximizing-your-viewing-experience-with-the-affordable-hisense-50h8f-4k-tv-expert-review/"><u>Maximizing Your Viewing Experience with the Affordable Hisense 50H8F 4K TV - Expert Review</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/restoring-what-was-gone-effective-techniques-for-recovering-files-after-a-windows-7-8-10-or-11-system-restore/"><u>Restoring What Was Gone: Effective Techniques for Recovering Files After a Windows 7, 8, 10 or 11 System Restore</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategic-approach-to-dealing-with-youtube-copyright-claims-for-2024/"><u>Strategic Approach to Dealing With YouTube Copyright Claims for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/g-down-the-veil-youtubes-most-elusive-videos/"><u>Taking Down the Veil YouTube's Most Elusive Videos</u></a></li>
-<li><a href="https://win-best.techidaily.com/xcopy-im-vergleich-zu-robocopy-detaillierte-funktionserklarung-und-alternativen-ansatz/"><u>XCopy Im Vergleich Zu RoboCopy: Detaillierte Funktionserklärung Und Alternativen Ansatz</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-windows-11-editing-software-showcase/"><u>[New] 2024 Approved Elite Windows 11 Editing Software Showcase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-cutting-edge-tips-for-figma-background-removal/"><u>[Updated] Cutting-Edge Tips for Figma Background Removal</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-photo-framing-best-web-and-app-solutions-for-2024/"><u>[Updated] Mastering Photo Framing Best Web and App Solutions for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>2024 Approved Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/360-hard-drive-capacity/"><u>360 Hard Drive Capacity!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beste-ansatze-zum-installieren-von-windows-11-auf-einem-ssd-ein-umfassender-leitfaden/"><u>Beste Ansätze Zum Installieren Von Windows 11 Auf Einem SSD - Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effiziente-methoden-zur-reparatur-einer-defekten-datentrageroberflache/"><u>Effiziente Methoden Zur Reparatur Einer Defekten Datenträgeroberfläche</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/essential-steps-in-picking-a-processor-a-deep-dive-into-advanced-hardware-labs-course-3-1-mastery/"><u>Essential Steps in Picking a Processor: A Deep Dive Into Advanced Hardware Labs - Course 3-1 Mastery</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-x-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone X Smoothly</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/iniciando-el-recovery-mode-en-windows-11-una-guia-completa-para-tecnicos-avanzados/"><u>Iniciando El Recovery Mode en Windows 11: Una Guía Completa Para Técnicos Avanzados</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-10-pro-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 10 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/microsoft-office-365/"><u>Microsoft Office 365 共有メールボックスの効果的なバックアップ手順</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/regler-les-problemes-dincompatibilite-avec-windows-11-installation-et-mise-a-niveau-effortless-guide/"><u>Règler Les Problèmes D'Incompatibilité Avec Windows 11 Installation Et Mise À Niveau Effortless Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/schritt-fur-schritt-anleitung-zum-einrichten-und-betriebsbeginn-von-hyper-v/"><u>Schritt-Für-Schritt Anleitung Zum Einrichten Und Betriebsbeginn Von Hyper-V</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-success-a-step-by-step-walkthrough-for-initializing-your-new-ipad-device-insights/"><u>Setting Up Success: A Step-by-Step Walkthrough for Initializing Your New iPad Device - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo A78? | Dr.fone</u></a></li>
 </ul></div>
 
