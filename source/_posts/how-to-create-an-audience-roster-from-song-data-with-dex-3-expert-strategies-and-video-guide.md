@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2025-01-05T02:21:08.369Z
-updated: 2025-01-09T12:00:06.735Z
+date: 2025-01-11T03:38:23.776Z
+updated: 2025-01-14T18:01:14.488Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,20 +48,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleashing-your-gaming-potential-with-win10-recordings-for-2024/"><u>[New] Unleashing Your Gaming Potential with Win10 Recordings for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-visual-mastery-premier-cameras-for-professional-use-for-2024/"><u>[New] Visual Mastery Premier Cameras for Professional Use for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-does-image-smoothing-streamline-the-creative-process/"><u>[Updated] 2024 Approved Does Image Smoothing Streamline the Creative Process?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-digital-whirlwind-top-30-hashes-for-video-stardom/"><u>2024 Approved Digital Whirlwind Top 30 Hashes for Video Stardom</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-doctor-consults-chatgpt-pitfalls-explored/"><u>Bypassing Doctor Consults: ChatGPT Pitfalls Explored</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-your-gpu-a-step-by-step-guide-to-identifying-your-graphics-card-insights-by-yl-computing/"><u>Discover Your GPU: A Step-by-Step Guide to Identifying Your Graphics Card - Insights by YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/enabling-automatic-update-functionality-in-windows-10-a-step-by-step-guide-yl-computing/"><u>Enabling Automatic Update Functionality in Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-boosting-bank-balance-effective-tactics-for-mobile-video-money-making/"><u>In 2024, Boosting Bank Balance Effective Tactics for Mobile Video Money-Making</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps-for-2024/"><u>New Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/simultaneous-graphics-card-usage-is-it-feasible-with-dual-gpus/"><u>Simultaneous Graphics Card Usage: Is It Feasible with Dual GPUs?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-network-adapter-issues-on-your-pc-a-step-by-step-guide-expert-insights-from-yl-computing/"><u>Solving Network Adapter Issues on Your PC: A Step-by-Step Guide - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s18-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S18 Pro FRP</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-techniques-for-diagnosing-and-fixing-graphics-card-problems-tips-from-yl-computing/"><u>Top Techniques for Diagnosing and Fixing Graphics Card Problems - Tips From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/understanding-your-pcs-speed-methods-to-diagnose-and-troubleshoot-lagging-systems-by-yl-solutions/"><u>Understanding Your PC's Speed: Methods to Diagnose and Troubleshoot Lagging Systems by YL Solutions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-software-tutorial-step-by-step-process-for-buying-cryptocurrency-easily-and-safely/"><u>YL Software Tutorial: Step-by-Step Process for Buying Cryptocurrency Easily and Safely</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fixing-the-full-screen-freeze-in-obs/"><u>[New] In 2024, Fixing the Full-Screen Freeze in OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-perfection-the-leading-ten-grid-creation-software-listed-for-2024/"><u>[New] Insta-Perfection The Leading Ten Grid Creation Software Listed for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator-wondershare-virbo/"><u>2024 Approved Video Translator | Wondershare Virbo</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/activating-sound-improvements-on-your-pc-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Activating Sound Improvements on Your PC with Windows - A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ending-chrome-notifications-on-your-pc-windows/"><u>Ending Chrome Notifications on Your PC (Windows)</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-key-factors-that-sparked-the-boxer-movements-revolutionary-zeal/"><u>Exploring Key Factors that Sparked the Boxer Movement's Revolutionary Zeal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-jscriptdll-absent-or-missing-issues-quick-solutions-for-web-developers/"><u>Fixing jScript.DLL Absent or Missing Issues: Quick Solutions for Web Developers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/best-youtube-video-editor-apps-for-android-for-2024/"><u>FREE Best YouTube Video Editor Apps for Android for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-steps-for-social-success-for-2024/"><u>From Novice to Pro Steps for Social Success for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/high-definition-kobe-bryant-memorial-wallpaper-collection-premium-quality-images-and-photo-display-officially-licensed-by-yl-software/"><u>High-Definition Kobe Bryant Memorial Wallpaper Collection - Premium Quality Images & Photo Display - Officially Licensed by YL Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-pc-to-smartphone-the-essential-guide-to-hulu-recording/"><u>In 2024, From PC to Smartphone The Essential Guide to Hulu Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>In 2024, Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-silent-speakers-solutions-for-audio-output-issues-on-your-device-guided-by-experts-at-yl-computing/"><u>Troubleshooting Silent Speakers: Solutions for Audio Output Issues on Your Device - Guided by Experts at YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/why-does-your-pcs-cpu-fan-cease-rotation-exploring-causes-with-yl-software/"><u>Why Does Your PC's CPU Fan Cease Rotation? Exploring Causes with YL Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-expertise-a-step-by-step-guide-to-windows-driver-reinstallation/"><u>YL Software Expertise: A Step-by-Step Guide to Windows Driver Reinstallation</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-softwares-ultimate-strategies-for-protecting-your-bitcoin-and-alt-coins-wallet/"><u>YL Software's Ultimate Strategies for Protecting Your Bitcoin and Alt-Coins Wallet</u></a></li>
 </ul></div>
 

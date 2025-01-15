@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2025-01-03T19:54:29.918Z
-updated: 2025-01-09T06:38:13.814Z
+date: 2025-01-13T17:09:11.591Z
+updated: 2025-01-15T05:42:50.866Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,22 +106,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-augmented-realms-blending-tech-and-entertainment/"><u>[Updated] Augmented Realms Blending Tech & Entertainment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-easy-peasy-youtube-tutorials-making-content-that-works-for-all-for-2024/"><u>[Updated] Easy-Peasy YouTube Tutorials Making Content That Works for All for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] In 2024, Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-infusing-personality-with-custom-fonts-in-ae-workflows-for-2024/"><u>[Updated] Infusing Personality with Custom Fonts in AE Workflows for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-resolving-unrecognized-hardware-issues-expert-solutions-from-yl-computings-support-team/"><u>1. Resolving Unrecognized Hardware Issues: Expert Solutions From YL Computing's Support Team</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/are-new-graphics-driver-installations-effective-for-troubleshooting-gpu-glitches-insights-by-yl-software/"><u>Are New Graphics Driver Installations Effective for Troubleshooting GPU Glitches? Insights by YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/assistant-a-line-plot-also-known-as-a-line-chart-or-line-graph-is-used-to-visualize-information-as-a-series-of-data-points-connected-by-straight-lines-its-m98/"><u>Assistant: A Line Plot, Also Known as a Line Chart or Line Graph, Is Used to Visualize Information as a Series of Data Points Connected by Straight Lines. It's Most Commonly Used for Showing Trends over Time. Therefore, the Correct Answer Is:</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/preventing-pc-overheating-a-guide-on-monitoring-your-systems-temperature-tips-from-yl-computing/"><u>Preventing PC Overheating: A Guide on Monitoring Your System's Temperature - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sequence-length-in-seconds-of-20mb-media/"><u>Sequence Length in Seconds of 20MB Media</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/sing-away-unlock-new-vocals-for-your-karaoke-journey-extensive-song-updates-available-since-april-2021/"><u>Sing Away: Unlock New Vocals for Your Karaoke Journey – Extensive Song Updates Available Since April 2021!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-sluggish-boot-problems-a-comprehensive-guide-by-yl-computings-expert-team/"><u>Solving Sluggish Boot Problems: A Comprehensive Guide by YL Computing's Expert Team</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-instructions-how-to-run-apple-maps-on-a-windows-computer/"><u>Step-by-Step Instructions: How to Run Apple Maps on a Windows Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-eliminate-stuck-images-and-prevent-burn-in-effects/"><u>Step-by-Step Solutions: Eliminate Stuck Images & Prevent Burn-In Effects</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-display-issues-essential-tips-and-solutions-by-yl-software-experts/"><u>Troubleshooting Display Issues: Essential Tips and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/understanding-graphic-card-breakdowns-expert-analysis-from-yl-computing/"><u>Understanding Graphic Card Breakdowns: Expert Analysis From YL Computing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/makes-youtube-and-dailymention-stand-out-for-2024/"><u>What Makes YouTube and DailyMention Stand Out for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harnessing-the-power-of-spotless-image-resources/"><u>[Updated] Harnessing the Power of Spotless Image Resources</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-novice-to-pro-steps-for-social-success/"><u>[Updated] In 2024, From Novice to Pro Steps for Social Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-one-voice-many-listeners-a-solo-podcast-blueprint/"><u>2024 Approved One Voice, Many Listeners A Solo Podcast Blueprint</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-superior-android-3d-film-watcher/"><u>2024 Approved Superior Android 3D Film Watcher</u></a></li>
+<li><a href="https://video-capture.techidaily.com/design-marvels-japanese-homescape-in-mc-landscape/"><u>Design Marvels Japanese Homescape in MC Landscape</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effective-file-compression-techniques-on-windows-a-guide-by-yl-computing/"><u>Effective File Compression Techniques on Windows: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/essential-considerations-for-potential-crypto-investments-expert-advice-from-yl-computing/"><u>Essential Considerations for Potential Crypto Investments – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/explore-these-6-powerful-instagram-reel-tools-for-2024/"><u>Explore These 6 Powerful Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-key-factors-that-sparked-the-boxer-movements-revolutionary-zeal/"><u>Exploring Key Factors that Sparked the Boxer Movement's Revolutionary Zeal</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-the-impact-of-hardware-faults-on-computer-system-stability-insights-from-yl-computing/"><u>Exploring the Impact of Hardware Faults on Computer System Stability - Insights From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/high-definition-kobe-bryant-memorial-wallpaper-collection-premium-quality-images-and-photo-display-officially-licensed-by-yl-software/"><u>High-Definition Kobe Bryant Memorial Wallpaper Collection - Premium Quality Images & Photo Display - Officially Licensed by YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cutting-edge-techniques-for-youtube-video-edits-via-wm-maker/"><u>In 2024, Cutting-Edge Techniques for YouTube Video Edits via WM Maker</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c110-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C110 Device</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-silent-speakers-solutions-for-audio-output-issues-on-your-device-guided-by-experts-at-yl-computing/"><u>Troubleshooting Silent Speakers: Solutions for Audio Output Issues on Your Device - Guided by Experts at YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-expertise-a-step-by-step-guide-to-windows-driver-reinstallation/"><u>YL Software Expertise: A Step-by-Step Guide to Windows Driver Reinstallation</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-softwares-tutorial-to-fix-your-pcs-gpu-issues-under-windows/"><u>YL Software's Tutorial to Fix Your PC's GPU Issues Under Windows</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-softwares-ultimate-strategies-for-protecting-your-bitcoin-and-alt-coins-wallet/"><u>YL Software's Ultimate Strategies for Protecting Your Bitcoin and Alt-Coins Wallet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2025-01-08T00:34:16.681Z
-updated: 2025-01-08T18:27:54.110Z
+date: 2025-01-12T02:42:56.931Z
+updated: 2025-01-15T02:14:01.363Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,19 +70,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp-for-2024/"><u>[New] Prolific Strategies for Broadcasting FB Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-clear-visuals-ahead-mastering-your-logitech-webcams-capabilities/"><u>[Updated] In 2024, Clear Visuals Ahead Mastering Your Logitech Webcam's Capabilities</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamer-soundscape-the-top-5-headset-guidebook-for-2024/"><u>[Updated] Streamer Soundscape The Top 5 Headset Guidebook for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728487068167-windows-10/"><u>如何讓 Windows 10 重新達成出廠鎖位設定 - 一步一步指引</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-glimpse-through-time-charting-the-genesis-of-machine-intelligence-advancements/"><u>A Glimpse Through Time: Charting the Genesis of Machine Intelligence Advancements</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-step-by-step-guide-to-identifying-suitable-motherboards/"><u>A Step-by-Step Guide to Identifying Suitable Motherboards</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>In 2024, Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/quick-guide-how-to-transfer-files-seamlessly-between-ssd-and-hdd-on-windows-operating-systems/"><u>Quick Guide: How to Transfer Files Seamlessly Between SSD and HDD on Windows Operating Systems</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamlessly-move-safari-favorites-to-your-latest-iphone-discover-3-hassle-free-techniques/"><u>Seamlessly Move Safari Favorites to Your Latest iPhone - Discover 3 Hassle-Free Techniques</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamlessly-upgrade-your-storage-how-to-convert-a-ghost-hard-drive-to-an-ssd-in-windows-10-with-ease/"><u>Seamlessly Upgrade Your Storage: How to Convert a Ghost Hard Drive to an SSD in Windows 10 with Ease</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/secure-your-windows-server-on-onedrive-with-these-3-effective-methods/"><u>Secure Your Windows Server on OneDrive with These 3 Effective Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-resolve-slowness-issues-of-a-windows-printer/"><u>Swiftly Resolve Slowness Issues of a Windows Printer</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728475094321-3/"><u>パソコンから消えた写真のフル復元術:上位3つのテクニック</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-manufacture-memorable-visuals-on-giphy/"><u>[New] 2024 Approved Manufacture Memorable Visuals on Giphy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-best-youtube-video-ideas-to-spark-inspiration-for-2024/"><u>[New] Best YouTube Video Ideas to Spark Inspiration for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-become-a-lunapic-wizard-top-editorial-techniques/"><u>[Updated] Become a LunaPic Wizard Top Editorial Techniques</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-ultimate-solutions-when-your-iphone-wont-update-via-itunes/"><u>1. Ultimate Solutions When Your iPhone Won't Update via iTunes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-accelerer-votre-ordinateur-avec-windows-11-guerisons-efficaces-pour-une-experience-plus-fluide-en-7-etapes/"><u>Comment Accélérer Votre Ordinateur Avec Windows 11 ? - Guérisons Efficaces Pour Une Expérience Plus Fluide en 7 Étapes!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convert-your-files-easily-using-microsoft-windows-insights-by-yl-software-specialists/"><u>Convert Your Files Easily Using Microsoft Windows: Insights by YL Software Specialists</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-tips-for-enhancing-performance-how-to-swap-out-the-ssd-in-your-hp-spectre-x360/"><u>Expert Tips for Enhancing Performance: How to Swap Out the SSD in Your HP Spectre X360</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-simplifying-video-merging-with-handbrake-the-ultimate-hack/"><u>Expert Tips on Simplifying Video Merging with HandBrake - The Ultimate Hack!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-the-best-of-jedi-fallen-order-expert-tips-to-prevent-pc-crashes-and-glitches/"><u>Get the Best of 'Jedi: Fallen Order': Expert Tips to Prevent PC Crashes and Glitches</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-resolve-windows-11-backup-tool-failures-effectively/"><u>How to Resolve Windows 11 Backup Tool Failures Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sound-loads-in-inshot-editing-software/"><u>In 2024, Mastering Sound Loads in InShot Editing Software</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/restore-whats-gone-forever-explore-these-7-techniques-for-recovering-deleted-files-in-windows-11/"><u>Restore What's Gone Forever? Explore These 7 Techniques for Recovering Deleted Files in Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/schritt-fur-schritt-anleitungen-zum-klonen-von-hdd-daten-auf-einen-intel-nvme-ssd/"><u>Schritt-Für-Schritt Anleitungen Zum Klonen Von HDD-Daten Auf Einen Intel NVMe SSD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-v30-lite-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo V30 Lite 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unlocking-your-usbs-secrets-a-comprehensive-tutorial-on-accessing-encrypted-file-storage/"><u>Unlocking Your USB's Secrets: A Comprehensive Tutorial on Accessing Encrypted File Storage</u></a></li>
 </ul></div>
 
