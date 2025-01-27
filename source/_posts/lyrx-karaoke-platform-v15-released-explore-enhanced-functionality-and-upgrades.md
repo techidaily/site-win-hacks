@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2025-01-18T01:59:26.928Z
-updated: 2025-01-21T02:36:49.224Z
+date: 2025-01-21T19:36:51.965Z
+updated: 2025-01-27T03:48:57.105Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,20 +70,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-flashy-flights-prime-pc-and-mobile-game-hits/"><u>[New] In 2024, Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-leading-5-high-quality-webcams-with-audio-support/"><u>[New] Leading 5 High-Quality Webcams with Audio Support</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/op-10-portable-tools-dominating-video-editing-landscape/"><u>[New] Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-overcoming-relink-not-launching-in-granblue-fantasy/"><u>Comprehensive Fixes: Overcoming 'Relink Not Launching' In Granblue Fantasy</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-your-gpu-a-step-by-step-guide-to-identifying-your-graphics-card-insights-by-yl-computing/"><u>Discover Your GPU: A Step-by-Step Guide to Identifying Your Graphics Card - Insights by YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/enabling-automatic-update-functionality-in-windows-10-a-step-by-step-guide-yl-computing/"><u>Enabling Automatic Update Functionality in Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-asus-rog-phone-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Asus ROG Phone 8 Pro Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pivotal-elements-in-designing-effective-product-praise-videos/"><u>Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solving-network-adapter-issues-on-your-pc-a-step-by-step-guide-expert-insights-from-yl-computing/"><u>Solving Network Adapter Issues on Your PC: A Step-by-Step Guide - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210359274-9781990093197-the-quest-of-rose/"><u>The Quest of Rose | Free Book</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-techniques-for-diagnosing-and-fixing-graphics-card-problems-tips-from-yl-computing/"><u>Top Techniques for Diagnosing and Fixing Graphics Card Problems - Tips From YL Computing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforma-tus-archivos-aiff-en-movimientos-gratuitos-mov-con-la-herramienta-online-de-movavi/"><u>Transforma Tus Archivos AIFF en Movimientos Gratuitos MOV Con La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/understanding-your-pcs-speed-methods-to-diagnose-and-troubleshoot-lagging-systems-by-yl-solutions/"><u>Understanding Your PC's Speed: Methods to Diagnose and Troubleshoot Lagging Systems by YL Solutions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-software-tutorial-step-by-step-process-for-buying-cryptocurrency-easily-and-safely/"><u>YL Software Tutorial: Step-by-Step Process for Buying Cryptocurrency Easily and Safely</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-amplifying-your-role-play-roblox-closeup-mastery/"><u>[New] Amplifying Your Role-Play Roblox Closeup Mastery</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscover-the-top-30-free-intro-creators-on-youtube-for-2024/"><u>[New] Discover the Top 30 Free Intro Creators on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/founders-of-the-qing-empire-unveiling-historical-figures-insights-by-yl-computing-and-tech-solutions/"><u>Founders of the Qing Empire: Unveiling Historical Figures - Insights by YL Computing & Tech Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/handling-windows-11-the-fix-for-license-near-expiry/"><u>Handling Windows 11: The Fix for 'License Near Expiry'</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-your-workspace-organizing-several-displays-in-windows-10/"><u>Optimizing Your Workspace: Organizing Several Displays in Windows 10</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/resolving-scanner-issues-quickly-expert-advice-from-yl-software-team/"><u>Resolving Scanner Issues Quickly! Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/they-act-as-a-bridge-between-sensory-neurons-which-bring-information-into-the-cns-and-motor-neurons-which-carry-commands-out-to-muscles-or-glands/"><u>They Act as a Bridge Between Sensory Neurons, Which Bring Information Into the CNS, and Motor Neurons, Which Carry Commands Out to Muscles or Glands.</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ultimate-gameplay-with-dxvk-in-windows-environment/"><u>Unlocking Ultimate Gameplay with DXVK in Windows Environment</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-explained-enabling-windows-recognition-for-your-scanning-device/"><u>YL Software Explained: Enabling Windows Recognition for Your Scanning Device</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-softwares-ultimate-ferrari-fxx-image-set-for-enthusiasts-and-collectors-alike/"><u>YL Software's Ultimate Ferrari FXX Image Set for Enthusiasts and Collectors Alike</u></a></li>
 </ul></div>
 

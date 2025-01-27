@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive"
-date: 2025-01-19T17:48:13.468Z
-updated: 2025-01-20T17:42:06.865Z
+date: 2025-01-21T09:49:14.645Z
+updated: 2025-01-27T01:56:25.741Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ We’re leaving [2017 behind in our dust](https://tools.techidaily.com/pcdj/prod
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 in 2018
@@ -31,7 +31,7 @@ Throughout 2017 we’ve not only released a series of substantial upgrades to ou
 [LEARN MORE ABOUT DEX 3 AND DOWNLOAD A FREE TRIAL ![DEX 3.9.0.10 DJ software screenshot](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/dex39010_screenshot.jpg?fit=300%2C169&ssl=1 "DEX 3.9.0.10 DJ software screenhot")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the addition of the integrated [Party Tyme Karaoke subscription](https://tools.techidaily.com/pcdj/products/), not surprisingly, the requests have been pilling in for additional karaoke-specific features designed to make a karaoke hosts job easier. Notably: More rotation management, singer/song history, and other karaoke features that KJs have come to rely on with karaoke only software products such as [PCDJ Karaoki](https://tools.techidaily.com/pcdj/products/).
@@ -49,7 +49,7 @@ If you have feature requests for DEX 3 we’d love your input! Please feel free 
 **#PCDJ #MixEverything**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,21 +71,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/dex3-2018-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-examining-youtubes-workflow-after-content-submission/"><u>[New] In 2024, Examining YouTube's Workflow After Content Submission</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-setting-up-pip-mode-on-ios-youtubes-picture-in-picture-for-2024/"><u>[New] Setting up PIP Mode on iOS YouTube's Picture-in-Picture for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-8-ultimate-free-3d-players-perfect-for-pcmac-users-out-there/"><u>2024 Approved 8 Ultimate Free 3D Players Perfect for PC/Mac Users Out There</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/activate-windows-1110-offline-file-feature-three-effective-methods/"><u>Activate Windows 11/10 Offline File Feature: Three Effective Methods</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/aomei-backupperoscpu/"><u>AOMEI Backupperソフトウェアに必要なOSとCPU要件 - 効率的バックアップ作成のためのガイド</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits-for-2024/"><u>Beyond the Buzz A Ranked Guide to Non-Vimeo Edits for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comprehensive-guide-on-retrieving-lost-data-volumes-across-windows-operating-systems-11-10-8-and-cuisine-7/"><u>Comprehensive Guide on Retrieving Lost Data Volumes Across Windows Operating Systems (11, 10, 8 & Cuisine 7)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-make-a-private-story-on-snapchat-a-complete-guide/"><u>In 2024, How to Make a Private Story on Snapchat A Complete Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/passaggio-ottimale-di-windows-nella-tua-ssd-minima-strategie-e-consigli/"><u>Passaggio Ottimale Di Windows Nella Tua SSD Minima: Strategie E Consigli</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/professionelle-strategien-zur-installation-von-windows-prise-on-ssd-erfolgreiche-tipps-und-tricks-fur-die-besten-methoden/"><u>Professionelle Strategien Zur Installation Von Windows Prise on SSD: Erfolgreiche Tipps Und Tricks Für Die Besten Methoden</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionizing-youtube-success-through-smart-title-strategy-for-2024/"><u>Revolutionizing YouTube Success Through Smart Title Strategy for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamless-transition-upgrading-from-windows/"><u>Seamless Transition: Upgrading From Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Windows 11 Memory Dump Files</u></a></li>
-<li><a href="https://driver-error.techidaily.com/this-device-cannot-start-code-10-error-solved/"><u>This Device Cannot Start Code 10 Error [Solved]</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/wie-man-musikspiele-erfolgreich-von-itunes-und-apple-music-auf-eine-disk-brennt/"><u>Wie Man Musikspiele Erfolgreich Von iTunes Und Apple Music Auf Eine Disk Brennt</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-what-everyone-should-know-about-youtube-tv-before-you-stream/"><u>[New] 2024 Approved What Everyone Should Know About YouTube TV Before You Stream</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-professional-edge-in-instagram-videos-with-green-screen-tech/"><u>[New] Professional Edge in Instagram Videos with Green Screen Tech</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-risoluzione-del-problema-disco-ignoto-non-inizializzato-trovato-su-windows-11/"><u>1. Risoluzione Del Problema: Disco Ignoto Non Inizializzato Trovato Su Windows 11</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/detecting-graphics-card-heat-issues-expert-advice-by-yl-software-professionals/"><u>Detecting Graphics Card Heat Issues: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/get-started-with-aomei-backupper-easy-installation-of-windows-adk/"><u>Get Started with AOMEI Backupper: Easy Installation of Windows ADK</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grasping-basic-motion-design-fundamentals-for-2024/"><u>Grasping Basic Motion Design Fundamentals for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guida-per-la-sincronizzazione-di-base-con-aomei-backupper-passaggi-semplici-e-istruzioni-dettagliate/"><u>Guida per La Sincronizzazione Di Base Con AOMEI Backupper: Passaggi Semplici E Istruzioni Dettagliate</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/is-it-time-to-switch-to-ios-16-comprehensive-guide/"><u>Is It Time to Switch to iOS 16? Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-turn-onoff-touch-typing-screen-options-in-microsofts-latest-os/"><u>Steps to Turn On/Off Touch Typing Screen Options in Microsoft's Latest OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-150-2023-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nokia 150 (2023) Device</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/shag-za-shagom-klonirovanie-zhestkogo-diska-na-samsung-ssd-v-operacionnyh-sistemah-windows-10-i-windows-11/"><u>Шаг За Шагом: Клонирование Жесткого Диска На Samsung SSD В Операционных Системах Windows 10 И Windows 11</u></a></li>
 </ul></div>
 

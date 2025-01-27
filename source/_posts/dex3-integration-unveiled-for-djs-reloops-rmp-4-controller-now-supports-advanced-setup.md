@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2025-01-17T00:26:18.382Z
-updated: 2025-01-21T02:49:03.981Z
+date: 2025-01-20T00:55:01.854Z
+updated: 2025-01-27T03:51:40.557Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,19 +106,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hacks.techidaily.com/y-ax-32-s/"><u> [Y = A(x - 3)^2 - S </u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-guide-to-dynamic-sports-filmmaking/"><u>[New] 2024 Approved Step-by-Step Guide to Dynamic Sports Filmmaking</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-joining-independent-iphone-videos-with-ease/"><u>[Updated] 2024 Approved Joining Independent iPhone Videos with Ease</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-creating-captivating-reels-the-role-of-background-music/"><u>2024 Approved Creating Captivating Reels The Role of Background Music</u></a></li>
-<li><a href="https://discover-great.techidaily.com/can-you-run-windows-defender-alongside-additional-antivirus-tools-insights-from-yl-computing/"><u>Can You Run Windows Defender Alongside Additional Antivirus Tools? – Insights From YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-utiliser-loutil-sfc-scannow-pour-restaurer-les-fichiers-systemes-de-windows-1011/"><u>Comment Utiliser L'Outil 'SFC /SCANNOW' Pour Restaurer Les Fichiers Systèmes De Windows 10/11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/conecte-su-unidad-local-a-google-drive-facilmente-con-estos-3-metodos-de-sincronizacion-inteligente/"><u>Conecte Su Unidad Local a Google Drive Fácilmente Con Estos 3 Métodos De Sincronización Inteligente</u></a></li>
-<li><a href="https://video-capture.techidaily.com/diverse-iptv-platforms-integration-for-2024/"><u>Diverse IPTV Platforms Integration for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guia-detallada-resolviendo-problemas-con-backups-de-windows-10-y-11/"><u>Guía Detallada: Resolviendo Problemas Con Backups De Windows 10 Y 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-manage-and-control-file-history-backup-settings-in-windows-server-2012/"><u>How to Manage and Control File History Backup Settings in Windows Server 2012</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-typical-iphone-visual-glitches-7-expert-tips/"><u>How to Troubleshoot Typical iPhone Visual Glitches – 7 Expert Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-asus-rog-phone-7-ultimate-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Asus ROG Phone 7 Ultimate and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/resolved-bitlocker-feature-now-available-on-windows-11/"><u>Resolved: BitLocker Feature Now Available on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell-for-2024/"><u>[Updated] Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726028889170-pc/"><u>「PC、モバイルデバイス用のシンプルな動画音量調整テクニック」</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728504273058-windows-11/"><u>解決方法集：如何輕松重獲 Windows 11上遺失的資料</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-tales-spun-8-divisions-of-cinematic-genres/"><u>Best Tales Spun 8 Divisions of Cinematic Genres</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/efficient-backup-workflow-organization/"><u>Efficient Backup Workflow Organization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-transform-mp4-files-into-m4a-format-discover-three-simple-methods/"><u>Effortlessly Transform MP4 Files Into M4A Format: Discover Three Simple Methods!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-driving-simulator-install-logitechs-momo-racing-wheel-on-your-desktop/"><u>Get the Latest Driving Simulator: Install Logitech's Momo Racing Wheel on Your Desktop</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-14-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 14 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-s24plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamless-guide-mastering-effortless-ssd-copying-and-imaging-in-windows-11/"><u>Seamless Guide: Mastering Effortless SSD Copying & Imaging in Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/steps-to-restore-desynchronized-microsoft-onedrive-documents/"><u>Steps to Restore Desynchronized Microsoft OneDrive Documents</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-servervdi/"><u>Windows ServerバックアップをVDI環境にリストアする詳しいガイド</u></a></li>
 </ul></div>
 

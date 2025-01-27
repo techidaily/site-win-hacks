@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2025-01-11T03:38:23.776Z
-updated: 2025-01-14T18:01:14.488Z
+date: 2025-01-20T04:34:29.836Z
+updated: 2025-01-27T10:09:28.956Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-fixing-the-full-screen-freeze-in-obs/"><u>[New] In 2024, Fixing the Full-Screen Freeze in OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-insta-perfection-the-leading-ten-grid-creation-software-listed-for-2024/"><u>[New] Insta-Perfection The Leading Ten Grid Creation Software Listed for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator-wondershare-virbo/"><u>2024 Approved Video Translator | Wondershare Virbo</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/activating-sound-improvements-on-your-pc-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Activating Sound Improvements on Your PC with Windows - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ending-chrome-notifications-on-your-pc-windows/"><u>Ending Chrome Notifications on Your PC (Windows)</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/exploring-key-factors-that-sparked-the-boxer-movements-revolutionary-zeal/"><u>Exploring Key Factors that Sparked the Boxer Movement's Revolutionary Zeal</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-jscriptdll-absent-or-missing-issues-quick-solutions-for-web-developers/"><u>Fixing jScript.DLL Absent or Missing Issues: Quick Solutions for Web Developers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/best-youtube-video-editor-apps-for-android-for-2024/"><u>FREE Best YouTube Video Editor Apps for Android for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-steps-for-social-success-for-2024/"><u>From Novice to Pro Steps for Social Success for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/high-definition-kobe-bryant-memorial-wallpaper-collection-premium-quality-images-and-photo-display-officially-licensed-by-yl-software/"><u>High-Definition Kobe Bryant Memorial Wallpaper Collection - Premium Quality Images & Photo Display - Officially Licensed by YL Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-pc-to-smartphone-the-essential-guide-to-hulu-recording/"><u>In 2024, From PC to Smartphone The Essential Guide to Hulu Recording</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>In 2024, Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-silent-speakers-solutions-for-audio-output-issues-on-your-device-guided-by-experts-at-yl-computing/"><u>Troubleshooting Silent Speakers: Solutions for Audio Output Issues on Your Device - Guided by Experts at YL Computing</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/why-does-your-pcs-cpu-fan-cease-rotation-exploring-causes-with-yl-software/"><u>Why Does Your PC's CPU Fan Cease Rotation? Exploring Causes with YL Software</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-software-expertise-a-step-by-step-guide-to-windows-driver-reinstallation/"><u>YL Software Expertise: A Step-by-Step Guide to Windows Driver Reinstallation</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-softwares-ultimate-strategies-for-protecting-your-bitcoin-and-alt-coins-wallet/"><u>YL Software's Ultimate Strategies for Protecting Your Bitcoin and Alt-Coins Wallet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] 2024 Approved The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hue-harmony-professionals-transforming-photos-for-2024/"><u>[New] Hue Harmony Professionals Transforming Photos for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiled-top-6-tools-to-purify-signature-images-online/"><u>[Updated] In 2024, Unveiled Top 6 Tools to Purify Signature Images Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-images-into-nfts-the-best-generators-listed/"><u>[Updated] Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-ultimate-solutions-when-your-iphone-wont-update-via-itunes/"><u>1. Ultimate Solutions When Your iPhone Won't Update via iTunes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-accelerer-votre-ordinateur-avec-windows-11-guerisons-efficaces-pour-une-experience-plus-fluide-en-7-etapes/"><u>Comment Accélérer Votre Ordinateur Avec Windows 11 ? - Guérisons Efficaces Pour Une Expérience Plus Fluide en 7 Étapes!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-guide-new-nvidia-drivers-in-windows/"><u>Essential Guide: New NVIDIA Drivers in Windows</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-tips-for-enhancing-performance-how-to-swap-out-the-ssd-in-your-hp-spectre-x360/"><u>Expert Tips for Enhancing Performance: How to Swap Out the SSD in Your HP Spectre X360</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-top-picks-for-free-cad-tools-and-applications/"><u>Explore Our Top Picks for Free CAD Tools and Applications</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/get-started-with-cloudbacko-your-new-solution-for-google-drive-management/"><u>Get Started with CloudBacko: Your New Solution for Google Drive Management</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-smart-7-hd-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Smart 7 HD Safely | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-resolve-windows-11-backup-tool-failures-effectively/"><u>How to Resolve Windows 11 Backup Tool Failures Effectively</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/methode-securisee-pour-la-reparation-de-cartes-sd-raw-pas-besoin-de-formatter/"><u>Méthode Sécurisée Pour La Réparation De Cartes SD RAW - Pas Besoin De Formatter</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/przeksztalc-windows-10-na-windows-11-w-przeslanke-twarda-praktyczne-wykonania-czterech-metodow/"><u>Przekształć Windows 10 Na Windows 11 W Przesłankę Twardą - Praktyczne Wykonania Czterech Metodów</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/restore-whats-gone-forever-explore-these-7-techniques-for-recovering-deleted-files-in-windows-11/"><u>Restore What's Gone Forever? Explore These 7 Techniques for Recovering Deleted Files in Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ssdwindows-10cdcd/"><u>SSD安装Windows 10指南：带CD和无CD两种启动方法</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated In 2024, Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>Updated In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
 </ul></div>
 
