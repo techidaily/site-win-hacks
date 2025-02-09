@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2025-01-20T00:55:01.854Z
-updated: 2025-01-27T03:51:40.557Z
+date: 2025-02-06T07:12:32.539Z
+updated: 2025-02-09T07:29:35.846Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,19 +106,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell-for-2024/"><u>[Updated] Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/1726028889170-pc/"><u>「PC、モバイルデバイス用のシンプルな動画音量調整テクニック」</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728504273058-windows-11/"><u>解決方法集：如何輕松重獲 Windows 11上遺失的資料</u></a></li>
-<li><a href="https://article-posts.techidaily.com/best-tales-spun-8-divisions-of-cinematic-genres/"><u>Best Tales Spun 8 Divisions of Cinematic Genres</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/efficient-backup-workflow-organization/"><u>Efficient Backup Workflow Organization</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortlessly-transform-mp4-files-into-m4a-format-discover-three-simple-methods/"><u>Effortlessly Transform MP4 Files Into M4A Format: Discover Three Simple Methods!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-driving-simulator-install-logitechs-momo-racing-wheel-on-your-desktop/"><u>Get the Latest Driving Simulator: Install Logitech's Momo Racing Wheel on Your Desktop</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-14-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 14 SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-s24plus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamless-guide-mastering-effortless-ssd-copying-and-imaging-in-windows-11/"><u>Seamless Guide: Mastering Effortless SSD Copying & Imaging in Windows 11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/steps-to-restore-desynchronized-microsoft-onedrive-documents/"><u>Steps to Restore Desynchronized Microsoft OneDrive Documents</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windows-servervdi/"><u>Windows ServerバックアップをVDI環境にリストアする詳しいガイド</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[Updated] In 2024, A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/automation-insights-robotics-employment-and-advanced-text-analysis-on-the-abbeyb-log/"><u>Automation Insights - Robotics, Employment & Advanced Text Analysis on the ABBEYB Log</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/chromebooks-and-hp-perfect-your-video-capture/"><u>Chromebooks and HP Perfect Your Video Capture</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guida-rapida-per-eseguire-il-backup-automatico-di-tutti-i-computer-in-rete/"><u>Guida Rapida per Eseguire Il Backup Automatico Di Tutti I Computer in Rete</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-shifting-paradigms-non-youtube-video-hosts/"><u>In 2024, Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/iphone-contacts-restored-fehlerbehebung-fur-verlorene-verbindungen/"><u>IPhone Contacts Restored - Fehlerbehebung Für Verlorene Verbindungen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/laugh-labs-free-comedy-creation-for-creative-souls/"><u>Laugh Labs Free Comedy Creation for Creative Souls</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamless-transfer-of-your-entire-digital-identity-top-tools-for-moving-profiles-between-computers/"><u>Seamless Transfer of Your Entire Digital Identity: Top Tools for Moving Profiles Between Computers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-retrieving-files-from-a-format-pen-drive/"><u>Step-by-Step Guide: Retrieving Files From a Format Pen Drive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-guide-your-ultimate-tech-destination/"><u>Tom's Computer Guide: Your Ultimate Tech Destination</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-rated-no-cost-software-for-effortless-external-hdd-duplication/"><u>Top Rated No-Cost Software for Effortless External HDD Duplication</u></a></li>
 </ul></div>
 
