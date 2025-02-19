@@ -1,7 +1,7 @@
 ---
 title: Download the Latest Free Karaoke Program - Public Preview v0.8.6836 on PCDJ
-date: 2025-02-06T04:56:57.246Z
-updated: 2025-02-09T02:39:04.254Z
+date: 2025-02-16T07:11:28.238Z
+updated: 2025-02-18T17:27:29.595Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We invite existing Karaoki users to update to version 0.8.6836 straight away. Ou
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.6836
@@ -52,7 +52,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about the latest iteration of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,17 +74,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/KARAOKI-betadownload.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hacks.techidaily.com/por-que-mcafee-borro-tus-archivos-y-como-puedes-solucionarlo/"><u>¿Por Qué McAfee Borró Tus Archivos? Y Cómo Puedes Solucionarlo</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-authenticity-checks-on-instagram/"><u>[New] In 2024, Mastering Authenticity Checks on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-twitch-writers-picks-5-ultimate-cams-for-gameplay-broadcasting-for-2024/"><u>[New] Twitch' Writers’ Picks 5 Ultimate Cams for Gameplay Broadcasting for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-halls-of-fame-on-reddit-celebrating-best-rated-threads/"><u>[Updated] Halls of Fame on Reddit Celebrating Best-Rated Threads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-record-your-mac-view-in-minutes/"><u>2024 Approved Record Your Mac View in Minutes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728476204932-windows-11/"><u>掌握擦除Windows 11系统所有文件的重要策略</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/can-instagrams-video-selfies-be-trusted/"><u>Can Instagram's Video Selfies Be Trusted?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-cost-effective-cloudscape-ideal-mass-archive/"><u>In 2024, Cost-Effective Cloudscape Ideal Mass Archive</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/initiate-social-media-exploration-with-a-new-twitter-for-2024/"><u>Initiate Social Media Exploration with a New Twitter for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/no-cost-file-conversion-to-wmv-with-movavis-reliable-online-service/"><u>No Cost File Conversion to WMV with Movavi's Reliable Online Service</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/schnell-wiederherstellung-ihrer-daten-nach-dem-neustart-von-windows-11-einfache-anleitung/"><u>Schnell Wiederherstellung Ihrer Daten Nach Dem Neustart Von Windows 11 - Einfache Anleitung</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/solucion-efectiva-para-restaurar-datos-extraviados-en-iphone-tecnicas-avanzadas-del-ano-2023/"><u>Solución Efectiva Para Restaurar Datos Extraviados en iPhone - Técnicas Avanzadas Del Año 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>[Updated] In 2024, Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-meet-the-system-and-hardware-needs-of-big-sur-os/"><u>2024 Approved Meet the System & Hardware Needs of Big Sur OS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speed-up-techniques-locating-deleted-reddit-posts/"><u>2024 Approved Speed-Up Techniques Locating Deleted Reddit Posts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728467325701-aomei-backupper/"><u>AOMEI Backupper サポートチームにご質問:最新ツールの使い方</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-error-xc0f1103f-on-windows-11/"><u>Mastering the Resolution of Error Xc0f1103f on Windows 11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-wondershare-virbo-online/"><u>New 2024 Approved Text To Speech | Wondershare Virbo Online</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/secure-all-your-files-with-these-essential-steps-when-using-windows-eze-10-backup-tool/"><u>Secure All Your Files with These Essential Steps When Using Windows Eze 10 Backup Tool</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-des-logiciels-de-duplication-hdd-hitachi-solutions-optimales-pour-votre-sauvegarde/"><u>Top Des Logiciels De Duplication HDD Hitachi : Solutions Optimales Pour Votre Sauvegarde</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-picks-la-mejor-herramienta-de-desbloqueo-de-bitlocker-para-windows-10-8-7-y-11/"><u>Top Picks: La Mejor Herramienta De Desbloqueo De BitLocker Para Windows 10, 8, 7 Y 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nonresponsive-fn-keys-in-dell-laptops-what-you-can-do/"><u>Troubleshooting Nonresponsive FN Keys in Dell Laptops - What You Can Do</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/vergrosserung-der-ps4-festplattenkapazitat-ohne-informationsverlust-durch-klonen/"><u>Vergrösserung Der PS4-Festplattenkapazität Ohne Informationsverlust Durch Klonen</u></a></li>
 </ul></div>
 

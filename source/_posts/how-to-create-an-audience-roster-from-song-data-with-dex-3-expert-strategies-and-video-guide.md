@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2025-01-20T04:34:29.836Z
-updated: 2025-01-27T10:09:28.956Z
+date: 2025-02-17T09:07:25.110Z
+updated: 2025-02-18T18:15:45.213Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ If you have any questions please leave them in the comments section below! Also,
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,24 +48,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] 2024 Approved The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-hue-harmony-professionals-transforming-photos-for-2024/"><u>[New] Hue Harmony Professionals Transforming Photos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unveiled-top-6-tools-to-purify-signature-images-online/"><u>[Updated] In 2024, Unveiled Top 6 Tools to Purify Signature Images Online</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-images-into-nfts-the-best-generators-listed/"><u>[Updated] Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-ultimate-solutions-when-your-iphone-wont-update-via-itunes/"><u>1. Ultimate Solutions When Your iPhone Won't Update via iTunes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-accelerer-votre-ordinateur-avec-windows-11-guerisons-efficaces-pour-une-experience-plus-fluide-en-7-etapes/"><u>Comment Accélérer Votre Ordinateur Avec Windows 11 ? - Guérisons Efficaces Pour Une Expérience Plus Fluide en 7 Étapes!</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cryptocom-executive-addresses-user-concerns-following-major-31m-security-breach-insights-from-zdnet/"><u>Crypto.com Executive Addresses User Concerns Following Major $31M Security Breach - Insights From ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/essential-guide-new-nvidia-drivers-in-windows/"><u>Essential Guide: New NVIDIA Drivers in Windows</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/expert-tips-for-enhancing-performance-how-to-swap-out-the-ssd-in-your-hp-spectre-x360/"><u>Expert Tips for Enhancing Performance: How to Swap Out the SSD in Your HP Spectre X360</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-top-picks-for-free-cad-tools-and-applications/"><u>Explore Our Top Picks for Free CAD Tools and Applications</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/get-started-with-cloudbacko-your-new-solution-for-google-drive-management/"><u>Get Started with CloudBacko: Your New Solution for Google Drive Management</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-smart-7-hd-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Smart 7 HD Safely | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-resolve-windows-11-backup-tool-failures-effectively/"><u>How to Resolve Windows 11 Backup Tool Failures Effectively</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/methode-securisee-pour-la-reparation-de-cartes-sd-raw-pas-besoin-de-formatter/"><u>Méthode Sécurisée Pour La Réparation De Cartes SD RAW - Pas Besoin De Formatter</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/przeksztalc-windows-10-na-windows-11-w-przeslanke-twarda-praktyczne-wykonania-czterech-metodow/"><u>Przekształć Windows 10 Na Windows 11 W Przesłankę Twardą - Praktyczne Wykonania Czterech Metodów</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/restore-whats-gone-forever-explore-these-7-techniques-for-recovering-deleted-files-in-windows-11/"><u>Restore What's Gone Forever? Explore These 7 Techniques for Recovering Deleted Files in Windows 11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ssdwindows-10cdcd/"><u>SSD安装Windows 10指南：带CD和无CD两种启动方法</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated In 2024, Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>Updated In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210185142-camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-obs-full-screen-glitch-resolution-dropped/"><u>[New] 2024 Approved Obs Full Screen Glitch Resolution Dropped</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>[New] Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-discover-8-trustworthy-online-content-promoters/"><u>[Updated] In 2024, Discover 8 Trustworthy Online Content Promoters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mac-screen-alignment-rapid-video-format-changes/"><u>[Updated] Mac Screen Alignment Rapid Video Format Changes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-schlanke-dateivorgange-ohne-attributkopie-unter-windows-optimieren/"><u>1. Schlanke Dateivorgänge Ohne Attributkopie Unter Windows Optimieren</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-behind-the-screen-essential-post-vidcon-gatherings/"><u>2024 Approved Behind the Screen Essential Post-VidCon Gatherings</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/best-iphone-data-retrieval-apps-for-pcmac-enthusiasts-a-comprehensive-guide/"><u>Best iPhone Data Retrieval Apps for PC/Mac Enthusiasts: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/foto-wiederherstellung-auf-einem-windows-11-pc-schritt-fur-schritt-anleitung/"><u>Foto-Wiederherstellung Auf Einem Windows 11 PC: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-complet-de-restauration-des-donnees-dans-windows-11-a-laide-dune-sauvegarde-faites-le-vous-meme/"><u>Guide Complet De Restauration Des Données Dans Windows 11 À L'aide D'une Sauvegarde : Faites-Le Vous-Même !</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-pour-transferer-des-donnees-dun-disque-dur-a-un-ssd-par-commandes/"><u>Guide Pour Transférer Des Données D'un Disque Dur À Un SSD Par COMMANDES</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-restore-files-accidentally-emptied-into-trash-bin-a-quick-3-step-guide/"><u>How To Restore Files Accidentally Emptied Into Trash Bin - A Quick 3-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 12 Pro Max How to Bypass?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-11r-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus 11R to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-app-glitches-the-ultimate-guide-with-9-proven-chatgpt-fixes/"><u>Overcome iPhone App Glitches: The Ultimate Guide with 9 Proven ChatGPT Fixes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/quick-start-guide-seamless-file-migration-between-synology-nas-and-computer-systems/"><u>Quick-Start Guide: Seamless File Migration Between Synology NAS and Computer Systems</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/restoring-lost-or-untitled-wordpad-files-a-complete-guide/"><u>Restoring Lost or Untitled WordPad Files: A Complete Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-on-recovering-graphics-cards-post-driver-updates-mytechsavvy/"><u>Step-by-Step Tutorial on Recovering Graphics Cards Post Driver Updates - MyTechSavvy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-read-receipts-on-text-messages/"><u>Unveiling the Secrets of Read Receipts on Text Messages</u></a></li>
 </ul></div>
 

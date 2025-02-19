@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive"
-date: 2025-02-02T18:02:22.815Z
-updated: 2025-02-08T22:08:16.612Z
+date: 2025-02-17T06:49:17.043Z
+updated: 2025-02-18T19:22:56.471Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ We’re leaving [2017 behind in our dust](https://tools.techidaily.com/pcdj/prod
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 in 2018
@@ -31,7 +31,7 @@ Throughout 2017 we’ve not only released a series of substantial upgrades to ou
 [LEARN MORE ABOUT DEX 3 AND DOWNLOAD A FREE TRIAL ![DEX 3.9.0.10 DJ software screenshot](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/dex39010_screenshot.jpg?fit=300%2C169&ssl=1 "DEX 3.9.0.10 DJ software screenhot")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the addition of the integrated [Party Tyme Karaoke subscription](https://tools.techidaily.com/pcdj/products/), not surprisingly, the requests have been pilling in for additional karaoke-specific features designed to make a karaoke hosts job easier. Notably: More rotation management, singer/song history, and other karaoke features that KJs have come to rely on with karaoke only software products such as [PCDJ Karaoki](https://tools.techidaily.com/pcdj/products/).
@@ -49,7 +49,7 @@ If you have feature requests for DEX 3 we’d love your input! Please feel free 
 **#PCDJ #MixEverything**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,20 +71,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/dex3-2018-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elemental-aspects-in-crafting-tales/"><u>[New] In 2024, Elemental Aspects in Crafting Tales</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dive-into-the-past-with-your-camera-roll-and-snapchat/"><u>[Updated] 2024 Approved Dive Into the Past with Your Camera Roll and Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[Updated] 2024 Approved From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-quick-steps-to-find-youtube-comment-feed/"><u>[Updated] Quick Steps to Find YouTube Comment Feed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-snicker-studio-cybernetic-cackles-for-2024/"><u>[Updated] Snicker Studio Cybernetic Cackles for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-schlanke-dateivorgange-ohne-attributkopie-unter-windows-optimieren/"><u>1. Schlanke Dateivorgänge Ohne Attributkopie Unter Windows Optimieren</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-proven-steps-to-conquer-hdr-images-in-ps/"><u>2024 Approved Proven Steps to Conquer HDR Images in PS</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/best-iphone-data-retrieval-apps-for-pcmac-enthusiasts-a-comprehensive-guide/"><u>Best iPhone Data Retrieval Apps for PC/Mac Enthusiasts: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-complet-de-restauration-des-donnees-dans-windows-11-a-laide-dune-sauvegarde-faites-le-vous-meme/"><u>Guide Complet De Restauration Des Données Dans Windows 11 À L'aide D'une Sauvegarde : Faites-Le Vous-Même !</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-pour-transferer-des-donnees-dun-disque-dur-a-un-ssd-par-commandes/"><u>Guide Pour Transférer Des Données D'un Disque Dur À Un SSD Par COMMANDES</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms-for-2024/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/restoring-lost-or-untitled-wordpad-files-a-complete-guide/"><u>Restoring Lost or Untitled WordPad Files: A Complete Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-2-methods-for-securing-your-active-directory-backups-in-windows-server-201/"><u>Top 2 Methods for Securing Your Active Directory Backups in Windows Server 201#</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-home-movie-mastery-ezvid-for-mac-makes-video-creation-a-breeze/"><u>Updated In 2024, Home Movie Mastery Ezvid for Mac Makes Video Creation a Breeze</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-game-on-securing-your-playthroughs-in-win10/"><u>[New] In 2024, Game On Securing Your Playthroughs in Win10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-channel-charisma-strategies-to-skyrocket-your-youtube-visibility/"><u>[Updated] In 2024, Channel Charisma Strategies to Skyrocket Your YouTube Visibility</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-efektywne-korzystanie-z-6-solnych-uslug-naprawczych-w-korzystanku-ze-sprzedazy-klonow-macrium-refleks-98/"><u>1. Efektywne Korzystanie Z 6 Solnych Usług Naprawczych W Korzystanku Ze Sprzedaży Klonów Macrium Refleks 9.8</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/creative-tims-exclusive-pair-of-premium-ecommerce-themes/"><u>Creative Tim's Exclusive Pair of Premium eCommerce Themes</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-creative-tims-best-3plus-astro-themes-and-customizable-design-templates-for-websites/"><u>Discover Creative Tim's Best 3+ Astro Themes and Customizable Design Templates for Websites</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-features-of-samsungs-curved-55-inch-ru73-4k-smart-tv-series-worthwhile-or-not/"><u>Evaluating the Features of Samsung's Curved 55-Inch (RU73#) 4K Smart TV Series: Worthwhile or Not?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/experience-professional-video-calling-explore-the-top-5-devices-for-2024/"><u>Experience Professional Video Calling - Explore The Top 5 Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-panasonics-hx-a1-the-wearable-action-camera-revealed/"><u>In 2024, Panasonic’s HX-A1 - The Wearable Action Camera Revealed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/investigating-financial-gains-from-product-reviews-for-2024/"><u>Investigating Financial Gains From Product Reviews for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stand-and-work-with-cubefits-terramat-a-comprehensive-evaluation/"><u>Stand and Work with CubeFit's TerraMat - A Comprehensive Evaluation</u></a></li>
 </ul></div>
 

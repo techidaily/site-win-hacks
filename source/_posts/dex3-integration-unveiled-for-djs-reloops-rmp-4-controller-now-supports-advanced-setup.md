@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2025-02-06T07:12:32.539Z
-updated: 2025-02-09T07:29:35.846Z
+date: 2025-02-16T22:46:37.197Z
+updated: 2025-02-18T23:05:48.913Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,17 +106,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[Updated] In 2024, A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-defense-the-collective-suit-against-meta-and-openais-ai/"><u>Artistic Defense: The Collective Suit Against Meta & OpenAI's AI</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/automation-insights-robotics-employment-and-advanced-text-analysis-on-the-abbeyb-log/"><u>Automation Insights - Robotics, Employment & Advanced Text Analysis on the ABBEYB Log</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/chromebooks-and-hp-perfect-your-video-capture/"><u>Chromebooks and HP Perfect Your Video Capture</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guida-rapida-per-eseguire-il-backup-automatico-di-tutti-i-computer-in-rete/"><u>Guida Rapida per Eseguire Il Backup Automatico Di Tutti I Computer in Rete</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-shifting-paradigms-non-youtube-video-hosts/"><u>In 2024, Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/iphone-contacts-restored-fehlerbehebung-fur-verlorene-verbindungen/"><u>IPhone Contacts Restored - Fehlerbehebung Für Verlorene Verbindungen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/laugh-labs-free-comedy-creation-for-creative-souls/"><u>Laugh Labs Free Comedy Creation for Creative Souls</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamless-transfer-of-your-entire-digital-identity-top-tools-for-moving-profiles-between-computers/"><u>Seamless Transfer of Your Entire Digital Identity: Top Tools for Moving Profiles Between Computers</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-guide-retrieving-files-from-a-format-pen-drive/"><u>Step-by-Step Guide: Retrieving Files From a Format Pen Drive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-guide-your-ultimate-tech-destination/"><u>Tom's Computer Guide: Your Ultimate Tech Destination</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-rated-no-cost-software-for-effortless-external-hdd-duplication/"><u>Top Rated No-Cost Software for Effortless External HDD Duplication</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-techniques-for-smooth-screen-casting/"><u>[New] 2024 Approved Expert Techniques for Smooth Screen Casting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[New] In 2024, Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unlocking-visual-potential-the-9-best-mobile-accessories-for-vloggers/"><u>[New] In 2024, Unlocking Visual Potential The 9 Best Mobile Accessories for Vloggers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728467776259-aomei-backupper/"><u>AOMEI Backupper - 変更日誌を確認する方法</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/die-beste-anleitungen-zum-einrichten-von-windows-10-auf-einer-ssd-top-2-methoden/"><u>Die Beste Anleitungen Zum Einrichten Von Windows 10 Auf Einer SSD – Top-2-Methoden</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-of-opus-audio-files-easy-steps-with-movavi/"><u>Free Online Conversion of OPUS Audio Files - Easy Steps with Movavi</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-facile-mise-a-jour-de-windows-10-sans-suppression-des-applications-cruciales/"><u>Guide Facile : Mise À Jour De Windows 10 Sans Suppression Des Applications Cruciales</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/sandiskpc/"><u>SanDiskに自動的にバックアップする最良のPCファイル移行手段</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
 </ul></div>
 

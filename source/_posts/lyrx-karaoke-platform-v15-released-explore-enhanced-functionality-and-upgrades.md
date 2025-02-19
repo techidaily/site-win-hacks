@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Platform v1.5 Released: Explore Enhanced Functionality & Upgrades"
-date: 2025-02-07T01:41:59.647Z
-updated: 2025-02-08T23:03:26.887Z
+date: 2025-02-18T00:18:57.571Z
+updated: 2025-02-19T09:04:58.339Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Fixed, and Updated in LYRX 1.5
@@ -48,7 +48,7 @@ As always, version 1.5 is a free update for exiting LYRX customers. Simply downl
 _Have questions about the latest 1.5 version of our LYRX **karaoke player**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,24 +70,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/07/lyrx15-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-camera-mastery-films-best-practices-unveiled/"><u>2024 Approved Top Camera Mastery Film's Best Practices Unveiled</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/best-no-cost-windows-system-backup-and-restore-solutions-compatible-with-win11win10win8win7/"><u>Best No-Cost Windows System Backup and Restore Solutions - Compatible with Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clarifying-nlp-and-machine-learning-distinctions/"><u>Clarifying NLP & Machine Learning Distinctions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/complete-aomei-backupper-qanda-expert-answers-and-tips-for-your-data-protection-needs/"><u>Complete AOMEI Backupper Q&A - Expert Answers and Tips for Your Data Protection Needs</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/complete-guide-restoring-deleted-files-from-windows-11-recycle-bin-even-after-emptying/"><u>Complete Guide: Restoring Deleted Files From Windows 11 Recycle Bin Even After Emptying</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-for-the-cannot-initialize-the-debugger-issue-in-cs-go/"><u>Comprehensive Fixes for the 'Cannot Initialize the Debugger' Issue in CS: GO</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/google-docs-mastery-enhance-efficiency-and-retrieve-missing-files/"><u>Google Docs Mastery: Enhance Efficiency & Retrieve Missing Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a59-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A59 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-high-quality-drones-that-accommodate-gopro-cameras/"><u>In 2024, High-Quality Drones That Accommodate GoPro Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timeless-tales-of-summer-delight-top-10-kids-movies/"><u>In 2024, Timeless Tales of Summer Delight Top 10 Kid's Movies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g24-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G24 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/optimizing-engagement-using-cards-and-annotations-for-2024/"><u>Optimizing Engagement Using Cards and Annotations for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/seamless-steps-for-cloning-a-dynamic-disk-under-windows-7/"><u>Seamless Steps for Cloning a Dynamic Disk Under Windows 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974755070-stabilized-mobile-monitor-reflections-victory/"><u>Stabilized Mobile Monitor Reflections - Victory!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-clone-ssd-software-entierement-integre-sans-risque-de-pertes-de-donnees/"><u>Top Clone SSD Software: Entièrement Intégré Sans Risque De Pertes De Données</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-12-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 12 5G Phones</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/wie-sie-ihr-system-fur-den-windows-11-upgrade-mit-dem-pc-health-check-tool-vorbereiten/"><u>Wie Sie Ihr System Für Den Windows 11-Upgrade Mit Dem PC Health Check-Tool Vorbereiten</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/wiederauffinden-verschollener-festplattendaten-entdecke-verborgene-dateien-mit-myrecover/"><u>Wiederauffinden Verschollener Festplattendaten - Entdecke Verborgene Dateien Mit MyRecover</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728509036029-outlook-5/"><u>メールがOutlookに表示されない? この5つの効果的な手順で修正</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-mastery-pioneering-techniques-for-any-marketing-stage/"><u>[New] 2024 Approved Facebook Mastery Pioneering Techniques for Any Marketing Stage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-sense-of-creative-commons-licensing-and-usage/"><u>[Updated] Making Sense of Creative Commons Licensing & Usage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-solving-youtube-pixel-monotony-a-quick-guide/"><u>2024 Approved Solving YouTube Pixel Monotony A Quick Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-the-level-of-decentralization-in-cryptocurrencies-insights-from-yl-computings-perspective/"><u>Exploring the Level of Decentralization in Cryptocurrencies: Insights From YL Computing's Perspective</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-zero-5g-2023-turbo-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Zero 5G 2023 Turbo Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/simultaneous-graphics-card-usage-is-it-feasible-with-dual-gpus/"><u>Simultaneous Graphics Card Usage: Is It Feasible with Dual GPUs?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/understanding-your-pcs-speed-methods-to-diagnose-and-troubleshoot-lagging-systems-by-yl-solutions/"><u>Understanding Your PC's Speed: Methods to Diagnose and Troubleshoot Lagging Systems by YL Solutions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-tutorial-step-by-step-process-for-buying-cryptocurrency-easily-and-safely/"><u>YL Software Tutorial: Step-by-Step Process for Buying Cryptocurrency Easily and Safely</u></a></li>
 </ul></div>
 
