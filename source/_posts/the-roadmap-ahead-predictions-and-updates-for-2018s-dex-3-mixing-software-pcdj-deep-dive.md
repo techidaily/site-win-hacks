@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive"
-date: 2025-02-17T06:49:17.043Z
-updated: 2025-02-18T19:22:56.471Z
+date: 2025-03-02T17:48:20.992Z
+updated: 2025-03-07T16:25:14.009Z
 tags:
   - product
 categories:
@@ -20,19 +20,11 @@ We’re leaving [2017 behind in our dust](https://tools.techidaily.com/pcdj/prod
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## DEX 3 in 2018
 
 Throughout 2017 we’ve not only released a series of substantial upgrades to our [best DJ software](https://tools.techidaily.com/pcdj/products/) product but have prepped our code for big things moving forward. Much of these upcoming additions are largely based on user feedback — what you, the DEX 3 DJ, wants to see included in future free updates.
 
 [LEARN MORE ABOUT DEX 3 AND DOWNLOAD A FREE TRIAL ![DEX 3.9.0.10 DJ software screenshot](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/dex39010_screenshot.jpg?fit=300%2C169&ssl=1 "DEX 3.9.0.10 DJ software screenhot")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After the addition of the integrated [Party Tyme Karaoke subscription](https://tools.techidaily.com/pcdj/products/), not surprisingly, the requests have been pilling in for additional karaoke-specific features designed to make a karaoke hosts job easier. Notably: More rotation management, singer/song history, and other karaoke features that KJs have come to rely on with karaoke only software products such as [PCDJ Karaoki](https://tools.techidaily.com/pcdj/products/).
 
@@ -47,10 +39,6 @@ There’s a lot more I simply can’t post about just yet as our competition is 
 If you have feature requests for DEX 3 we’d love your input! Please feel free to post them in the comments section below to share with us and our user community.
 
 **#PCDJ #MixEverything**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -71,17 +59,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/dex3-2018-cover.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-game-on-securing-your-playthroughs-in-win10/"><u>[New] In 2024, Game On Securing Your Playthroughs in Win10</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-channel-charisma-strategies-to-skyrocket-your-youtube-visibility/"><u>[Updated] In 2024, Channel Charisma Strategies to Skyrocket Your YouTube Visibility</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-efektywne-korzystanie-z-6-solnych-uslug-naprawczych-w-korzystanku-ze-sprzedazy-klonow-macrium-refleks-98/"><u>1. Efektywne Korzystanie Z 6 Solnych Usług Naprawczych W Korzystanku Ze Sprzedaży Klonów Macrium Refleks 9.8</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/creative-tims-exclusive-pair-of-premium-ecommerce-themes/"><u>Creative Tim's Exclusive Pair of Premium eCommerce Themes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-creative-tims-best-3plus-astro-themes-and-customizable-design-templates-for-websites/"><u>Discover Creative Tim's Best 3+ Astro Themes and Customizable Design Templates for Websites</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/discover-the-ultimate-chakra-ui-dashboard-at-no-cost-visions-expertly-crafted-user-experience/"><u>Discover the Ultimate Chakra UI Dashboard at No Cost - Vision's Expertly Crafted User Experience</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-user-authentication-with-premium-bootstrap-sign-upsign-in-widget-by-creative-tim-free/"><u>Effortless User Authentication with Premium Bootstrap Sign-up/Sign-In Widget by Creative Tim (Free)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-features-of-samsungs-curved-55-inch-ru73-4k-smart-tv-series-worthwhile-or-not/"><u>Evaluating the Features of Samsung's Curved 55-Inch (RU73#) 4K Smart TV Series: Worthwhile or Not?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/experience-professional-video-calling-explore-the-top-5-devices-for-2024/"><u>Experience Professional Video Calling - Explore The Top 5 Devices for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-panasonics-hx-a1-the-wearable-action-camera-revealed/"><u>In 2024, Panasonic’s HX-A1 - The Wearable Action Camera Revealed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/investigating-financial-gains-from-product-reviews-for-2024/"><u>Investigating Financial Gains From Product Reviews for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/stand-and-work-with-cubefits-terramat-a-comprehensive-evaluation/"><u>Stand and Work with CubeFit's TerraMat - A Comprehensive Evaluation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-lone-earbud-problem-resolution-guide/"><u>[New] Lone Earbud Problem Resolution Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-interactive-photography-sharing-immersive-360-photos-via-mobile-devices-for-2024/"><u>[Updated] Interactive Photography Sharing Immersive 360 Photos via Mobile Devices for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/8-best-drawing-apps-for-iphones/"><u>8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-elon-musks-vision-for-advanced-ai-with-truthgpt/"><u>Decoding Elon Musk's Vision for Advanced AI with TruthGPT</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-ways-to-link-your-device-to-a-network-through-the-control-panel-tips-from-yl-software-experts/"><u>Easy Ways to Link Your Device to a Network Through the Control Panel - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/experience-the-freshest-hit-singles-on-karaoke-cloud-pro-for-february-platinum-playlist-revealed/"><u>Experience the Freshest Hit Singles on Karaoke Cloud Pro for February: Platinum Playlist Revealed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-netgear-wi-fi-adapter-here/"><u>Get the Newest Drivers for Your NETGEAR Wi-Fi Adapter Here</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/identifying-frequent-audiovideo-problems-on-windows-pcs-a-guide-by-yl-computing/"><u>Identifying Frequent Audio/Video Problems on Windows PCs: A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-reality-behind-chatgpts-responses-fact-or-fiction/"><u>The Reality Behind ChatGPT's Responses: Fact or Fiction?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-xiaomi-mi-smart-band-4-unveiled-best-value-fitness-gadget-reviews-and-insights/"><u>The Xiaomi Mi Smart Band 4 Unveiled: Best Value Fitness Gadget Reviews and Insights</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-display-issues-essential-tips-and-solutions-by-yl-software-experts/"><u>Troubleshooting Display Issues: Essential Tips and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-solutions-for-mp3-music-clips-easy-copying-instructions-inside/"><u>YL Software Solutions for MP3 Music Clips - Easy Copying Instructions Inside</u></a></li>
 </ul></div>
 

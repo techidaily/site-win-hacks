@@ -1,7 +1,7 @@
 ---
 title: Comment Réaliser La Meilleure Copie De Sauvegarde Complète D'une Carte SD Sur Un PC Avec Windows ?
-date: 2025-02-14T21:58:04.355Z
-updated: 2025-02-18T21:27:34.484Z
+date: 2025-02-28T19:43:02.315Z
+updated: 2025-03-07T17:22:49.619Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b1707b9b7a9b952d48358025.jpg
@@ -45,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -89,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -100,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -113,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -124,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,22 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-top-7-video-enhancement-cameras-to-skyrocket-your-blogging/"><u>[New] In 2024, Top 7 Video Enhancement Cameras To Skyrocket Your Blogging</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ncorporating-cards-and-annotations-in-youtube-content-for-2024/"><u>[New] Incorporating Cards and Annotations in YouTube Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-converters-cornerstone-for-srt-transformations/"><u>[New] The Converter's Cornerstone for SRT Transformations</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-ultimate-guide-locate-virtual-machines-with-vcenter-using-mac-and-ip-addresses/"><u>1. Ultimate Guide: Locate Virtual Machines with vCenter Using MAC and IP Addresses</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728480072657-ssd/"><u>重要SSD程序：頂尖二選和複製詳解</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comprehensive-walkthrough-restoring-your-computer-with-a-factory-reset-in-windows-vista/"><u>Comprehensive Walkthrough: Restoring Your Computer with a Factory Reset in Windows Vista</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/datenkloonierung-vs-datensicherung-eine-vergleichsanalyse-und-umsetzungsguide/"><u>Datenkloonierung Vs. Datensicherung – Eine Vergleichsanalyse Und Umsetzungsguide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970588629-easy-methods-to-refresh-and-update-your-audio-technica-drivers-today/"><u>Easy Methods to Refresh and Update Your Audio Technica Drivers Today!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/erstellen-eines-backups-fur-ihr-ipad-anleitung-zur-ubertragung-auf-einen-externen-speicher-einschliesslich-der-nutzung-und-umgehung-von-itunes/"><u>Erstellen Eines Backups Für Ihr iPad: Anleitung Zur Übertragung Auf Einen Externen Speicher, Einschließlich Der Nutzung Und Umgehung Von iTunes</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/intels-data-relocation-application-now-fixed-say-goodbye-to-copying-errors/"><u>Intel's Data Relocation Application Now Fixed - Say Goodbye to Copying Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastery-in-making-essential-7-tricks-for-ai-success/"><u>Mastery in Making: Essential 7 Tricks for AI Success</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-of-the-curve-with-toms-hardware-reviews-and-tips/"><u>Stay Ahead of the Curve with Tom's Hardware Reviews & Tips</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/transfer-von-windows-11-auf-samsung-ssd-neuladen-ohne-installation/"><u>Transfer Von Windows 11 Auf Samsung SSD - Neuladen Ohne Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-computer-start-up-issues-solutions-included/"><u>Troubleshooting Your Computer Start-Up Issues – Solutions Included</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-guide-on-shifting-ios-files-how-to-move-your-iphones-content-to-a-laptop-or-different-iphone-model/"><u>Ultimate Guide on Shifting iOS Files: How to Move Your iPhone's Content to a Laptop or Different iPhone Model</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-modern-techniques-for-gesture-interpretation-for-2024/"><u>Unveiling Modern Techniques for Gesture Interpretation for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728482727697-windows-server-2016/"><u>Windows Server 2016用に選ばれたベストのディスクイメージ生成ツール</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-snipping-edits-imovies-size-changing-secrets/"><u>[New] In 2024, Snipping Edits IMovie’s Size-Changing Secrets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elaborate-survey-gopro-silver-sensor-hero4-testing/"><u>[Updated] 2024 Approved Elaborate Survey GoPro Silver Sensor HERO4 Testing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-formulating-fascinating-film-excerpts/"><u>[Updated] Formulating Fascinating Film Excerpts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-create-engaging-screencasts-a-practical-guide-for-2024/"><u>[Updated] How to Create Engaging Screencasts A Practical Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jokejigsaw-mememakermecca/"><u>[Updated] JokeJigsaw MemeMakerMecca</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-photoshop-power-top-10-canva-design-secrets/"><u>2024 Approved Pro Photoshop Power Top 10 Canva Design Secrets</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/5bplusr6ycf5a2m5lmg5aac5l2v5zyo6lwe5rqq5zue5ps2566x5lit5ogi5asn5bey57up6kkr5yig6zmk55qe54wn54mh5oqa5ben/"><u>快速学习如何在资源回收箱中恢复已经被删除的照片技巧</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728480817266-windows-10/"><u>修復 Windows 10 更新時丟失文件：無憂解決方法</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-recuperer-des-videos-mp4-sous-windows-guide-facile-avec-3-astuces-pour-w11w10w8w7/"><u>Comment Récupérer Des Vidéos MP4 Sous Windows - Guide Facile Avec 3 Astuces Pour W11/W10/W8/W7</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-recuperer-vos-fichiers-son-definitivement-effaces-dessus-un-appareil-android-4-solutions-simples/"><u>Comment Recuperer Vos Fichiers Son Definitivement Effaces Dessus Un Appareil Android : 4 Solutions Simples!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exciting-samsung-z-fold-4-release-get-insights-on-launch-timeline-pricing-and-device-specs/"><u>Exciting Samsung Z Fold 4 Release! Get Insights on Launch Timeline, Pricing & Device Specs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-se-2022-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone SE (2022)?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-nighttime-shots-iphone-photo-tactics/"><u>Mastering Nighttime Shots IPhone Photo Tactics</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/probleme-beim-ausstieg-von-onedrive-auf-windows-nativen-systemen-losungswege-mit-vier-strategien/"><u>Probleme Beim Ausstieg Von OneDrive Auf Windows Nativen Systemen - Lösungswege Mit Vier Strategien</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamlessly-share-files-from-your-ipad-to-a-usb-drive-no-itunes-required/"><u>Seamlessly Share Files From Your iPad to a USB Drive - No iTunes Required</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-7-backup-freezes-at-97-or-57-heres-how-to-fix-it-in-6-ways-plus-pro-tip/"><u>Windows 7 Backup Freezes at 97% or 57%? Here's How to Fix It in 6 Ways (+ Pro Tip)</u></a></li>
 </ul></div>
 

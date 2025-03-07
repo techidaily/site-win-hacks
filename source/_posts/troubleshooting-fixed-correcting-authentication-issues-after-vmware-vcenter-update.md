@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixed: Correcting Authentication Issues After VMware vCenter Update"
-date: 2025-02-15T03:57:08.121Z
-updated: 2025-02-18T19:39:45.446Z
+date: 2025-03-02T19:27:51.296Z
+updated: 2025-03-07T17:48:54.194Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e468a1fcf01b032cc2430ea00.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -31,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -93,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -133,10 +121,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
@@ -161,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,21 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-laughing-liberally-with-our-meme-toolbox/"><u>[Updated] Laughing Liberally with Our Meme Toolbox</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-airborne-warriors-meet-dji-mavic-2-and-hero5-black/"><u>2024 Approved Airborne Warriors Meet DJi Mavic 2 & HERO5 Black</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-reinitialiser-vos-programmes-et-configurations-par-defaut-sur-windows-ameliorer-la-performance-de-votre-pc/"><u>Comment Réinitialiser Vos Programmes Et Configurations Par Défaut Sur Windows Ameliorer La Performance De Votre PC ?</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-resoudre-les-erreurs-de-materiel-defectueux-et-supprimer-des-pages-endommagees-dans-windows-10/"><u>Comment Résoudre Les Erreurs De Matériel Défectueux Et Supprimer Des Pages Endommagées Dans Windows 10</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/free-incremental-vs-differential-backup-solutions-top-software-picks/"><u>Free Incremental Vs. Differential Backup Solutions: Top Software Picks</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728462156975-hddssd/"><u>HDDをSSDに容易にデータ複製手順</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-s23plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy S23+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-remedying-unsettable-windows-nvidia-configs/"><u>Strategies for Remedying Unsettable Windows Nvidia Configs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210362086-9781662415562-summer-haikai/"><u>Summer Haikai | Free Book</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/trouble-free-strategies-for-reinstating-sql-server-data-using-a-compressive-backup/"><u>Trouble-Free Strategies for Reinstating SQL Server Data Using a Compressive Backup</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-clips-to-masterpiece-a-beginners-guide-to-video-editing-in-windows/"><u>Updated 2024 Approved From Clips to Masterpiece A Beginners Guide to Video Editing in Windows</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/windowsparagon-hard-disk-manager/"><u>Windows上使用Paragon Hard Disk Manager进行快速辅助分区克隆技术指南</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/vashalshhanae-kajae-aapana-aparacata-rapa-sa-bhara-hana-ka-karanae-apana-fildara-tharaghatanagarasata-kaya/"><u>विश्लेषण कीजिए: आपने अपरिचित रूप से भारी हानि के कारण अपना फ़ोल्डर दुर्घटनाग्रस्त किया!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-flash-frame-fable-framework/"><u>2024 Approved Flash Frame Fable Framework</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-room-basics-for-newbies/"><u>2024 Approved Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-how-to-unlink-onedrive-from-your-windows-11-pcs-file-system/"><u>Complete Tutorial: How to Unlink OneDrive From Your Windows 11 PC's File System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descubre-el-proceso-de-convertir-archivos-en-imovie-tus-mejores-practicas-para-importar-peliculas/"><u>Descubre El Proceso De Convertir Archivos en iMovie: Tus Mejores Prácticas Para Importar Películas</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/die-beliebtesten-und-einfachsten-tools-fur-kostenloses-sichern-von-daten-auf-externe-speichermedien/"><u>Die Beliebtesten Und Einfachsten Tools Für Kostenloses Sichern Von Daten Auf Externe Speichermedien</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/die-top-4-wege-zum-laden-von-dell-dateien-auf-einen-anderen-computer/"><u>Die Top-4 Wege Zum Laden Von Dell-Dateien Auf Einen Anderen Computer</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/efficient-teruggaf-fotos-van-uw-sony-camera/"><u>Efficiënt Teruggaf Fotos Van Uw Sony Camera</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/emeditor-text-editor-transitioning-from-separated-values-view-with-reset-feature/"><u>EmEditor Text Editor: Transitioning From Separated Values View with 'Reset' Feature</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>In 2024, The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-essential-steps-to-thrive-in-discord-livestreaming/"><u>The Essential Steps to Thrive in Discord Livestreaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-windows-11-how-to-solve-search-functionality-issues/"><u>Troubleshooting Windows 11: How to Solve Search Functionality Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-festive-tools-gifts-for-diy-lovers-mastering-projects-with-our-top-hammer-reviews-zdnet/"><u>Ultimate Festive Tools Gifts for DIY Lovers: Mastering Projects with Our Top Hammer Reviews | ZDNET</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-guide-to-secretly-storing-texts-on-an-iphone-with-these-four-techniques/"><u>Ultimate Guide to Secretly Storing Texts on an iPhone with These Four Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Audience Roster From Song Data with DEX 3: Expert Strategies and Video Guide"
-date: 2025-02-17T09:07:25.110Z
-updated: 2025-02-18T18:15:45.213Z
+date: 2025-03-02T20:47:45.753Z
+updated: 2025-03-07T21:30:57.889Z
 tags:
   - product
 categories:
@@ -25,10 +25,6 @@ If you have any questions please leave them in the comments section below! Also,
 
 [LEARN MORE ABOUT DEX 3 DJ, VJ, KJ SOFTWARE](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2018-09-28 14:30:072018-10-02 12:55:39DEX 3 Pro Tip | Generating a User List from Singer History (Video)}
@@ -48,24 +44,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/09/singerhistoryvideo-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723210185142-camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-obs-full-screen-glitch-resolution-dropped/"><u>[New] 2024 Approved Obs Full Screen Glitch Resolution Dropped</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>[New] Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-discover-8-trustworthy-online-content-promoters/"><u>[Updated] In 2024, Discover 8 Trustworthy Online Content Promoters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mac-screen-alignment-rapid-video-format-changes/"><u>[Updated] Mac Screen Alignment Rapid Video Format Changes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1-schlanke-dateivorgange-ohne-attributkopie-unter-windows-optimieren/"><u>1. Schlanke Dateivorgänge Ohne Attributkopie Unter Windows Optimieren</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-behind-the-screen-essential-post-vidcon-gatherings/"><u>2024 Approved Behind the Screen Essential Post-VidCon Gatherings</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/best-iphone-data-retrieval-apps-for-pcmac-enthusiasts-a-comprehensive-guide/"><u>Best iPhone Data Retrieval Apps for PC/Mac Enthusiasts: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/foto-wiederherstellung-auf-einem-windows-11-pc-schritt-fur-schritt-anleitung/"><u>Foto-Wiederherstellung Auf Einem Windows 11 PC: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-complet-de-restauration-des-donnees-dans-windows-11-a-laide-dune-sauvegarde-faites-le-vous-meme/"><u>Guide Complet De Restauration Des Données Dans Windows 11 À L'aide D'une Sauvegarde : Faites-Le Vous-Même !</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-pour-transferer-des-donnees-dun-disque-dur-a-un-ssd-par-commandes/"><u>Guide Pour Transférer Des Données D'un Disque Dur À Un SSD Par COMMANDES</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-restore-files-accidentally-emptied-into-trash-bin-a-quick-3-step-guide/"><u>How To Restore Files Accidentally Emptied Into Trash Bin - A Quick 3-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-12-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 12 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-11r-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus 11R to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-app-glitches-the-ultimate-guide-with-9-proven-chatgpt-fixes/"><u>Overcome iPhone App Glitches: The Ultimate Guide with 9 Proven ChatGPT Fixes</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/quick-start-guide-seamless-file-migration-between-synology-nas-and-computer-systems/"><u>Quick-Start Guide: Seamless File Migration Between Synology NAS and Computer Systems</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/restoring-lost-or-untitled-wordpad-files-a-complete-guide/"><u>Restoring Lost or Untitled WordPad Files: A Complete Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/step-by-step-tutorial-on-recovering-graphics-cards-post-driver-updates-mytechsavvy/"><u>Step-by-Step Tutorial on Recovering Graphics Cards Post Driver Updates - MyTechSavvy</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-read-receipts-on-text-messages/"><u>Unveiling the Secrets of Read Receipts on Text Messages</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-drone-that-never-loses-you-top-10-list/"><u>[New] 2024 Approved The Drone that Never Loses You - Top 10 List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-cashflow-effective-tactics-for-monetizing-on-mobile-devices/"><u>[New] Channel Cashflow Effective Tactics for Monetizing on Mobile Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-real-time-broadcasting-step-by-step-guide/"><u>[New] Mastering Real-Time Broadcasting Step by Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/comprehensively-addressing-usbasp-issues-in-windows-variants/"><u>Comprehensively Addressing USBasp Issues in Windows Variants</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/convert-youtube-videos-to-your-iphone-with-this-free-mac-app/"><u>Convert YouTube Videos to Your iPhone with This FREE Mac App!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-vlogging-game-with-tripod-mastery/"><u>Elevate Your Vlogging Game with Tripod Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/facetune-exploration-the-ultimate-photo-editing-journey/"><u>Facetune Exploration The Ultimate Photo Editing Journey</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-tecno-pova-5-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Tecno Pova 5? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turning-on-adaptive-hdr-in-windows-11/"><u>In 2024, Turning on Adaptive HDR in Windows 11</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/in-depth-analysis-of-recuva-for-data-retrieval-is-there-an-enhanced-option-available/"><u>In-Depth Analysis of Recuva for Data Retrieval: Is There an Enhanced Option Available?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/overcoming-issues-with-apowermanager-app-guide-for-seamless-media-sync-to-ios-devices/"><u>Overcoming Issues with ApowerManager App - Guide for Seamless Media Sync to iOS Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/securisez-votre-systeme-avec-aomei-backupper-pro-and-cloud-sauvegarde-et-restauration-efficaces-pour-pcs-et-laptops/"><u>Securisez Votre Système Avec AOMEI Backupper Pro & Cloud - Sauvegarde Et Restauration Efficaces Pour PCs Et Laptops.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/the-ultimate-guide-to-removing-emphasis-markers-from-pdf-files-updated-methods/"><u>The Ultimate Guide to Removing Emphasis Markers From PDF Files – Updated Methods</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/transfer-data-efficiently-moving-files-from-pc-to-samsung-galaxy-devices/"><u>Transfer Data Efficiently: Moving Files From PC to Samsung Galaxy Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/troubleshooting-apowersoft-mobile-app-issues-unable-to-access-sms-calls-and-contact-details-on-android-devices/"><u>Troubleshooting Apowersoft Mobile App Issues: Unable to Access SMS, Calls & Contact Details on Android Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/wie-man-videos-herunterladen-die-nicht-direkt-auf-der-kamera-angezeigt-werden/"><u>Wie Man Videos Herunterladen, Die Nicht Direkt Auf Der Kamera Angezeigt Werden</u></a></li>
 </ul></div>
 

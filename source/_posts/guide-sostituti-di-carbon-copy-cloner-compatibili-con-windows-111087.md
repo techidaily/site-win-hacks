@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sostituti Di Carbon Copy Cloner Compatibili Con Windows 11/10/8/7"
-date: 2025-02-13T03:16:20.283Z
-updated: 2025-02-18T23:20:48.478Z
+date: 2025-03-02T19:46:00.684Z
+updated: 2025-03-07T17:28:22.854Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea96e97b208c8652bd209d1315.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -65,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -81,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -93,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -125,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -144,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,18 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-maximum-frame-rate-for-languid-motion-videos/"><u>[New] 2024 Approved Maximum Frame Rate for Languid Motion Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[New] In 2024, 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>[New] Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-explore-the-hidden-depths-of-canvas-photo-editor-for-2024/"><u>[Updated] Explore the Hidden Depths of Canva's Photo Editor for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-15-video-downloader-add-ons-facebook-and-firefox-compatible/"><u>[Updated] In 2024, Top 15 Video Downloader Add-Ons Facebook & FireFox Compatible</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/explore-whats-new-with-windows-11-fresh-innovations-and-updates-unveiled-digital-trends/"><u>Explore What's New with Windows 11: Fresh Innovations and Updates Unveiled | Digital Trends</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/get-ready-microsofts-security-focused-copilot-hits-general-release-on-april-1-says-zdnet/"><u>Get Ready: Microsoft's Security-Focused Copilot Hits General Release on April 1, Says ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-itel-p55-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel P55 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-note-30-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Note 30 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/revolutionizing-microsofts-platform-exclusive-windows-on-arm-apps-unveiled-industry-watchers/"><u>Revolutionizing Microsoft's Platform: Exclusive Windows on Arm Apps Unveiled | Industry Watchers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/strategies-for-harvesting-fb-status-video-archives-for-2024/"><u>Strategies for Harvesting FB Status Video Archives for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-ranking-windows-laptop-picks-in-depth-analysis-by-tech-experts-at-zdnet/"><u>Top-Ranking Windows Laptop Picks: In-Depth Analysis by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-your-screen-apoyser-amongst-top-software-competitors/"><u>[New] 2024 Approved Capturing Your Screen Apoyser Amongst Top Software Competitors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship-for-2024/"><u>[Updated] Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>2024 Approved Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/build-a-professional-mobile-ebook-featuring-lifelike-page-turning-a-comprehensive-guide-using-flipbuilder/"><u>Build a Professional Mobile eBook Featuring Lifelike Page Turning: A Comprehensive Guide Using FlipBuilder</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/build-your-own-responsive-ebook-with-authentic-flip-navigation-flipbuildercom/"><u>Build Your Own Responsive eBook with Authentic Flip Navigation [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/displaying-your-samsung-galaxy-s20-screen-on-a-tv-the-ultimate-how-to-tutorial/"><u>Displaying Your Samsung Galaxy S20 Screen on a TV - The Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-innovation-at-your-fingertips-applications-for-photo-text-adjustments-for-2024/"><u>Image Innovation at Your Fingertips Applications for Photo Text Adjustments for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-best-writing-across-the-spectrum-8-film-categories/"><u>In 2024, Best Writing Across the Spectrum 8 Film Categories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>In 2024, Phone as Webcam A Step-by-Step Guide for Mobile Video Capture</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/premium-flowbite-admin-panel-soft-ui-with-advanced-features-using-tailwind-css-by-creative-tim/"><u>Premium Flowbite Admin Panel: Soft UI with Advanced Features Using Tailwind CSS by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/pro-paper-kit-2-advanced-angular-template-with-bootstrap-4-premier-ui-kit-by-creative-tim/"><u>Pro Paper Kit 2 Advanced Angular Template with Bootstrap 4 – Premier UI Kit by Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/professional-material-admin-dashboard-exclusive-bootstrap-3-template-with-advanced-features-from-creative-tim/"><u>Professional Material Admin Dashboard – Exclusive Bootstrap 3 Template with Advanced Features From Creative Tim</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/proportional-reasoning-ensures-that-all-elements-of-a-model-maintain-their-correct-relationships-when-scaled/"><u>Proportional Reasoning Ensures that All Elements of a Model Maintain Their Correct Relationships when Scaled.</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/revolutionize-your-project-with-complimentary-black-dashboard-reactgenezio-templates-from-creative-tim/"><u>Revolutionize Your Project with Complimentary Black Dashboard React/Genezio Templates From Creative Tim</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-solution-how-to-get-and-enable-broadcom-ethernet-drivers-for-your-windows-10-pc/"><u>Step-by-Step Solution: How to Get and Enable Broadcom Ethernet Drivers for Your Windows 10 PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-note-30-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Note 30 FRP</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/ultimate-collection-of-creative-tims-top-notch-astral-premium-designs/"><u>Ultimate Collection of Creative Tim's Top-Notch Astral Premium Designs</u></a></li>
 </ul></div>
 

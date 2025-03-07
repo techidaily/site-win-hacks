@@ -1,7 +1,7 @@
 ---
 title: "DEX3 Integration Unveiled for DJs: Reloop's RMP-4 Controller Now Supports Advanced Setup"
-date: 2025-02-16T22:46:37.197Z
-updated: 2025-02-18T23:05:48.913Z
+date: 2025-03-03T20:46:10.003Z
+updated: 2025-03-07T19:25:33.294Z
 tags:
   - product
 categories:
@@ -38,19 +38,11 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Advanced Performance
 
 Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professional media player extremely well, it also has advanced performance features added to boot. Hot Cue’s, Hot Loops, Loop Rolls and Sampling are all included on this media player, with eight performance pads to hand for advanced performance. Further control is available to each mode, such as loop lengths, slip modes and quantizing, all allow for the user to concentrate on the performance rather than technical issues. A smart-link connection lets two units access a single USB port and run in perfect tempo-sync with each other. Advanced MIDI functionality also allows for the unit to control third party software (DEX 3), making this unit a fantastic and flexible option worthy of serious consideration for any booth or home DJ set-up.
 
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
 
@@ -83,10 +75,6 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Dedicated pitch bend buttons
 * Fader-start play
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-01-20 12:32:052018-10-03 15:34:54DJ Controllers | Reloop RMP-4 Is Now DEX 3 Supported}
@@ -106,14 +94,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-techniques-for-smooth-screen-casting/"><u>[New] 2024 Approved Expert Techniques for Smooth Screen Casting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[New] In 2024, Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unlocking-visual-potential-the-9-best-mobile-accessories-for-vloggers/"><u>[New] In 2024, Unlocking Visual Potential The 9 Best Mobile Accessories for Vloggers</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728467776259-aomei-backupper/"><u>AOMEI Backupper - 変更日誌を確認する方法</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/die-beste-anleitungen-zum-einrichten-von-windows-10-auf-einer-ssd-top-2-methoden/"><u>Die Beste Anleitungen Zum Einrichten Von Windows 10 Auf Einer SSD – Top-2-Methoden</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-conversion-of-opus-audio-files-easy-steps-with-movavi/"><u>Free Online Conversion of OPUS Audio Files - Easy Steps with Movavi</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/guide-facile-mise-a-jour-de-windows-10-sans-suppression-des-applications-cruciales/"><u>Guide Facile : Mise À Jour De Windows 10 Sans Suppression Des Applications Cruciales</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/sandiskpc/"><u>SanDiskに自動的にバックアップする最良のPCファイル移行手段</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/eliminar-un-mensaje-de-texto-garantiza-que-desaparezca-definitivamente/"><u>¿Eliminar Un Mensaje De Texto Garantiza Que Desaparezca Definitivamente?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-accelerated-record-functionality-and-narrator-support-for-2024/"><u>[New] Accelerated Record Functionality & Narrator Support for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram/"><u>[New] In 2024, Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-quintessential-quotes-list-for-going-viral-on-tiktok/"><u>[New] In 2024, The Quintessential Quotes List for Going Viral on TikTok</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices-for-2024/"><u>[New] Navigating Virtual Boards with Ease A Guide to Using Google Meet on Diverse Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-saving-the-best-from-fb-in-high-definition/"><u>[Updated] 2024 Approved Saving the Best From FB in High Definition</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728487068167-windows-10/"><u>如何讓 Windows 10 重新達成出廠鎖位設定 - 一步一步指引</u></a></li>
+<li><a href="https://media-tips.techidaily.com/confused-about-which-movie-or-show-to-binge-next-let-us-help-you-decide/"><u>Confused About Which Movie or Show to Binge Next? Let Us Help You Decide!</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effiziente-losung-wiederauffrischungsschritte-fur-cf-karten-verstehen-und-anwenden/"><u>Effiziente Lösung: Wiederauffrischungsschritte Für CF-Karten Verstehen Und Anwenden</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-call-handling-problems-with-your-samsung-galaxy-wearable-device/"><u>Overcoming Call Handling Problems with Your Samsung Galaxy Wearable Device</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/quick-guide-how-to-transfer-files-seamlessly-between-ssd-and-hdd-on-windows-operating-systems/"><u>Quick Guide: How to Transfer Files Seamlessly Between SSD and HDD on Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-helperdll-unavailable-errors-on-windows-computers-effectively/"><u>Resolving 'Helper.dll Unavailable' Errors on Windows Computers Effectively</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamlessly-move-safari-favorites-to-your-latest-iphone-discover-3-hassle-free-techniques/"><u>Seamlessly Move Safari Favorites to Your Latest iPhone - Discover 3 Hassle-Free Techniques</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/seamlessly-upgrade-your-storage-how-to-convert-a-ghost-hard-drive-to-an-ssd-in-windows-10-with-ease/"><u>Seamlessly Upgrade Your Storage: How to Convert a Ghost Hard Drive to an SSD in Windows 10 with Ease</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/secure-your-windows-server-on-onedrive-with-these-3-effective-methods/"><u>Secure Your Windows Server on OneDrive with These 3 Effective Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor/"><u>Ultimate Guide for Elevating Videos From Basic SDR to Breathtaking HDR Splendor</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/windows-1011recovery-disk/"><u>Windows 10/11をRecovery Diskから再生する手順</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728475094321-3/"><u>パソコンから消えた写真のフル復元術:上位3つのテクニック</u></a></li>
 </ul></div>
 

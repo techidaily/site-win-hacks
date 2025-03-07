@@ -1,7 +1,7 @@
 ---
 title: Comment Réinitialiser Vos Programmes Et Configurations Par Défaut Sur Windows Ameliorer La Performance De Votre PC ?
-date: 2025-02-11T23:27:17.039Z
-updated: 2025-02-19T07:21:46.654Z
+date: 2025-03-03T19:38:40.387Z
+updated: 2025-03-07T17:10:17.851Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac27c609d7377dead2e886b5a.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -67,10 +59,6 @@ In a word, if you want to make an image back for your computer or want to clone 
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -109,10 +97,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
@@ -122,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -158,17 +138,9 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -197,10 +169,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -245,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -279,10 +243,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -298,24 +258,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-apex-storage-wizards-best-of-android-cloud/"><u>[Updated] Apex Storage Wizards Best of Android Cloud</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-command-the-youtube-stage-mastering-visibility-through-tactics-for-2024/"><u>[Updated] Command the YouTube Stage Mastering Visibility Through Tactics for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-starting-simple-a-practical-approach-to-becoming-an-e-review-expert/"><u>[Updated] In 2024, Starting Simple A Practical Approach to Becoming an E-Review Expert</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-basics-of-visual-storytelling/"><u>2024 Approved Basics of Visual Storytelling</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/adapting-mp4-footage-easily-and-without-cost-tips-for-varied-screen-dimensions/"><u>Adapting MP4 Footage Easily and Without Cost: Tips for Varied Screen Dimensions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/beyond-microsoft-teams-and-zoom-discover-prysms-groundbreaking-lip-reading-feature-thats-shaking-up-the-video-conferencing-market/"><u>Beyond Microsoft Teams and Zoom? Discover Prysm's Groundbreaking Lip-Reading Feature That’s Shaking Up the Video Conferencing Market</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comprehensive-review-of-brydge-sp-max-plus-the-ultimate-protective-keyboard-for-surface-pro-8-insights-from-zdnet/"><u>Comprehensive Review of Brydge SP Max Plus: The Ultimate Protective Keyboard for Surface Pro 8 - Insights From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-mpg-to-mp3-converter-by-movavi-easy-and-reliable-file-format-transformation/"><u>Free Online MPG to MP3 Converter by Movavi: Easy and Reliable File Format Transformation</u></a></li>
-<li><a href="https://win11.techidaily.com/from-sealed-boxes-to-digital-realm-unlocking-windows-11-with-a-window-7-key/"><u>From Sealed Boxes to Digital Realm: Unlocking Windows 11 With a Window 7 Key</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/gardyn-smart-indoor-gardening-kit-30-review-the-ultimate-guide-for-a-thriving-home-harvest/"><u>Gardyn Smart Indoor Gardening Kit 3.0 Review: The Ultimate Guide for a Thriving Home Harvest</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-yuva-3-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Yuva 3 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/in-depth-analysis-of-the-ultra-customizable-mavix-m9-gaming-chair-an-honest-verdict-for-gamers/"><u>In-Depth Analysis of the Ultra-Customizable Mavix M9 Gaming Chair: An Honest Verdict for Gamers!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/inside-look-microsoft-leader-uncovers-potential-challenges-facing-aspiring-professionals-zdnet/"><u>Inside Look: Microsoft Leader Uncovers Potential Challenges Facing Aspiring Professionals - ZDNet</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/microsofts-recent-upgrade-a-potential-catalyst-for-ongoing-workplace-nightmares-explored-by-zdnet-experts/"><u>Microsoft's Recent Upgrade: A Potential Catalyst for Ongoing Workplace Nightmares, Explored by ZDNet Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/secure-your-microsoft-project-and-visio-professional-licenses-today-at-just-20-exclusive-offer-on-zdnet/"><u>Secure Your Microsoft Project and Visio Professional Licenses Today at Just $20 - Exclusive Offer on ZDNet!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-mighty-mini-in-detail-a-comprehensive-review-of-the-latest-apple-ipad-mini-5/"><u>The Mighty Mini in Detail: A Comprehensive Review of the Latest Apple iPad Mini 5</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/the-rise-of-siri-at-apple-signals-a-move-to-an-ai-powered-bing-equivalent-zdnet/"><u>The Rise of Siri at Apple Signals a Move to an AI-Powered Bing Equivalent | ZDNet</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-rated-ergonomic-standing-chair-and-stability-stool-options-expert-reviews-by-zdnet/"><u>Top-Rated Ergonomic Standing Chair & Stability Stool Options : Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-complete-for-avatar-pandora-chronicles-stuttering-woes-in-windows-games/"><u>Troubleshooting Complete for 'Avatar: Pandora Chronicles' Stuttering Woes in Windows Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/utting-edge-techniques-youtube-trailers-through-filmoras-lens/"><u>[New] Cutting Edge Techniques YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-culinary-cinema-mastery-the-7-pathways-to-delectable-vids/"><u>[Updated] In 2024, Culinary Cinema Mastery - The 7 Pathways to Delectable Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-productivity-skyrocketed-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How My Productivity Skyrocketed - ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adjusting-story-video-playback-rate-on-instagram-for-2024/"><u>Adjusting Story Video Playback Rate on Instagram for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dji-inspire-2-complete-evaluation/"><u>DJI Inspire 2 Complete Evaluation</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-channeling-flipbook-audience-to-visit-your-main-site-lessons-from-flipbuildercom/"><u>Effective Strategies for Channeling FlipBook Audience to Visit Your Main Site - Lessons From FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effortless-conversion-free-software-for-changing-powerpoint-presentations-into-flash-swf-files/"><u>Effortless Conversion: Free Software for Changing PowerPoint Presentations Into Flash (.swf) Files</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/expert-tips-for-not-displaying-flipbuilder-sites-in-your-ebooks-web-address/"><u>Expert Tips for Not Displaying FlipBuilder Sites in Your eBook's Web Address</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guide-to-setting-up-downloadable-ebooks-on-your-website-via-flipbuilder/"><u>Guide to Setting Up Downloadable eBooks on Your Website via FlipBuilder</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-batch-convert-your-ppt-presentations-into-digital-flipbooks-with-ease-discover-flipbuilders-powerful-feature/"><u>How to Batch Convert Your PPT Presentations Into Digital Flipbooks with Ease - Discover FlipBuilder's Powerful Feature</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-create-an-engaging-flipbook-ebook-with-images-by-using-txt-files-on-flipbuildercom/"><u>How to Create an Engaging Flipbook EBook with Images by Using TXT Files on FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-resolve-issues-with-the-download-feature-at-flipbuildercom/"><u>How to Resolve Issues with the Download Feature at FlipBuilder.com</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/incorporating-your-brands-logo-into-a-flipbook-background-with-ease/"><u>Incorporating Your Brand's Logo Into a FlipBook Background with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/innovative-two-legged-automaton-shatters-velocity-milestone-yet-lags-behind-quick-movers/"><u>Innovative Two-Legged Automaton Shatters Velocity Milestone - Yet Lags Behind Quick Movers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-hearing-aid-feature-coming-to-airpods-pro-via-ios-15plus-no-physical-upgrades-required-techzoom/"><u>New Hearing Aid Feature Coming to AirPods Pro via iOS 15+, No Physical Upgrades Required | TechZoom</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-narzo-60-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-yourself-instagram-live-basics/"><u>Unveiling Yourself Instagram Live Basics</u></a></li>
 </ul></div>
 

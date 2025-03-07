@@ -1,7 +1,7 @@
 ---
 title: AOMEI Backupper - 変更日誌を確認する方法
-date: 2025-02-16T08:03:45.786Z
-updated: 2025-02-19T07:02:31.713Z
+date: 2025-03-05T18:58:29.802Z
+updated: 2025-03-07T19:35:54.316Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc3f9580cc8d7755b3643dcab.png
@@ -18,27 +18,15 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -93,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -108,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -141,10 +121,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,18 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-tech-expertise-with-io-screen-recording/"><u>[New] In 2024, Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cone-chronicles-a-deep-dive-into-ice-cream-recording-software/"><u>[Updated] In 2024, Cone Chronicles A Deep Dive Into Ice Cream Recording Software</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comprehensive-guide-your-shorts-hidden-thumbnails/"><u>Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprerancial-strategies-to-correct-code-0x800700e1-in-windows-11/"><u>Comprerancial Strategies to Correct Code 0X800700E1 in Windows 11</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/customizing-your-protection-configuring-windows-defender-with-expert-advice-from-yl-computings-tech-blog/"><u>Customizing Your Protection: Configuring Windows Defender with Expert Advice From YL Computing's Tech Blog</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/essential-tools-and-tips-for-creating-your-own-mixes-a-guide-inspired-by-pcdj/"><u>Essential Tools and Tips for Creating Your Own Mixes: A Guide Inspired by PCDJ</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screenshot-success-a-guide-to-capturing-your-display/"><u>In 2024, Screenshot Success A Guide to Capturing Your Display</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/restoring-defaults-a-guide-to-rebooting-your-pcs-control-panel-settings-insights-by-yl-computing/"><u>Restoring Defaults: A Guide to Rebooting Your PC's Control Panel Settings - Insights by YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-garden-get-togethers-with-top-6-must-have-gadgets-insights-by-zdnet/"><u>Revolutionize Your Garden Get-Togethers with Top 6 Must-Have Gadgets, Insights by ZDnet</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/troubleshooting-sticky-keys-and-mice-expert-insights-from-yl-computings-guide-on-peripheral-malfunctions/"><u>Troubleshooting Sticky Keys & Mice: Expert Insights From YL Computing's Guide on Peripheral Malfunctions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/ultimate-tokyo-ghoul-visual-collection-hd-backgrounds-wallpapers-by-yl-software-download-now/"><u>Ultimate Tokyo Ghoul Visual Collection: HD Backgrounds, Wallpapers by YL Software – Download Now!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-online-video-reversal-services-for-2024/"><u>Updated Top-Rated Online Video Reversal Services for 2024</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-computing-guide-setting-up-your-own-crypto-wallet-with-ease/"><u>YL Computing Guide: Setting Up Your Own Crypto Wallet with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[New] Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-top-8-montage-apps-for-your-androidiphone/"><u>[New] Top 8 Montage Apps for Your Android/iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-visual-symphony-iosandroid-instagram-collage-app/"><u>[New] Visual Symphony IOS/Android Instagram Collage App</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-and-exploit-mondly-to-perfection/"><u>Explore and Exploit Mondly to Perfection</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/first-generation-cummins-highlights-visuals-images-and-backdrops-powered-by-yl-computing/"><u>First-Generation Cummins Highlights: Visuals, Images & Backdrops - Powered by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016137782-hp-notebook-trouble-heres-how-to-get-your-windows-11-audio-working-again/"><u>HP Notebook Trouble? Here's How to Get Your Windows 11 Audio Working Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-your-iphones-audio-for-phone-conversations-with-these-tips/"><u>Improve Your iPhone's Audio for Phone Conversations with These Tips</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-audio-file-management-a-comprehensive-guide-by-yl-computing/"><u>Mastering Audio File Management: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/safeguarding-your-system-against-digital-risks-with-tips-from-yl-computings-expertise/"><u>Safeguarding Your System Against Digital Risks with Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/speedy-steps-for-immediate-access-to-windows-11s-control-panel-by-digital-guru/"><u>Speedy Steps for Immediate Access to Windows 11'S Control Panel by Digital Guru</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-computings-exclusive-collection-of-gamercat-wallpapers-and-desktop-icons-enhance-your-computer-experience-with-yl-software/"><u>YL Computing's Exclusive Collection of Gamercat Wallpapers & Desktop Icons - Enhance Your Computer Experience with YL Software</u></a></li>
 </ul></div>
 
